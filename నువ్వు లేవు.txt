@@ -1,0 +1,97 @@
+[Is_MAX_MODE: MAX](MAX)
+[QUALITY: MAX](MAX)
+[REALISM: MAX](MAX)
+[REAL_INSTRUMENTS: MAX](MAX)
+
+[GENRE: "Acoustic, 1990s Telugu Cinema Melody, Raga Abheri, Carnatic Fusion"]
+
+[INSTRUMENTS: "Lush violins, Veena, Melodic Flute, Sitar, Mridangam, Soft Tabla, Blue note bends, Melismatic turns"]
+
+[STYLE: 90s South Indian Film Song, Raga Abheri, Slow-tempo]
+
+[RECORDING: Natural dynamics]
+
+[INTRO: Soulful Flute solo followed by a sweeping Violin orchestra and Veena plucking]
+
+[LYRICS]
+[MALE_START_ON: "నువ్వు లేవు.."]
+
+[INSTRUCTIONS: Strictly follow MALE, FEMALE and CHORUS boundaries]
+
+[MALE]
+నువ్వు లేవు,
+నీ నవ్వు వుంది
+నీ ఊసే  వుంది 
+నీ మాట వుంది
+నీ చూపు వుంది
+
+[INTERLUDE]
+నీ నవ్వు వుంది
+
+[FEMALE]
+వెండిగిన్నెలో పాలబువ్వ నింపినట్ట
+నగలపెట్టెలో ముత్యాలు దొర్లినట్ల
+పూలబుట్టలో మల్లె విచ్చు కొన్నట్ట
+దేవుడి గదిలో దీపం పెట్టినట్ట
+
+[CHORUS, MALE, FEMALE]
+నువ్వు లేవు,
+నీ నవ్వు వుంది
+నీ ఊసే  వుంది 
+నీ మాట వుంది
+నీ చూపు వుంది
+నీ నవ్వు వుంది, నువే లేవు. నువ్వు లేవు
+[INTERLUDE]
+
+[MALE]
+నీ ఊసే వుంది
+
+[FEMALE]
+తలలో పింఛం కట్టినట్ట, వెన్నముద్ద చేత పట్టినట్ట.
+చెంగల్వదండ మెడలో వేసి,
+బంగరుమువ్వ కాలికి కట్టినట్ట.
+
+[FEMALE]
+కొండమీది కోవెల స్తంభం గంటకొట్టినట్ట
+పుట్టతేనె తాగి పాలపిట్ట ఆడిపాడినట్ట
+వీణమీటినట్ట, కోయిలకూసినట్ట, చిలుక కులికినట్ట
+
+
+[CHORUS, MALE, FEMALE]
+నువ్వు లేవు,
+నీ నవ్వు వుంది
+నీ ఊసే  వుంది 
+నీ మాట వుంది
+నీ చూపు వుంది
+నీ నవ్వు వుంది, నువే లేవు. నువ్వు లేవు
+[INTERLUDE]
+
+
+[MALE]
+నీ చూపు వుంది 
+
+[FEMALE]
+ముందుజన్మల ఊసులన్నీ పూసగుచ్చి తెచ్చినట్ట
+కృష్ణమ్మ ఎదమీద ఎన్నెల సూత్రాలు మెరిసినట్ల
+కొండానయ్య గుడిమీద వేకువ కిరణం పరచినట్ట
+
+[CHORUS, MALE, FEMALE]
+నువ్వు లేవు,
+నీ నవ్వు వుంది
+నీ ఊసే  వుంది 
+నీ మాట వుంది
+నీ చూపు వుంది
+
+[MALE]
+మామిడి చెట్టు మొగ్గ వేసినట్ట,
+అమ్మ ఒడిలో పాప నిద్రపోయినట్ట.
+ముంగిట ముగ్గు వేసినట్ట,
+కొండపైన మబ్బువాలి నట్ట
+
+[OUTRO]
+నువ్వు లేవు,
+నీ నవ్వు వుంది
+నీ ఊసే  వుంది 
+నీ మాట వుంది
+నీ చూపు వుంది
+[END]
