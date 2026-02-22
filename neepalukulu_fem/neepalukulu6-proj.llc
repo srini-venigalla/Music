@@ -1,0 +1,16 @@
+{
+  version: 1,
+  mediaFileName: 'neepalukulu6.mp3',
+  cutSegments: [
+    {
+      start: 0,
+      end: 188.176662,
+      name: '',
+    },
+    {
+      start: 189.736694,
+      end: 194.456571,
+      name: '',
+    },
+  ],
+}

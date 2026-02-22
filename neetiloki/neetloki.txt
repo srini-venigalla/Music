@@ -1,0 +1,15 @@
+neetiloki_01.png 20.0
+neetiloki_02.png 12.0
+neetiloki_03.png 12.0
+neetiloki_04.png 12.0
+neetiloki_05.png 12.0
+neetiloki_06.png 12.0
+neetiloki_07.png 12.0
+neetiloki_08.png 12.0
+neetiloki_09.png 12.0
+neetiloki_10.png 12.0
+neetiloki_11.png 12.0
+neetiloki_12.png 12.0
+neetiloki_13.png 12.0
+neetiloki_14.png 12.0
+neetiloki_15.png 12.0

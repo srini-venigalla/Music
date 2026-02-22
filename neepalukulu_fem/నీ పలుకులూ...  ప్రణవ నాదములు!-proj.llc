@@ -1,0 +1,11 @@
+{
+  version: 1,
+  mediaFileName: 'నీ పలుకులూ...  ప్రణవ నాదములు!.mp3',
+  cutSegments: [
+    {
+      start: 77.2,
+      end: 90.89,
+      name: '',
+    },
+  ],
+}

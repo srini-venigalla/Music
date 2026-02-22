@@ -1,0 +1,24 @@
+{
+  version: 1,
+  mediaFileName: 'neep2.mp3',
+  cutSegments: [
+    {
+      start: 43.356956719817774,
+      end: 55.28,
+      name: 'Hook',
+    },
+    {
+      start: 77.452973,
+      name: '',
+    },
+    {
+      start: 46.283255,
+      end: 70.991265,
+      name: '',
+    },
+    {
+      start: 70.991265,
+      name: '',
+    },
+  ],
+}

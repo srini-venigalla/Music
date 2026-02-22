@@ -1,0 +1,26 @@
+{
+  version: 1,
+  mediaFileName: 'neep4.mp3',
+  cutSegments: [
+    {
+      start: 45.67182175562695,
+      end: 63.06839772990352,
+      name: '',
+    },
+    {
+      start: 91.1,
+      end: 109.430769,
+      name: '',
+    },
+    {
+      start: 167.473664,
+      end: 184.909585,
+      name: '',
+    },
+    {
+      start: 245.5,
+      end: 262.373251,
+      name: '',
+    },
+  ],
+}
