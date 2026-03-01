@@ -1,0 +1,11 @@
+{
+  version: 1,
+  mediaFileName: 'vellosta.mp3',
+  cutSegments: [
+    {
+      start: 20.374,
+      end: 39.803,
+      name: '',
+    },
+  ],
+}

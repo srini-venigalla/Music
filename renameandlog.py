@@ -55,7 +55,7 @@ def rename_and_log(directory_path, base_name):
 
 if __name__ == "__main__":
     parser = argparse.ArgumentParser(description="Rename MP4/PNG files and create a custom log.")
-    parser.add_argument("base_name", help="The base name used for both the files and the log file.")
+    parser.add_argument("base_name", default="base_name", help="The base name used for both the files and the log file.")
     parser.add_argument("-d", "--dir", default=".", help="Target directory (default: current)")
 
     args = parser.parse_args()

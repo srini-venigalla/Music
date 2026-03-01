@@ -1,0 +1,5 @@
+RAAGA COMPOSITION LOG
+=====================
+File: 01_Verse1.mp3 -> Used Segment 1
+File: 02_Verse2.mp3 -> Used Segment 1
+File: 03_Verse3.mp3 -> Used Segment 2

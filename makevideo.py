@@ -102,7 +102,7 @@ def generate_workflow(input_file, speed, debug, smooth):
         )
         smooth_filter = (
             f",minterpolate=fps={FPS}:mi_mode=mci"
-            if (smooth and speed < 1.0 and not is_img)
+            if (smooth and not is_img)
             else ""
         )
         v_speed = f"setpts={pts_factor}*PTS"

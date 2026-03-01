@@ -1,0 +1,27 @@
+vrastundu_001.png 4.0
+vrastundu_00.png 3.0
+vrastundu_01.png 4.0
+vrastundu_01.mp4 00:00:00 00:00:07
+vrastundu_01.png 4.0
+vrastundu04A.mp4 00:00:00 00:00:05
+vrastundu04B.mp4 00:00:00 00:00:06
+vrastundu04D.mp4 00:00:00 00:00:05
+vrastundu04C.mp4
+
+vrastundu_03A.png 5.0
+vrastundu_03B.png 1.0
+vrastundu_03B.mp4 
+
+vrastundu_05A.png 1.5
+vrastundu_05B.png 1.5
+vrastundu_05A.mp4 00:00:06 00:00:10
+vrastundu_05B.mp4
+
+vrastundu_06.mp4
+
+vrastundu_07.png 2.0
+vrastundu_07.mp4
+
+vrastundu_08.mp4
+vrastundu_09.png 2.0
+vrastundu_09.mp4
