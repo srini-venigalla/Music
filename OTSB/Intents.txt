@@ -1,0 +1,82 @@
+(Maintain Costume and Appearance of the Protogonist)
+Intent: Sight Seeining by protogonist in walkabout in the city.
+Pace: Comfortable Tourist Walking pace
+Photography Technique: Street Photography, Natural Scenery
+Facial Features: No grimacing, frowing, despair, or anger
+Smile: Required
+Physical Features: no running, no over animation, comfortable walking, paying attention to the attractions
+Costume: Maintain
+Walking Direction: Right to Left
+Subject of Gaze: Statue
+
+(Maintain Costume and Appearance of the Protogonist)
+Intent: Sight Seeining by protogonist in walkabout in the city.
+Subject: The Protogonist is looking for suitable food of his choice. Use a food court ambience
+Pace: Comfortable Tourist Walking pace
+Photography Technique: Street Photography, Natural Scenery
+Facial Features: No grimacing, frowing, despair, or anger
+Smile: Required
+Physical Features: no running, no over animation, comfortable walking, paying attention to the attractions
+Costume: Maintain
+Walking Direction: Right to Left, into the point of interest
+Point of Interest: Food
+
+(Maintain Costume and Appearance of the Protogonist)
+Intent: Sight Seeining by protogonist in walkabout in the city.
+Subject: The Protogonist meets a Chimera in the form of a beatiful lady. She seems to invite him to her place. He is confused as he is a stranger.
+Pace: Comfortable Tourist Walking pace
+Photography Technique: Street Photography, Natural Scenery
+Facial Features: No grimacing, frowing, despair, or anger
+Smile: Required
+Physical Features: no running, no over animation, comfortable walking, paying attention to the attractions
+Costume: Maintain
+Walking Direction: Right to Left, into the point of interest
+Point of Interest: Woman
+
+(Maintain Costume and Appearance of the Protogonist)
+Intent: Sight Seeining by protogonist in walkabout in the city.
+Subject: The Protogonist passes a Holi celebration in the city.
+Pace: Comfortable Tourist Walking pace
+Photography Technique: Street Photography, Natural Scenery
+Facial Features: No grimacing, frowing, despair, or anger
+Smile: Required
+Physical Features: no running, no over animation, comfortable walking, paying attention to the attractions
+Costume: Maintain
+Walking Direction: Right to Left, into the point of interest
+Point of Interest: Crowd
+
+(Maintain Costume and Appearance of the Protogonist)
+Intent: Sight Seeining by protogonist in walkabout in the city.
+Subject: The Protogonist passes the kite festival in the city.
+Pace: Comfortable Tourist Walking pace
+Photography Technique: Street Photography, Natural Scenery
+Facial Features: No grimacing, frowing, despair, or anger
+Smile: Required
+Physical Features: no running, no over animation, comfortable walking, paying attention to the attractions
+Costume: Maintain
+Walking Direction: Right to Left, into the point of interest
+Point of Interest: He buys a kite. He thinks the kite is the symbolism of his aspirations. He takes the kite to Juhu Beach. There  he meets other kite fliers, especially a girl in the given picture.
+
+(Maintain Costume and Appearance of the Protogonist)
+Intent: Sight Seeining by protogonist in walkabout in the city.
+Subject: The Protogonist enters a Juhu Street at night and finds a Street Name Stone .
+Pace: Comfortable Tourist Walking pace
+Photography Technique: Street Photography, Natural Scenery
+Facial Features: No grimacing, frowing, despair, or anger
+Smile: Required
+Physical Features: no running, no over animation, comfortable walking, paying attention to the attractions
+Costume: Maintain
+Walking Direction: Front to Back, into the point of interest
+Point of Interest: The Street Name Stone with no name
+
+(Maintain Costume and Appearance of the Protogonist)
+Intent: The protogonist tries to name an unnamed street after himself, but hesitates.
+Subject: The Protogonist enters a Juhu Street at night and finds a Street Name Stone .
+Photography Technique: Street Photography, Natural Scenery
+Facial Features: No grimacing, frowing, despair, or anger
+Smile: Required
+Physical Features: no running, no over animation, comfortable walking, paying attention to the attractions
+Costume: Maintain
+Point of Interest: The Name Stone with no name
+
+Video: he erases the name, writes it again, he repeats this three times

@@ -1,0 +1,11 @@
+{
+  version: 1,
+  mediaFileName: 'otsb2.mp3',
+  cutSegments: [
+    {
+      start: 47.978795,
+      end: 58.882244,
+      name: '',
+    },
+  ],
+}

@@ -1,0 +1,32 @@
+otsb_02.png 16.0
+otsb_03.png 16.0
+
+otsb_04.png 8.0
+otsb_ladies.mp4 00:00:09 00:00:16
+otsb_5A.mp4 00:00:02 00:00:07
+otsb_5B_169_zoom.mp4 00:00:02 00:00:09
+otsb_5C.mp4 00:00:02 00:00:07
+glitz_169_zoom.mp4 00:00:00 00:00:02
+glitz_169_zoom.mp4 00:00:04 00:00:06
+otsb_5D.mp4 00:00:02 00:00:06
+holi1.mp4 00:00:06
+Kites3.mp4 00:00:00 00:00:07.50
+Kites2.mp4 00:00:00 00:00:04.00
+Kites1.mp4
+acquaint2.mp4 00:00:02 00:00:07.50
+food.mp4
+lonely1.mp4
+chimera2.mp4 00:00:04 00:00:26
+videoframe_20425.png 3.0
+streetsign.mp4
+streetsign.mp4
+juhustreet.mp4 00:00:00 00:00:03
+streetsign3.mp4 00:00:08
+anthem1.mp4
+anthem1.mp4
+anthem2.mp4
+anthem3.mp4 00:00:00 00:00:04
+anthem5.mp4
+anthem5.mp4
+anthem6.mp4
+anthem6.mp4

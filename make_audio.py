@@ -2,18 +2,18 @@ import sys
 import os
 from pydub import AudioSegment
 
-
 def parse_time_to_ms(time_str):
     """
     Converts various timestamp formats to milliseconds.
-    Supports: HH:MM:SS.mmm, HH:MM:SS, MM:SS, etc.
+    Supports: HH:MM:SS.mmm, HH:MM:SS, MM:SS.mmm, etc.
     """
     try:
-        # Standardize decimal separator
-        time_str = time_str.replace("..", ".").replace(",", ".")
+        # Standardize decimal separator and remove trailing dots
+        time_str = time_str.replace("..", ".").replace(",", ".").rstrip('.')
 
         if "." in time_str:
             base_time, ms_part = time_str.split(".")
+            # Ensure ms is exactly 3 digits (e.g., .1 -> 100, .1234 -> 123)
             ms = int(ms_part.ljust(3, "0")[:3])
         else:
             base_time = time_str
@@ -21,7 +21,7 @@ def parse_time_to_ms(time_str):
 
         parts = list(map(int, base_time.split(":")))
 
-        if len(parts) == 3:  # HH:MM:SS
+        if len(parts) == 3:    # HH:MM:SS
             h, m, s = parts
         elif len(parts) == 2:  # MM:SS
             h, m, s = 0, parts[0], parts[1]
@@ -34,11 +34,10 @@ def parse_time_to_ms(time_str):
     except Exception:
         return None
 
-
 def process_line(line):
     """
-    Splits the line by looking for the filename first.
-    Everything after the filename is treated as a potential timestamp.
+    Improved splitting: Finds the first token ending in a known audio extension.
+    Everything after that token is a timestamp.
     """
     tokens = line.strip().split()
     if not tokens:
@@ -46,19 +45,23 @@ def process_line(line):
 
     filename = ""
     timestamps = []
+    
+    # Common audio extensions to look for
+    extensions = ('.mp3', '.wav', '.ogg', '.flac', '.m4a')
 
-    # Iterate through tokens to find where the filename ends
-    # This handles filenames with spaces by checking path existence
-    for i in range(len(tokens)):
-        potential_name = " ".join(tokens[: i + 1])
-        if os.path.exists(potential_name):
-            filename = potential_name
-            timestamps = tokens[i + 1 :]
-            # We don't 'break' here in case a shorter name is a subset of a longer one
-            # but usually, the first match or the longest match works.
-
-    # If file check failed (e.g. file missing), fallback to first token as name
-    if not filename:
+    # Find the index of the token that looks like the filename
+    file_token_index = -1
+    for i, token in enumerate(tokens):
+        if token.lower().endswith(extensions):
+            file_token_index = i
+            break
+    
+    if file_token_index != -1:
+        # Filename is everything up to and including the extension token
+        filename = " ".join(tokens[:file_token_index + 1])
+        timestamps = tokens[file_token_index + 1:]
+    else:
+        # Fallback to old logic if no extension found
         filename = tokens[0]
         timestamps = tokens[1:]
 
@@ -76,7 +79,6 @@ def process_line(line):
             end_ms = val
 
     return filename, start_ms, end_ms
-
 
 def main():
     if len(sys.argv) < 3:
@@ -104,19 +106,18 @@ def main():
             filename, start_ms, end_ms = process_line(line)
 
             if not os.path.exists(filename):
-                print(
-                    f"Line {line_num}: Warning - File '{filename}' not found. Skipping."
-                )
+                print(f"Line {line_num}: Warning - File '{filename}' not found. Skipping.")
                 continue
 
             try:
-                print(f"Loading: {filename.ljust(15)}", end=" ", flush=True)
+                print(f"Loading: {filename.ljust(20)}", end=" ", flush=True)
                 audio_segment = AudioSegment.from_mp3(filename)
+                duration = len(audio_segment)
 
                 # Slicing logic
                 if end_ms is not None:
-                    # Clamp end_ms to audio duration to avoid errors
-                    end_ms = min(end_ms, len(audio_segment))
+                    # Ensure we don't try to cut past the end of the file
+                    end_ms = min(end_ms, duration)
                     segment = audio_segment[start_ms:end_ms]
                     print(f"[{start_ms}ms -> {end_ms}ms]")
                 elif start_ms > 0:
@@ -133,14 +134,11 @@ def main():
                 print(f"\nError processing line {line_num} ({filename}): {e}")
 
     if files_processed > 0:
-        print(
-            f"\nExporting combined audio ({len(combined_audio)}ms) to '{output_file}'..."
-        )
+        print(f"\nExporting combined audio ({len(combined_audio)}ms) to '{output_file}'...")
         combined_audio.export(output_file, format="mp3")
         print("Done!")
     else:
         print("\nNo audio segments were successfully merged.")
-
 
 if __name__ == "__main__":
     main()
