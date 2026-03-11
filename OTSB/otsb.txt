@@ -1,8 +1,17 @@
-otsb_02.png 16.0
-otsb_03.png 16.0
-
-otsb_04.png 8.0
+--baganddegree3.mp4 00:00:04 00:00:07
+--baganddegree4.mp4 00:00:08
+--baganddegree3.mp4 00:00:00.5 00:00:02
+gateway_upscayl.png 1.0
+--interlude.png 16.0
+scene1.mp4 00:00:00 00:00:02
+scene1.mp4 00:00:06 00:00:08
+scene1.mp4 00:00:10 00:00:12
+scene1.mp4 00:00:18 00:00:28
+balloons.mp4
+balloons1.mp4 00:00:05 00:00:10
+chimera_balloons.mp4 00:00:00 00:00:05
 otsb_ladies.mp4 00:00:09 00:00:16
+suluvu3.mp4 00:00:02
 otsb_5A.mp4 00:00:02 00:00:07
 otsb_5B_169_zoom.mp4 00:00:02 00:00:09
 otsb_5C.mp4 00:00:02 00:00:07
@@ -16,17 +25,18 @@ Kites1.mp4
 acquaint2.mp4 00:00:02 00:00:07.50
 food.mp4
 lonely1.mp4
-chimera2.mp4 00:00:04 00:00:26
-videoframe_20425.png 3.0
+chimera2_upscale.mp4
+videoframe_20425_upscale.png 3.0
 streetsign.mp4
 streetsign.mp4
 juhustreet.mp4 00:00:00 00:00:03
 streetsign3.mp4 00:00:08
-anthem1.mp4
-anthem1.mp4
+anthem1_upscale.mp4
 anthem2.mp4
 anthem3.mp4 00:00:00 00:00:04
+anthem11.mp4
 anthem5.mp4
-anthem5.mp4
+anthem9.mp4
 anthem6.mp4
-anthem6.mp4
+anthem7.mp4
+anthem8.mp4

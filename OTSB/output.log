@@ -1,0 +1,1024 @@
+🚀 Render Pipeline | M2 Max Hardware Enabled | Filename Burn-in
+
+▶️  [PROCESSING] [1/19] running21zoom.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'running21zoom.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+    comment         : Signature: EIBQu97vOxh0+p4o1GJoFhupBCgoUuA/8LhzP7dvSqUDqo4UDrHGy0IP0UHmPimJJhwxo8SEj0gTdyiFPRpRQ+5gEetwR2dLSA04jjf//n8fzizjQI4aSDhu92SZblyHxWZGVmW6RclxSC9hbzan+rUfHYkwThJKbB/SUHltsPQ=
+  Duration: 00:00:20.75, start: 0.000000, bitrate: 2084 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 960x540, 1949 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc61.19.101 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0000.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: EIBQu97vOxh0+p4o1GJoFhupBCgoUuA/8LhzP7dvSqUDqo4UDrHGy0IP0UHmPimJJhwxo8SEj0gTdyiFPRpRQ+5gEetwR2dLSA04jjf//n8fzizjQI4aSDhu92SZblyHxWZGVmW6RclxSC9hbzan+rUfHYkwThJKbB/SUHltsPQ=
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0xbc943d180] Color range not set for yuv420p. Using MPEG range.
+frame=   67 fps=0.0 q=-0.0 size=    3584KiB time=00:00:02.75 bitrate=10676.4kbits/s speed=5.45x elapsed=0:00:00.50    
+frame=  170 fps=168 q=-0.0 size=    9216KiB time=00:00:07.04 bitrate=10721.5kbits/s speed=6.97x elapsed=0:00:01.01    
+frame=  274 fps=181 q=-0.0 size=   14848KiB time=00:00:11.37 bitrate=10693.2kbits/s speed=7.51x elapsed=0:00:01.51    
+frame=  378 fps=187 q=-0.0 size=   20480KiB time=00:00:15.70 bitrate=10680.5kbits/s speed=7.78x elapsed=0:00:02.02    
+frame=  481 fps=190 q=-0.0 size=   26112KiB time=N/A bitrate=N/A speed=N/A elapsed=0:00:02.52    
+[out#0/mpegts @ 0xbc9440300] video:25471KiB audio:969KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.751630%
+frame=  498 fps=191 q=-0.0 Lsize=   27167KiB time=00:00:20.64 bitrate=10778.5kbits/s speed=7.93x elapsed=0:00:02.60    
+
+▶️  [PROCESSING] [2/19] balloons1.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'balloons1.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.76.100
+    comment         : Signature: EMWBodR8ggoV8e+f3Oydx8+Ns3NW3EuR0BLAdSomBycvQNFbws5d9uSzjnJ3/g8EKv57lxQrO0Nd9vkM5ex3/m+nKM/1PWicQwlfDxdw9UOYy7e0up30SUP9zz+/F5xIJNntcsE7bgtW92KcCucYMCYtPYcnKS2GeHaYDpYdOk0Ld0qYOO7DzgKfud1MxubB
+  Duration: 00:00:10.04, start: 0.000000, bitrate: 4172 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 4036 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0001.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: EMWBodR8ggoV8e+f3Oydx8+Ns3NW3EuR0BLAdSomBycvQNFbws5d9uSzjnJ3/g8EKv57lxQrO0Nd9vkM5ex3/m+nKM/1PWicQwlfDxdw9UOYy7e0up30SUP9zz+/F5xIJNntcsE7bgtW92KcCucYMCYtPYcnKS2GeHaYDpYdOk0Ld0qYOO7DzgKfud1MxubB
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0x912c9d180] Color range not set for yuv420p. Using MPEG range.
+frame=   67 fps=0.0 q=-0.0 size=    3584KiB time=00:00:02.75 bitrate=10676.4kbits/s speed=5.46x elapsed=0:00:00.50    
+frame=  170 fps=169 q=-0.0 size=    9216KiB time=00:00:07.04 bitrate=10721.5kbits/s speed=7.01x elapsed=0:00:01.00    
+[out#0/mpegts @ 0x912ca0300] video:12387KiB audio:470KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.745615%
+frame=  241 fps=179 q=-0.0 Lsize=   13210KiB time=00:00:10.00 bitrate=10821.6kbits/s speed=7.41x elapsed=0:00:01.34    
+
+▶️  [PROCESSING] [3/19] otsb_ladies.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x869410000] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'otsb_ladies.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.76.100
+    comment         : Signature: JOVQR3qqUpneev7c5P373LwL/n8eE4lE+HkuN8nnf6vYN9UXaJ2aVoZxkbr9L81DdMK1F+o6Uy/xmZONbzq4s9d1JelC4r7gFYNcr94cqeZp8TjEPXBXodzp8rjOLswQbQTbFc3mZMFVIuDT5LucAZeWUdzWNBcvtvirRKwWyIE=
+  Duration: 00:00:16.21, start: 0.000000, bitrate: 4515 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 4292 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 127 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:2[0x0]: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1280x720 [SAR 1:1 DAR 16:9], 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0002.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: JOVQR3qqUpneev7c5P373LwL/n8eE4lE+HkuN8nnf6vYN9UXaJ2aVoZxkbr9L81DdMK1F+o6Uy/xmZONbzq4s9d1JelC4r7gFYNcr94cqeZp8TjEPXBXodzp8rjOLswQbQTbFc3mZMFVIuDT5LucAZeWUdzWNBcvtvirRKwWyIE=
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0x869439880] Color range not set for yuv420p. Using MPEG range.
+frame=   68 fps=0.0 q=-0.0 size=    3584KiB time=00:00:02.79 bitrate=10517.1kbits/s speed=5.53x elapsed=0:00:00.50    
+frame=  172 fps=170 q=-0.0 size=    9472KiB time=00:00:07.12 bitrate=10890.5kbits/s speed=7.05x elapsed=0:00:01.01    
+frame=  275 fps=182 q=-0.0 size=   14848KiB time=00:00:11.41 bitrate=10654.1kbits/s speed=7.54x elapsed=0:00:01.51    
+frame=  377 fps=187 q=-0.0 size=   20480KiB time=N/A bitrate=N/A speed=N/A elapsed=0:00:02.01    
+[out#0/mpegts @ 0x86943c480] video:19884KiB audio:754KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.750887%
+frame=  389 fps=188 q=-0.0 Lsize=   21206KiB time=00:00:16.10 bitrate=10789.3kbits/s speed= 7.8x elapsed=0:00:02.06    
+
+▶️  [PROCESSING] [4/19] driving.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'driving.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.76.100
+    comment         : Signature: sZT5dHRKXFgl6YaHbVXyEAiaxOrX1OIgU4U2Xus0n+9qGcfAv85XzuzUNKSV8FDd+CEm/NHGL6VFcscJFkFQGgwSaycsMHA++ZcvDqNFtbzdQ/BkaQW0o9W0mHnGedlE0xKjcRFJuxmA2ZiQGaEyL7qH2M5lf1LI1BhIWOvWdcFxF5rwIViU87z2CArj8E3SbkXpayWgyVa+NTr/alfUH9jWqwk3h1HnktBdSRUWugtYN4/joXHy
+  Duration: 00:00:10.04, start: 0.000000, bitrate: 3757 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1168x784, 3621 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0003.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: sZT5dHRKXFgl6YaHbVXyEAiaxOrX1OIgU4U2Xus0n+9qGcfAv85XzuzUNKSV8FDd+CEm/NHGL6VFcscJFkFQGgwSaycsMHA++ZcvDqNFtbzdQ/BkaQW0o9W0mHnGedlE0xKjcRFJuxmA2ZiQGaEyL7qH2M5lf1LI1BhIWOvWdcFxF5rwIViU87z2CArj8E3SbkXpayWgyVa+NTr/alfUH9jWqwk3h1HnktBdSRUWugtYN4/joXHy
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0x728ca1180] Color range not set for yuv420p. Using MPEG range.
+frame=   65 fps=0.0 q=-0.0 size=    3584KiB time=00:00:02.66 bitrate=11010.0kbits/s speed=5.28x elapsed=0:00:00.50    
+frame=  169 fps=167 q=-0.0 size=    8960KiB time=00:00:07.00 bitrate=10485.8kbits/s speed=6.93x elapsed=0:00:01.01    
+[out#0/mpegts @ 0x729044300] video:12454KiB audio:470KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.750575%
+frame=  241 fps=177 q=-0.0 Lsize=   13280KiB time=00:00:10.00 bitrate=10878.9kbits/s speed=7.35x elapsed=0:00:01.36    
+
+▶️  [PROCESSING] [5/19] otsb_5A.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'otsb_5A.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.76.100
+    comment         : Signature: 3WzimACVqfdM9NnPfp7d9L8sqpwNiGp6wO4d9zXen8dXsiMIIMV5n25gAB4shg3w+cxa0Z1/xlDxHaNm7YXZlS2AGRY0Ugt4VFTVXqoxEHOSotWjafZugB1d9ilpE/Svg//d4sGaa69BC5w7YxAkDCek/M+BjH6QItPOA+4OBSlUMqIHUFcOFEdrg9oWJfmV
+  Duration: 00:00:10.04, start: 0.000000, bitrate: 2058 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 1922 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0004.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: 3WzimACVqfdM9NnPfp7d9L8sqpwNiGp6wO4d9zXen8dXsiMIIMV5n25gAB4shg3w+cxa0Z1/xlDxHaNm7YXZlS2AGRY0Ugt4VFTVXqoxEHOSotWjafZugB1d9ilpE/Svg//d4sGaa69BC5w7YxAkDCek/M+BjH6QItPOA+4OBSlUMqIHUFcOFEdrg9oWJfmV
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0xb1d025180] Color range not set for yuv420p. Using MPEG range.
+frame=   67 fps=0.0 q=-0.0 size=    3584KiB time=00:00:02.75 bitrate=10676.4kbits/s speed=5.45x elapsed=0:00:00.50    
+frame=  171 fps=169 q=-0.0 size=    9216KiB time=00:00:07.08 bitrate=10658.5kbits/s speed=7.01x elapsed=0:00:01.01    
+[out#0/mpegts @ 0xb1cc0c780] video:12237KiB audio:470KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.772742%
+frame=  241 fps=179 q=-0.0 Lsize=   13060KiB time=00:00:10.00 bitrate=10698.6kbits/s speed=7.42x elapsed=0:00:01.34    
+
+▶️  [PROCESSING] [6/19] otsb_5B_169_zoom.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'otsb_5B_169_zoom.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+    comment         : Signature: dRmGPNl0xY+zWbJnZPQ86D/yqCy1BgN0X+rg3R2yrdKto7oa29OHx/XKPAbBPClTYOLoxrtTE2BeUKiE371g+RgBz0Lt/I2cnNafOkZ9mWU5VSRHikMGT1ZShGaVCMztM0O9olwbIiBxrfVlcdx8GYb/VV1dsTzA2cp7YZdubGC+0pEVB4+aSH8e97piL7Kq
+  Duration: 00:00:10.04, start: 0.000000, bitrate: 1291 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 832x468, 1155 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc61.19.101 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0005.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: dRmGPNl0xY+zWbJnZPQ86D/yqCy1BgN0X+rg3R2yrdKto7oa29OHx/XKPAbBPClTYOLoxrtTE2BeUKiE371g+RgBz0Lt/I2cnNafOkZ9mWU5VSRHikMGT1ZShGaVCMztM0O9olwbIiBxrfVlcdx8GYb/VV1dsTzA2cp7YZdubGC+0pEVB4+aSH8e97piL7Kq
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0xa6903ce00] Color range not set for yuv420p. Using MPEG range.
+frame=   67 fps=0.0 q=-0.0 size=    1792KiB time=00:00:02.75 bitrate=5338.2kbits/s speed=5.45x elapsed=0:00:00.50    
+frame=  171 fps=170 q=-0.0 size=    8704KiB time=00:00:07.08 bitrate=10066.3kbits/s speed=7.05x elapsed=0:00:01.00    
+[out#0/mpegts @ 0xa68c31b00] video:12391KiB audio:470KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.760705%
+frame=  241 fps=179 q=-0.0 Lsize=   13216KiB time=00:00:10.00 bitrate=10826.7kbits/s speed=7.44x elapsed=0:00:01.34    
+
+▶️  [PROCESSING] [7/19] otsb_5C.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'otsb_5C.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.76.100
+    comment         : Signature: v+br2v4/j+J5kKes0wSz3/1HWEtYDV2g8PK8wZI9iRhf51al5uXEia/jJ5d0k/gOo7gcLOHI6RkAGXkLY/U0OyBvbXvIOL3g059vMKoe4eY/RdAAG0iGeZFQ/aOrf4/JCl1J6fi7VMbZTeXu4U2ddiAuVGJvhOfeKlj6faDOpsRqZL4UNdSeBBRUwfm0vOMl
+  Duration: 00:00:10.04, start: 0.000000, bitrate: 7432 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 7296 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0006.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: v+br2v4/j+J5kKes0wSz3/1HWEtYDV2g8PK8wZI9iRhf51al5uXEia/jJ5d0k/gOo7gcLOHI6RkAGXkLY/U0OyBvbXvIOL3g059vMKoe4eY/RdAAG0iGeZFQ/aOrf4/JCl1J6fi7VMbZTeXu4U2ddiAuVGJvhOfeKlj6faDOpsRqZL4UNdSeBBRUwfm0vOMl
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0x853025180] Color range not set for yuv420p. Using MPEG range.
+frame=   66 fps=0.0 q=-0.0 size=    3584KiB time=00:00:02.70 bitrate=10840.7kbits/s speed=5.36x elapsed=0:00:00.50    
+frame=  170 fps=168 q=-0.0 size=    9216KiB time=00:00:07.04 bitrate=10721.5kbits/s speed=6.97x elapsed=0:00:01.01    
+[out#0/mpegts @ 0x852c31b00] video:12483KiB audio:470KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.745051%
+frame=  241 fps=178 q=-0.0 Lsize=   13309KiB time=00:00:10.00 bitrate=10902.8kbits/s speed=7.38x elapsed=0:00:01.35    
+
+▶️  [PROCESSING] [8/19] glitz_169_zoom.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'glitz_169_zoom.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+    comment         : Signature: 3HJrI216SdyEftb4Khns96aa9hCoBGYlZ0P270Zgg+uNBakxvLhIo7dYtzhYhGdoAFlKf6ISE6Dj0r1zqA83KxYZacOiYF538YnEbYaEe8Vr6yqSIyFjRIUtKJSPSlGkwLPpNK2GpOTQHQOCQMHoBbekd3EljrR0w6quhod1O4L1+9/GeMVJSAiaIGWMTczS
+  Duration: 00:00:06.04, start: 0.000000, bitrate: 8434 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 8297 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc61.19.101 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 127 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0007.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: 3HJrI216SdyEftb4Khns96aa9hCoBGYlZ0P270Zgg+uNBakxvLhIo7dYtzhYhGdoAFlKf6ISE6Dj0r1zqA83KxYZacOiYF538YnEbYaEe8Vr6yqSIyFjRIUtKJSPSlGkwLPpNK2GpOTQHQOCQMHoBbekd3EljrR0w6quhod1O4L1+9/GeMVJSAiaIGWMTczS
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0x9a308d180] Color range not set for yuv420p. Using MPEG range.
+frame=   65 fps=0.0 q=-0.0 size=    3584KiB time=00:00:02.66 bitrate=11010.0kbits/s speed=5.28x elapsed=0:00:00.50    
+[out#0/mpegts @ 0x9a3090300] video:7509KiB audio:284KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.747895%
+frame=  145 fps=0.0 q=-0.0 Lsize=    8007KiB time=00:00:06.00 bitrate=10932.1kbits/s speed=6.72x elapsed=0:00:00.89    
+
+▶️  [PROCESSING] [9/19] glitz_169_zoom.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'glitz_169_zoom.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf61.7.100
+    comment         : Signature: 3HJrI216SdyEftb4Khns96aa9hCoBGYlZ0P270Zgg+uNBakxvLhIo7dYtzhYhGdoAFlKf6ISE6Dj0r1zqA83KxYZacOiYF538YnEbYaEe8Vr6yqSIyFjRIUtKJSPSlGkwLPpNK2GpOTQHQOCQMHoBbekd3EljrR0w6quhod1O4L1+9/GeMVJSAiaIGWMTczS
+  Duration: 00:00:06.04, start: 0.000000, bitrate: 8434 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 8297 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+      encoder         : Lavc61.19.101 libx264
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 127 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0008.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: 3HJrI216SdyEftb4Khns96aa9hCoBGYlZ0P270Zgg+uNBakxvLhIo7dYtzhYhGdoAFlKf6ISE6Dj0r1zqA83KxYZacOiYF538YnEbYaEe8Vr6yqSIyFjRIUtKJSPSlGkwLPpNK2GpOTQHQOCQMHoBbekd3EljrR0w6quhod1O4L1+9/GeMVJSAiaIGWMTczS
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0xb2cc5d180] Color range not set for yuv420p. Using MPEG range.
+frame=   66 fps=0.0 q=-0.0 size=    3584KiB time=00:00:02.70 bitrate=10840.7kbits/s speed=5.36x elapsed=0:00:00.50    
+[out#0/mpegts @ 0xb2d08c300] video:7509KiB audio:284KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.747895%
+frame=  145 fps=0.0 q=-0.0 Lsize=    8007KiB time=00:00:06.00 bitrate=10932.1kbits/s speed=6.73x elapsed=0:00:00.89    
+
+▶️  [PROCESSING] [10/19] otsb_5D.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'otsb_5D.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.76.100
+    comment         : Signature: LyTkO88ZGGAyj2KWRE8UsHBDi1NfZdVi2Ue0jP1VDqWtQvMBnY2ZKOSy78S6avVsiyEt91hpslGa4h4fu52Aiz6RQcD5K79oYRZYl8YgYvd9pLa6y94KkmoY2EqARWY49y6ynBApoT8nXU/uOsE+PlNpFY8VKdyCrJtTpesRlNSa8Q0SXHgmYbPnZc/ezE7avEezqlubSti/hdeCL5IfYL5q30OKz3EItBQSzY3G7HJmGWlb6Q5k
+  Duration: 00:00:10.04, start: 0.000000, bitrate: 6999 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 6863 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0009.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: LyTkO88ZGGAyj2KWRE8UsHBDi1NfZdVi2Ue0jP1VDqWtQvMBnY2ZKOSy78S6avVsiyEt91hpslGa4h4fu52Aiz6RQcD5K79oYRZYl8YgYvd9pLa6y94KkmoY2EqARWY49y6ynBApoT8nXU/uOsE+PlNpFY8VKdyCrJtTpesRlNSa8Q0SXHgmYbPnZc/ezE7avEezqlubSti/hdeCL5IfYL5q30OKz3EItBQSzY3G7HJmGWlb6Q5k
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0xbab089180] Color range not set for yuv420p. Using MPEG range.
+frame=   65 fps=0.0 q=-0.0 size=    3584KiB time=00:00:02.66 bitrate=11010.0kbits/s speed=5.28x elapsed=0:00:00.50    
+frame=  168 fps=167 q=-0.0 size=    9216KiB time=00:00:06.95 bitrate=10849.9kbits/s speed= 6.9x elapsed=0:00:01.00    
+[out#0/mpegts @ 0xbab028e40] video:12451KiB audio:470KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.754904%
+frame=  241 fps=177 q=-0.0 Lsize=   13277KiB time=00:00:10.00 bitrate=10876.8kbits/s speed=7.34x elapsed=0:00:01.36    
+
+▶️  [PROCESSING] [11/19] holi1.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0xa50808000] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'holi1.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.76.100
+    comment         : Signature: guxmjrKa1hJGOO5ZcGyF3wUT3KiXtJfw2v6rn1N3k44mQUaY+0g/gRFQ/0Apq9dVEKdIDvWcye5Mt2MRDxQ/Y+I6QamWpOEuCWH0kXrpLkVtfnZG8U5weuyaao5Bk7YrGyjdeiW5ZzLVJqTHo0anr5klGhyDFrgZWAWAb6/f7Y8=
+  Duration: 00:00:11.71, start: 0.000000, bitrate: 7279 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 6979 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 127 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:2[0x0]: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1280x720 [SAR 1:1 DAR 16:9], 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0010.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: guxmjrKa1hJGOO5ZcGyF3wUT3KiXtJfw2v6rn1N3k44mQUaY+0g/gRFQ/0Apq9dVEKdIDvWcye5Mt2MRDxQ/Y+I6QamWpOEuCWH0kXrpLkVtfnZG8U5weuyaao5Bk7YrGyjdeiW5ZzLVJqTHo0anr5klGhyDFrgZWAWAb6/f7Y8=
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0xa5140d880] Color range not set for yuv420p. Using MPEG range.
+frame=   66 fps=0.0 q=-0.0 size=    3584KiB time=00:00:02.70 bitrate=10840.7kbits/s speed=5.41x elapsed=0:00:00.50    
+frame=  170 fps=169 q=-0.0 size=    9216KiB time=00:00:07.04 bitrate=10721.5kbits/s speed=   7x elapsed=0:00:01.00    
+frame=  269 fps=178 q=-0.0 size=   14592KiB time=N/A bitrate=N/A speed=N/A elapsed=0:00:01.51    
+[out#0/mpegts @ 0xa50c0c9c0] video:14420KiB audio:544KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.754935%
+frame=  281 fps=182 q=-0.0 Lsize=   15376KiB time=00:00:11.60 bitrate=10851.4kbits/s speed= 7.5x elapsed=0:00:01.54    
+
+▶️  [PROCESSING] [12/19] Kites3.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x77741c000] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'Kites3.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.76.100
+    comment         : Signature: h2FVunNGGRttiZB9TEf6SCwvHp03oiQGx5FTNpzjwBbeBpNlomef6s5vYHZTA34v57KWPrcs7z3kpZBKBss9DSPjnzLN6/Xl+mk5bqDnu4HfVMXD3yMFBRG+G875gwPanhgafIXZUBhOxO+eV8x8NuWhKlHOFtn+LAU/cZH5Lmw=
+  Duration: 00:00:09.33, start: 0.000000, bitrate: 4152 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 3965 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:2[0x0]: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1280x720 [SAR 1:1 DAR 16:9], 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0011.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: h2FVunNGGRttiZB9TEf6SCwvHp03oiQGx5FTNpzjwBbeBpNlomef6s5vYHZTA34v57KWPrcs7z3kpZBKBss9DSPjnzLN6/Xl+mk5bqDnu4HfVMXD3yMFBRG+G875gwPanhgafIXZUBhOxO+eV8x8NuWhKlHOFtn+LAU/cZH5Lmw=
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0x7768ad880] Color range not set for yuv420p. Using MPEG range.
+frame=   67 fps=0.0 q=-0.0 size=    3584KiB time=00:00:02.75 bitrate=10676.4kbits/s speed=5.45x elapsed=0:00:00.50    
+frame=  171 fps=169 q=-0.0 size=    9216KiB time=00:00:07.08 bitrate=10658.5kbits/s speed=7.01x elapsed=0:00:01.00    
+[out#0/mpegts @ 0x776821140] video:11496KiB audio:432KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.745749%
+frame=  224 fps=177 q=-0.0 Lsize=   12255KiB time=00:00:09.20 bitrate=10903.7kbits/s speed=7.27x elapsed=0:00:01.26    
+
+▶️  [PROCESSING] [13/19] Kites2.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'Kites2.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.76.100
+    comment         : Signature: kT7Dr06BMiljzNJLU8dyQhDha7ke6kSVtt3qhxQcyEIwufrPRBqrs9h7t+ArEvNlNt70fNZ9wRyKgvwwvCK0+0ZZNwr9Ovt8fE7GPFPzZq0CBO0bqJKjrXbbPJUixoxiU0qgi0t4F+PIsNd6JiRQySq9M6IRukZbZdCoMBfMxcEGz2FapBoI5UmgTYYVWELr
+  Duration: 00:00:06.04, start: 0.000000, bitrate: 2776 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 2639 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0012.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: kT7Dr06BMiljzNJLU8dyQhDha7ke6kSVtt3qhxQcyEIwufrPRBqrs9h7t+ArEvNlNt70fNZ9wRyKgvwwvCK0+0ZZNwr9Ovt8fE7GPFPzZq0CBO0bqJKjrXbbPJUixoxiU0qgi0t4F+PIsNd6JiRQySq9M6IRukZbZdCoMBfMxcEGz2FapBoI5UmgTYYVWELr
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0xc05439180] Color range not set for yuv420p. Using MPEG range.
+frame=   67 fps=0.0 q=-0.0 size=    3584KiB time=00:00:02.75 bitrate=10676.4kbits/s speed=5.45x elapsed=0:00:00.50    
+[out#0/mpegts @ 0xc05028d80] video:7503KiB audio:284KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.747867%
+frame=  145 fps=0.0 q=-0.0 Lsize=    8001KiB time=00:00:06.00 bitrate=10924.6kbits/s speed=6.78x elapsed=0:00:00.88    
+
+▶️  [PROCESSING] [14/19] acquaint2.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'acquaint2.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.76.100
+    comment         : Signature: 1vyxxhF76Gyum3R1AQE9f2nUM9KHiIezgdyRKI3mIMTR0QfAocIT7wgPW/+1fTs7+k3BQ184hUQLgqvDf52669igUwxMDSLOeE7BuOnmRWTlPmksczxNLXXAzhjhhdyjmGZZf2q6SoxSp3Px5k5M9aAMVkIzLYjC5EWUg53OLgDhBjQMuK/x1GrhFRQ4E033
+  Duration: 00:00:06.04, start: 0.000000, bitrate: 2376 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1168x784, 2239 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0013.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: 1vyxxhF76Gyum3R1AQE9f2nUM9KHiIezgdyRKI3mIMTR0QfAocIT7wgPW/+1fTs7+k3BQ184hUQLgqvDf52669igUwxMDSLOeE7BuOnmRWTlPmksczxNLXXAzhjhhdyjmGZZf2q6SoxSp3Px5k5M9aAMVkIzLYjC5EWUg53OLgDhBjQMuK/x1GrhFRQ4E033
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0xa30c79180] Color range not set for yuv420p. Using MPEG range.
+frame=   66 fps=0.0 q=-0.0 size=    3584KiB time=00:00:02.70 bitrate=10840.7kbits/s speed=5.36x elapsed=0:00:00.50    
+[out#0/mpegts @ 0xa31068300] video:7604KiB audio:284KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.736552%
+frame=  145 fps=0.0 q=-0.0 Lsize=    8104KiB time=00:00:06.00 bitrate=11064.2kbits/s speed=6.76x elapsed=0:00:00.88    
+
+▶️  [PROCESSING] [15/19] chimera2.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0xb46c40000] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'chimera2.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.76.100
+    comment         : Signature: z6oP9TTtYtSysL/mwqqaDjrcgf3/C48FxElL36IuQU0tiP/qXMdxayGks99SPNz4ecPEpfJR/xnS0lbuZiq6s9k9krKsc2qQVxT71+17bbAq2KT2WUgrqLbM+HQoLeOAKUpP0Zj3Xwp8gkJDEO5XG7I70SYbwX2IIaASzP1EqCM=
+  Duration: 00:00:28.17, start: 0.000000, bitrate: 3685 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 3486 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:2[0x0]: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1280x720 [SAR 1:1 DAR 16:9], 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0014.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: z6oP9TTtYtSysL/mwqqaDjrcgf3/C48FxElL36IuQU0tiP/qXMdxayGks99SPNz4ecPEpfJR/xnS0lbuZiq6s9k9krKsc2qQVxT71+17bbAq2KT2WUgrqLbM+HQoLeOAKUpP0Zj3Xwp8gkJDEO5XG7I70SYbwX2IIaASzP1EqCM=
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0xb47059880] Color range not set for yuv420p. Using MPEG range.
+frame=   68 fps=0.0 q=-0.0 size=    3584KiB time=00:00:02.79 bitrate=10517.1kbits/s speed=5.54x elapsed=0:00:00.50    
+frame=  172 fps=170 q=-0.0 size=    9216KiB time=00:00:07.12 bitrate=10596.1kbits/s speed=7.06x elapsed=0:00:01.00    
+frame=  275 fps=182 q=-0.0 size=   14848KiB time=00:00:11.41 bitrate=10654.1kbits/s speed=7.56x elapsed=0:00:01.51    
+frame=  379 fps=188 q=-0.0 size=   20480KiB time=00:00:15.75 bitrate=10652.2kbits/s speed=7.81x elapsed=0:00:02.01    
+frame=  483 fps=192 q=-0.0 size=   26112KiB time=00:00:20.08 bitrate=10651.1kbits/s speed=7.97x elapsed=0:00:02.52    
+frame=  586 fps=194 q=-0.0 size=   30720KiB time=00:00:24.37 bitrate=10324.4kbits/s speed=8.05x elapsed=0:00:03.02    
+[out#0/mpegts @ 0xb46c0cb40] video:33129KiB audio:1313KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.779096%
+frame=  676 fps=195 q=-0.0 Lsize=   35399KiB time=00:00:28.06 bitrate=10332.2kbits/s speed=8.11x elapsed=0:00:03.46    
+
+▶️  [PROCESSING] [16/19] videoframe_20425.png
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, png_pipe, from 'videoframe_20425.png':
+  Duration: N/A, bitrate: N/A
+  Stream #0:0: Video: png, rgba(pc, gbr/unknown/unknown), 1280x720, 25 fps, 25 tbr, 25 tbn
+Stream mapping:
+  Stream #0:0 -> #0:0 (png (native) -> h264 (h264_videotoolbox))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0015.ts':
+  Metadata:
+    encoder         : Lavf62.3.100
+  Stream #0:0: Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+[h264_videotoolbox @ 0x753424a80] Color range not set for yuv420p. Using MPEG range.
+[out#0/mpegts @ 0x75281da40] video:32KiB audio:0KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 4.428418%
+frame=    1 fps=0.0 q=-0.0 Lsize=      33KiB time=00:00:00.00 bitrate=N/A speed=   0x elapsed=0:00:00.18    
+
+▶️  [PROCESSING] [17/19] juhustreet.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'juhustreet.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.76.100
+    comment         : Signature: djn8xcJdtAmxLI1izXimrCCpFmaJRB7qQRZdJXN/dnXwxVI7+ftc6zO3L9HJmKHn6j9WxMsXc4U4JNHENn7NgKLvNENIBxhtR5+xfpsZ5n4F+MuemrtBiDFLPCfGT4zkvdZaa3e/tn+HtsfZ026Uj5PlD/CzebVtemA5yG7ybsHm/jKZzVFThHE2dqYMdAg5RS+9kQ9Nh3Jaaba1pm9CKOWxiAZmt83Yh/HQc3w+RdX/B2p5MAJK
+  Duration: 00:00:06.04, start: 0.000000, bitrate: 2031 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 1894 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0016.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: djn8xcJdtAmxLI1izXimrCCpFmaJRB7qQRZdJXN/dnXwxVI7+ftc6zO3L9HJmKHn6j9WxMsXc4U4JNHENn7NgKLvNENIBxhtR5+xfpsZ5n4F+MuemrtBiDFLPCfGT4zkvdZaa3e/tn+HtsfZ026Uj5PlD/CzebVtemA5yG7ybsHm/jKZzVFThHE2dqYMdAg5RS+9kQ9Nh3Jaaba1pm9CKOWxiAZmt83Yh/HQc3w+RdX/B2p5MAJK
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0xc4e831180] Color range not set for yuv420p. Using MPEG range.
+frame=   68 fps=0.0 q=-0.0 size=    3584KiB time=00:00:02.79 bitrate=10517.1kbits/s speed=5.53x elapsed=0:00:00.50    
+[out#0/mpegts @ 0xc4f42c300] video:7560KiB audio:284KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.752013%
+frame=  145 fps=0.0 q=-0.0 Lsize=    8060KiB time=00:00:06.00 bitrate=11005.0kbits/s speed=6.82x elapsed=0:00:00.88    
+
+▶️  [PROCESSING] [18/19] streetsign3.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0xadb040000] stream 0, timescale not set
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'streetsign3.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.76.100
+    comment         : Signature: c0ZcyKEbO5WTXeIH5h4dzbXvNjQKIwj04JeI0tRlfMLuh9oLT1EvJ7l8f8wSE/yeiLDmhxGZ0gqx7XtT9U/2GTYkxhLeF2F/RT+FpbtT1jXd4dZgOgviAsIgWzIdLBP6ArcF03pqQ1smAfQsTo2OZItsoxedOOgHUMZYgJtnT/U=
+  Duration: 00:00:18.04, start: 0.000000, bitrate: 3902 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 3680 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 127 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:2[0x0]: Video: mjpeg (Baseline), yuvj420p(pc, bt470bg/unknown/unknown), 1280x720 [SAR 1:1 DAR 16:9], 90k tbr, 90k tbn (attached pic)
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0017.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: c0ZcyKEbO5WTXeIH5h4dzbXvNjQKIwj04JeI0tRlfMLuh9oLT1EvJ7l8f8wSE/yeiLDmhxGZ0gqx7XtT9U/2GTYkxhLeF2F/RT+FpbtT1jXd4dZgOgviAsIgWzIdLBP6ArcF03pqQ1smAfQsTo2OZItsoxedOOgHUMZYgJtnT/U=
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0xadac81880] Color range not set for yuv420p. Using MPEG range.
+frame=   67 fps=0.0 q=-0.0 size=    3584KiB time=00:00:02.75 bitrate=10676.4kbits/s speed=5.45x elapsed=0:00:00.50    
+frame=  170 fps=168 q=-0.0 size=    9472KiB time=00:00:07.04 bitrate=11019.4kbits/s speed=6.97x elapsed=0:00:01.01    
+frame=  273 fps=181 q=-0.0 size=   14848KiB time=00:00:11.33 bitrate=10732.5kbits/s speed= 7.5x elapsed=0:00:01.51    
+frame=  376 fps=187 q=-0.0 size=   20480KiB time=00:00:15.62 bitrate=10737.4kbits/s speed=7.77x elapsed=0:00:02.01    
+[out#0/mpegts @ 0xadb064480] video:22214KiB audio:838KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.761643%
+frame=  433 fps=189 q=-0.0 Lsize=   23688KiB time=00:00:17.91 bitrate=10830.0kbits/s speed=7.83x elapsed=0:00:02.28    
+
+▶️  [PROCESSING] [19/19] anthem3.mp4
+ffmpeg version 8.0.1 Copyright (c) 2000-2025 the FFmpeg developers
+  built with Apple clang version 17.0.0 (clang-1700.6.3.2)
+  configuration: --prefix=/opt/homebrew/Cellar/ffmpeg-full/8.0.1_3 --enable-shared --enable-pthreads --enable-version3 --cc=clang --host-cflags= --host-ldflags= --enable-ffplay --enable-gnutls --enable-gpl --enable-libaom --enable-libaribb24 --enable-libbluray --enable-libdav1d --enable-libharfbuzz --enable-libjxl --enable-libmp3lame --enable-libopus --enable-libplacebo --enable-librav1e --enable-librist --enable-librubberband --enable-libsnappy --enable-libsrt --enable-libssh --enable-libsvtav1 --enable-libtesseract --enable-libtheora --enable-libvidstab --enable-libvmaf --enable-libvorbis --enable-libvpx --enable-libwebp --enable-libx264 --enable-libx265 --enable-libxml2 --enable-libxvid --enable-lzma --enable-libfontconfig --enable-libfreetype --enable-frei0r --enable-libass --enable-libopencore-amrnb --enable-libopencore-amrwb --enable-libopenjpeg --enable-libspeex --enable-libsoxr --enable-libzmq --enable-libzimg --enable-whisper --disable-libjack --disable-indev=jack --enable-videotoolbox --enable-audiotoolbox --enable-neon
+  libavutil      60.  8.100 / 60.  8.100
+  libavcodec     62. 11.100 / 62. 11.100
+  libavformat    62.  3.100 / 62.  3.100
+  libavdevice    62.  1.100 / 62.  1.100
+  libavfilter    11.  4.100 / 11.  4.100
+  libswscale      9.  1.100 /  9.  1.100
+  libswresample   6.  1.100 /  6.  1.100
+Input #0, mov,mp4,m4a,3gp,3g2,mj2, from 'anthem3.mp4':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    encoder         : Lavf58.76.100
+    comment         : Signature: tjT0+lvi/jJFUa5greIVpFk73nu6Iaidj4/tBCm7FgCypdtVGurVuOByFn5r1a+ON3XelsL4II+JsPSmp2nKsQITJ4cL6E0/pcanGStiNoeqA/4dVuKKU05/Wi1inH1Hha87uhIKvr9EZBgxqPOQFdRT96XqvhNFVX2BQzcMN84eqrfazQ81V4m7H4SzqdrOMXrF5aayewt/WNy8Yd2MZcBPhGKghcfSEdjTKrU9Nk3CX6ajcHsc
+  Duration: 00:00:06.04, start: 0.000000, bitrate: 7415 kb/s
+  Stream #0:0[0x1](und): Video: h264 (High) (avc1 / 0x31637661), yuv420p(progressive), 1280x720, 7279 kb/s, 24 fps, 24 tbr, 12288 tbn (default)
+    Metadata:
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1[0x2](und): Audio: aac (LC) (mp4a / 0x6134706D), 44100 Hz, stereo, fltp, 128 kb/s (default)
+    Metadata:
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+Stream mapping:
+  Stream #0:0 -> #0:0 (h264 (native) -> h264 (h264_videotoolbox))
+  Stream #0:1 -> #0:1 (aac (native) -> mp2 (native))
+Press [q] to stop, [?] for help
+Output #0, mpegts, to '/var/folders/y9/_5tz0m7s6v37dvfbkrp9rcp40000gn/T/tmpctpaksbo/part_0018.ts':
+  Metadata:
+    major_brand     : isom
+    minor_version   : 512
+    compatible_brands: isomiso2avc1mp41
+    comment         : Signature: tjT0+lvi/jJFUa5greIVpFk73nu6Iaidj4/tBCm7FgCypdtVGurVuOByFn5r1a+ON3XelsL4II+JsPSmp2nKsQITJ4cL6E0/pcanGStiNoeqA/4dVuKKU05/Wi1inH1Hha87uhIKvr9EZBgxqPOQFdRT96XqvhNFVX2BQzcMN84eqrfazQ81V4m7H4SzqdrOMXrF5aayewt/WNy8Yd2MZcBPhGKghcfSEdjTKrU9Nk3CX6ajcHsc
+    encoder         : Lavf62.3.100
+  Stream #0:0(und): Video: h264, yuv420p(progressive), 1280x720, q=2-31, 10000 kb/s, 24 fps, 90k tbn (default)
+    Metadata:
+      encoder         : Lavc62.11.100 h264_videotoolbox
+      handler_name    : VideoHandler
+      vendor_id       : [0][0][0][0]
+  Stream #0:1(und): Audio: mp2, 44100 Hz, stereo, s16, 384 kb/s (default)
+    Metadata:
+      encoder         : Lavc62.11.100 mp2
+      handler_name    : SoundHandler
+      vendor_id       : [0][0][0][0]
+[h264_videotoolbox @ 0xbe5085180] Color range not set for yuv420p. Using MPEG range.
+frame=   66 fps=0.0 q=-0.0 size=    3584KiB time=00:00:02.70 bitrate=10840.7kbits/s speed=5.36x elapsed=0:00:00.50    
+[out#0/mpegts @ 0xbe5088300] video:7527KiB audio:284KiB subtitle:0KiB other streams:0KiB global headers:0KiB muxing overhead: 2.756565%
+frame=  145 fps=0.0 q=-0.0 Lsize=    8027KiB time=00:00:06.00 bitrate=10959.4kbits/s speed=6.76x elapsed=0:00:00.88    
+
+🔗 Stitching Chunks...
+🎵 Final Audio Mix...
+✅ Success! Created: otsb_video.mp4

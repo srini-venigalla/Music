@@ -80,3 +80,19 @@ Costume: Maintain
 Point of Interest: The Name Stone with no name
 
 Video: he erases the name, writes it again, he repeats this three times
+
+[Protagonist Description]: A young Indian man, as given in the picture, mid-20s, short neatly styled black hair, light stubble, wearing a plain beige linen shirt and dark trousers, carrying a weathered canvas backpack.
+
+[Cinematic Style]: 35mm street photography, natural golden hour sunlight, deep depth of field, vivid urban textures, Kodak Portra 400 film aesthetic.
+
+Prompt: [Protagonist Description] standing at a CHatrapati Shivaji Terminus [given in the picture] at dawn. He holds a rolled-up paper degree in his right hand and grips a heavy travel bag in his left. 
+Intent: First arrival. Pace: Stillness amidst a rushing crowd. Photography: Wide angle, low position looking up at the hero. No grimacing, calm neutral expression. Walking Direction: Stationary.
+
+[Protagonist Description]: A young Indian man, as given in the picture, mid-20s, short neatly styled black hair, light stubble, wearing a plain beige linen shirt and dark trousers, carrying a weathered canvas backpack.
+
+[Cinematic Style]: 35mm street photography, natural golden hour sunlight, deep depth of field, vivid urban textures, Kodak Portra 400 film aesthetic.
+
+Prompt: [Protagonist Description] walking comfortably through a crowded bazaar. Above him, a cluster of vibrant, colorful balloons floats toward the sky, releasing white birds into the air. The surrounding crowd is blurred (motion blur), ignoring him completely.
+
+Intent: Feeling the freedom of being a stranger. 
+Facial Features: A soft, curious smile. Smile: Required. Pace: Comfortable tourist walking pace. Walking Direction: Right to Left.

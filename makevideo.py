@@ -6,173 +6,208 @@ import re
 import tempfile
 import argparse
 
-# --- CONSTANTS ---
-TARGET_RES = "1280:720"
+# --- PATHS & CONFIG ---
+FFMPEG_PATH = "/opt/homebrew/opt/ffmpeg-full/bin/ffmpeg"
+FFPROBE_PATH = "/opt/homebrew/opt/ffmpeg-full/bin/ffprobe"
+TARGET_RES = "1920:1080"
 FPS = 24
+BITRATE = "15M"
 
 
-def get_duration(filename, start_time=None, end_time=None):
-    ext = os.path.splitext(filename)[1].lower()
-    if ext in [".jpg", ".jpeg", ".png", ".webp"]:
-        try:
-            return float(start_time) if start_time else 5.0
-        except:
-            return 5.0
-    cmd = f"ffprobe -v error -show_entries format=duration -of default=noprint_wrappers=1:nokey=1 {shlex.quote(filename)}"
+def get_video_duration(filename):
+    cmd = [
+        FFPROBE_PATH,
+        "-v",
+        "error",
+        "-show_entries",
+        "format=duration",
+        "-of",
+        "default=noprint_wrappers=1:nokey=1",
+        filename,
+    ]
     try:
-        output = subprocess.check_output(cmd, shell=True).decode().strip()
-        total_dur = float(output)
-
-        def to_sec(t):
-            if not t:
-                return None
-            parts = str(t).split(":")
-            return sum(float(x) * 60**i for i, x in enumerate(reversed(parts)))
-
-        s = to_sec(start_time) or 0.0
-        e = to_sec(end_time) or total_dur
-        return e - s
+        out = subprocess.check_output(cmd).decode().strip()
+        return float(out)
     except:
-        return 5.0
+        return 0.0
 
 
-def parse_line(line):
+def parse_time(t_str):
+    if not t_str:
+        return None
+    try:
+        if ":" not in t_str:
+            return float(t_str)
+        parts = t_str.split(":")
+        return sum(float(x) * 60**i for i, x in enumerate(reversed(parts)))
+    except ValueError:
+        return None
+
+
+def run_ffmpeg(cmd, desc, debug=False):
+    print(f"\n▶️  [PROCESSING] {desc}")
+    process = subprocess.Popen(
+        cmd, shell=True, stdout=subprocess.PIPE, stderr=subprocess.STDOUT, text=True
+    )
+    for line in process.stdout:
+        if debug:
+            sys.stdout.write(line)
+        elif "frame=" in line:
+            sys.stdout.write(f"\r   {line.strip()[:60]}")
+            sys.stdout.flush()
+    process.wait()
+
+
+def process_video():
+    usage_desc = (
+        "M2 Max Video Assembler: Pro-grade quality with legacy --smooth support."
+    )
+    epilog_desc = """
+QUALITY HACKS GUIDE:
+-------------------
+--smooth: Enables 0.2s fade transitions. Replaces harsh jump cuts.
+--lanczos: Best for Upscayl content. Preserves sharp edges when resizing.
+--sharp [0.1 to 1.0]: Uses CAS sharpening. Best for AI video.
+--grain [1 to 5]: Adds Film Grain to remove the 'plastic' AI look.
+--pro: Maximum M2 Max hardware quality mode.
     """
-    Robust parser for filenames with spaces/parentheses and optional timestamps.
-    """
-    line = line.strip()
-    if not line:
-        return None, None, None
-    # Remove source tags
-    line = re.sub(r"^\\s*", "", line)
-    # Match timestamps at the end
-    ts_match = re.search(r"\s+(\d+[:\d.]*)\s*(\d+[:\d.]*)?$", line)
-    if ts_match:
-        filename = line[: ts_match.start()].strip()
-        return filename, ts_match.group(1), ts_match.group(2)
-    return line, None, None
 
+    parser = argparse.ArgumentParser(
+        description=usage_desc,
+        formatter_class=argparse.RawDescriptionHelpFormatter,
+        epilog=epilog_desc,
+    )
 
-def generate_workflow(input_file, speed, debug, smooth):
-    if not os.path.exists(input_file):
-        print(f"❌ Input file '{input_file}' not found.")
-        return
+    parser.add_argument("input", help="Text file (e.g., otsb.txt)")
+    parser.add_argument("output", nargs="?", help="Output filename")
+    parser.add_argument("--debug", action="store_true", help="Show FFmpeg logs")
+    parser.add_argument(
+        "--smooth", action="store_true", help="Enable smooth fade transitions"
+    )
+    parser.add_argument(
+        "--lanczos", action="store_true", help="Enable high-end Lanczos scaling"
+    )
+    parser.add_argument(
+        "--sharp", type=float, default=0.0, help="Sharpening level (0.1 - 1.0)"
+    )
+    parser.add_argument(
+        "--grain", type=int, default=0, help="Film grain intensity (1 - 5)"
+    )
+    parser.add_argument(
+        "--pro", action="store_true", help="Maximum M2 Max hardware quality"
+    )
 
-    base_name = os.path.splitext(input_file)[0]
-    interim_dir = tempfile.mkdtemp(prefix="video_render_")
-    concat_file = os.path.join(interim_dir, "list.txt")
-    interim_video = os.path.join(interim_dir, "stitched_raw.mp4")
+    if len(sys.argv) == 1:
+        parser.print_help()
+        sys.exit(1)
+
+    args = parser.parse_args()
+    base_name = os.path.splitext(args.input)[0]
+    final_output = args.output if args.output else f"{base_name}_video.mp4"
     audio_bg = f"{base_name}.mp3"
-    final_output = f"{base_name}_video.mp4"
+    temp_dir = tempfile.mkdtemp()
 
-    pts_factor = 1.0 / speed
-    video_configs = []
-
-    # --- PRE-FLIGHT CHECK ---
-    with open(input_file, "r") as f:
-        for i, line in enumerate(f, 1):
-            if not line.strip() or line.startswith("#"):
+    to_process = []
+    with open(args.input, "r") as f:
+        for line in f:
+            tokens = line.split()
+            if not tokens:
                 continue
-            fname, start, end = parse_line(line)
-            if os.path.exists(fname):
-                video_configs.append({"file": fname, "start": start, "end": end})
+            fname = tokens[0]
+            if not os.path.exists(fname):
+                continue
+
+            ext = os.path.splitext(fname)[1].lower()
+            is_img = ext in [".png", ".jpg", ".jpeg", ".webp"]
+            t1 = tokens[1] if len(tokens) > 1 else None
+            t2 = tokens[2] if len(tokens) > 2 else None
+
+            if is_img:
+                try:
+                    duration = float(t1) if t1 else 6.0
+                except:
+                    duration = 6.0
+                start_val = 0.0
             else:
-                print(f"⚠️ Line {i}: File not found -> '{fname}'")
+                start_val = parse_time(t1) if t1 else 0.0
+                v_dur = get_video_duration(fname)
+                duration = (parse_time(t2) - start_val) if t2 else (v_dur - start_val)
 
-    if not video_configs:
-        print("🛑 No valid files found. Check your paths.")
-        return
+            to_process.append(
+                {"file": fname, "start": start_val, "dur": duration, "is_img": is_img}
+            )
 
-    print(f"🚀 Processing {len(video_configs)} items (Speed: {speed}x)...")
-
-    # --- PHASE 1: INDIVIDUAL NORMALIZATION ---
     processed_ts_files = []
-    for i, cfg in enumerate(video_configs):
-        out_ts = os.path.join(interim_dir, f"part_{i:03d}.ts")
-        ext = os.path.splitext(cfg["file"])[1].lower()
-        is_img = ext in [".jpg", ".jpeg", ".png", ".webp"]
+    print(
+        f"🚀 Render | 1080p | Smooth:{args.smooth} | Sharp:{args.sharp} | Grain:{args.grain}"
+    )
 
-        raw_dur = get_duration(cfg["file"], cfg["start"], cfg["end"])
-        final_dur = raw_dur * pts_factor if is_img else raw_dur
+    for i, cfg in enumerate(to_process):
+        out_ts = os.path.join(temp_dir, f"part_{i:04d}.ts")
+        label = f"{os.path.basename(cfg['file'])} ({cfg['dur']:.2f}s)"
+        text_f = f"drawtext=text='{label}':x=20:y=20:fontsize=32:fontcolor=yellow:box=1:boxcolor=black@0.5"
 
-        debug_filter = (
-            f",drawtext=text='{os.path.basename(cfg['file'])}':x=20:y=20:fontsize=20:fontcolor=white:box=1:boxcolor=black@0.5"
-            if debug
-            else ""
+        scale_opt = "flags=lanczos+accurate_rnd" if args.lanczos else "flags=bicubic"
+        filters = [
+            f"scale={TARGET_RES}:force_original_aspect_ratio=decrease:{scale_opt}"
+        ]
+        filters.append(f"pad={TARGET_RES}:(ow-iw)/2:(oh-ih)/2")
+
+        if args.sharp > 0:
+            filters.append(f"cas={args.sharp}")
+        if args.grain > 0:
+            filters.append(f"noise=alls={args.grain}:allf=t+u")
+
+        if args.smooth:
+            fade_dur = 0.2
+            if cfg["dur"] > (fade_dur * 2):
+                filters.append(f"fade=t=in:st=0:d={fade_dur}")
+                filters.append(f"fade=t=out:st={cfg['dur'] - fade_dur}:d={fade_dur}")
+
+        filters.append(text_f)
+        filters.append("format=yuv420p")
+
+        input_args = (
+            f"-loop 1 -t {cfg['dur']}"
+            if cfg["is_img"]
+            else f"-ss {cfg['start']} -t {cfg['dur']}"
         )
-        smooth_filter = (
-            f",minterpolate=fps={FPS}:mi_mode=mci"
-            if (smooth and not is_img)
-            else ""
+        rt = "false" if args.pro else "true"
+
+        cmd = (
+            f'{FFMPEG_PATH} -y {input_args} -i {shlex.quote(cfg["file"])} -vf "{",".join(filters)}" '
+            f"-r {FPS} -c:v h264_videotoolbox -b:v {BITRATE} "
+            f"-realtime {rt} -profile:v high -f mpegts {out_ts}"
         )
-        v_speed = f"setpts={pts_factor}*PTS"
 
-        a_val = speed
-        if a_val < 0.5:
-            a_speed = f"atempo=0.5,atempo={a_val / 0.5}"
-        elif a_val > 2.0:
-            a_speed = f"atempo=2.0,atempo={a_val / 2.0}"
-        else:
-            a_speed = f"atempo={a_val}"
-
-        vf = f"scale={TARGET_RES}:force_original_aspect_ratio=decrease,pad={TARGET_RES}:(ow-iw)/2:(oh-ih)/2,{v_speed}{smooth_filter},fps={FPS},format=yuv420p{debug_filter}"
-
-        print(f"  [{i + 1}/{len(video_configs)}] {os.path.basename(cfg['file'])}")
-
-        if is_img:
-            cmd = (
-                f"ffmpeg -y -loop 1 -t {final_dur} -i {shlex.quote(cfg['file'])} "
-                f"-f lavfi -i anullsrc=r=48000:cl=stereo -t {final_dur} "
-                f'-vf "{vf}" -c:v libx264 -preset superfast -c:a aac {out_ts}'
-            )
-        else:
-            ss = f"-ss {cfg['start']}" if cfg["start"] else ""
-            to = f"-to {cfg['end']}" if cfg["end"] else ""
-            cmd = (
-                f"ffmpeg -y {ss} {to} -i {shlex.quote(cfg['file'])} "
-                f'-vf "{vf}" -af "{a_speed}" -c:v libx264 -preset superfast -c:a aac -ar 48000 -ac 2 {out_ts}'
-            )
-
-        subprocess.run(
-            cmd, shell=True, stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL
-        )
+        run_ffmpeg(cmd, label, args.debug)
         processed_ts_files.append(out_ts)
 
-    # --- PHASE 2: STITCHING (Re-encoding for a unified stream) ---
+    # Concat Section - Fixed Path Formatting
+    concat_file = os.path.join(temp_dir, "concat.txt")
     with open(concat_file, "w") as f:
         for p in processed_ts_files:
             f.write(f"file '{p}'\n")
 
-    print(f"\n🔗 Phase 2: Stitching and repairing stream...")
+    print("\n🔗 Stitching...")
+    # Using shlex.quote for the concat file path to avoid space issues
     subprocess.run(
-        f"ffmpeg -y -f concat -safe 0 -i {concat_file} -c:v libx264 -preset superfast -pix_fmt yuv420p -c:a aac {interim_video}",
+        f"{FFMPEG_PATH} -y -f concat -safe 0 -i {shlex.quote(concat_file)} -c copy interim.mp4",
         shell=True,
-        stdout=subprocess.DEVNULL,
-        stderr=subprocess.DEVNULL,
     )
 
-    # --- PHASE 3: FINAL AUDIO MIX ---
     if os.path.exists(audio_bg):
-        print(f"🎵 Phase 3: Mixing background audio: {audio_bg}")
         subprocess.run(
-            f"ffmpeg -y -i {interim_video} -i {shlex.quote(audio_bg)} -map 0:v:0 -map 1:a:0 -c:v copy -c:a aac -shortest {final_output}",
+            f"{FFMPEG_PATH} -y -i interim.mp4 -i {shlex.quote(audio_bg)} -map 0:v:0 -map 1:a:0 -c:v copy -c:a aac -shortest {final_output}",
             shell=True,
-            stdout=subprocess.DEVNULL,
-            stderr=subprocess.DEVNULL,
         )
     else:
         if os.path.exists(final_output):
             os.remove(final_output)
-        os.rename(interim_video, final_output)
+        os.rename("interim.mp4", final_output)
 
-    print(f"\n✅ Final Video: {final_output}")
+    print(f"✅ Created: {final_output}")
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser()
-    parser.add_argument("input")
-    parser.add_argument("--speed", type=float, default=1.0, help="0.5=Slow, 2.0=Fast")
-    parser.add_argument("--debug", action="store_true")
-    parser.add_argument("--smooth", action="store_true")
-    args = parser.parse_args()
-    generate_workflow(args.input, args.speed, args.debug, args.smooth)
+    process_video()
