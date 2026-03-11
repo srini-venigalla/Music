@@ -1,6 +1,8 @@
 # Ignore all MP4 videos in any subfolder
 **/*.mp4
 **/*.jpg
+**/*.jpeg
+**/*.webp
 **/*.png
 **/*.wav
 **/*.aup3
@@ -15,3 +17,4 @@
 # Ignore the virtual environment folder and its contents
 .venv/
 venv/
+**/backup/
