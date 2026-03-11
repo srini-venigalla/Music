@@ -3,6 +3,9 @@
 **/*.jpg
 **/*.png
 **/*.wav
+**/*.aup3
+**/*.aup3-wal
+**/*.aup3-shm
 # System files
 .DS_Store
 
