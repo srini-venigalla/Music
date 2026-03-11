@@ -30,7 +30,8 @@ videoframe_20425_upscale.png 3.0
 streetsign.mp4
 streetsign.mp4
 juhustreet.mp4 00:00:00 00:00:03
-streetsign3.mp4 00:00:08
+--streetsign3.mp4 00:00:08
+streetsign3_upscale.mp4
 anthem1_upscale.mp4
 anthem2.mp4
 anthem3.mp4 00:00:00 00:00:04
