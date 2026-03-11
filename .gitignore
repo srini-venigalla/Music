@@ -1,5 +1,13 @@
+# Ignore all MP4 videos in any subfolder
 **/*.mp4
-**/*.mp4
+**/*.jpg
+**/*.png
+# System files
 .DS_Store
-**/upscayl_*/**
-.venv
+
+# Ignore all folders starting with upscayl_ and everything inside them
+**/upscayl_*/
+
+# Ignore the virtual environment folder and its contents
+.venv/
+venv/
