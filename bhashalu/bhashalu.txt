@@ -1,0 +1,86 @@
+flamingos_wie.mp4 00:00:00 0:00:01.5
+krishnajinka3_wie.mp4 00:00:00 0:00:01.5
+flamingos_wie.mp4 00:00:03.5 00:00:07
+krishnajinka3_wie.mp4 00:00:01.5 00:00:07
+flamingolanding_wie.mp4 00:00:07 00:00:10  "Flamingos, Pulicat, AP"
+krishnajinka3_wie.mp4 00:00:06.840 00:00:20 "Krishna Jinka, AP State Animal"
+bhashalu3_wie.mp4 00:00:02 00:00:10.094
+bhashalu6_wie.mp4 00:00:09.203 00:00:26
+momandkids_wie.mp4 "Four Languages" 00:00:00 00:00:10
+telugutalli_wie.mp4 00:00:00 00:00:02 "Telugu Talli"
+lepakshi_wie.mp4 00:00:02 00:00:04 "Lepakshi"
+husseinsagar_wie.mp4 00:00:02 00:00:03 "Hussain Sagar, Hyderabad"
+telugu3_wie.mp4 00:00:00 00:00:10
+boats2_wie.mp4 00:00:00 00:00:02.2
+tamil6.mp4 00:00:01 00:00:06.8
+tamil2_wie.mp4 00:00:00 00:00:02
+tamil3_wie.mp4 00:00:00 00:00:02
+tamil4_wie.mp4 00:00:00 00:00:02
+tamil5_wie.mp4 00:00:00 00:00:00.7 "Thiruvalluvar"
+
+hindi3.mp4 00:00:00 00:00:09.6
+10poets_wie.mp4 00:00:06 00:00:08.450
+
+ashoka_wie.mp4 00:00:04 00:00:10 "Ashoka Pillar"
+sanskrit_wie.mp4 00:00:02 00:00:05.5
+sakuntala2_wie.mp4 00:00:01 00:00:06 "Sakuntala, by Raja Ravi Varma"
+
+krishnajinka4_wie.mp4 00:00:00 00:00:06
+boats4_wie.mp4 00:00:02 00:00:05
+chenab_wie.mp4 00:00:00 00:00:03 "Chenab Bridge"
+bhu_wie.mp4 00:00:04 00:00:08 "Banaras Hindu Univ, Varanasi"
+nalanda_wie.mp4 00:00:04 00:00:08 "Nalanda"
+du_wie.mp4 00:00:04 00:00:06 "Delhi University"
+./art/iitd04.jpg 4 "IIT Delhi"
+
+odisha.mp4 00:00:02 00:00:04 "Odisha"
+punjabi_wie.mp4 00:00:02 00:00:05.5 "Golden Temple, Amritsar"
+assam.mp4 00:00:02 00:00:04 "Tea Plantation, Assam"
+rajasthani2_wie.mp4 00:00:02 00:00:05.100 "Rajasthani Dance"
+
+sahyadri3_wie.mp4 00:00:02 00:00:07
+shivaji3_wie.mp4 00:00:02 00:00:08.8
+
+taj.mp4 00:00:00 00:00:04
+charminar_wie.mp4 00:00:02 00:00:05 "Charminar, Hyderabad"
+lucknow_wie.mp4 00:00:04 00:00:10 "Lucknow, UP"
+
+diamonds_wie.mp4 00:00:02 00:00:03.75
+patel.mp4 00:00:02 00:00:03.875 "Sardar Patel"
+sarabhai_wie.mp4 00:00:02 00:00:04.9 "Vikram Sarabhai"
+gandhi.mp4 00:00:01 00:00:04 "Sabarmati Ashram"
+sabarmathi_wie.mp4 00:00:02 00:00:04.7
+
+dancers_wie.mp4 00:00:02 00:00:05
+blackbuck3_wie.mp4 00:00:05 00:00:09.5
+redfort2_wie.mp4 00:00:02 00:00:07 "Redfort"
+
+tagore_wie.mp4 00:00:02 00:00:04.5 "Rabindranath Tagore"
+viswabharathi_wie.mp4 00:00:02 00:00:06 "Santiniketan"
+geetanjali_wie.mp4 00:00:00 00:00:04.50
+JanaGanaMana2_wie.mp4 00:00:00 00:00:06 "Jana Gana Mana"
+howrah_wie.mp4 00:00:02 00:00:04 "Howrah"
+kalitemple_wie.mp4 00:00:02 00:00:06 "Kali Temple"
+
+twodeers_wie.mp4 00:00:08 00:00:10
+
+houseboat_wie.mp4 00:00:02 00:00:05.5
+kathakali_wie.mp4 00:00:01.5 00:00:06
+pooram_wie.mp4 00:00:01 00:00:03 "Thrissur Pooram, Kerala"
+boatrace_wie.mp4 00:00:02 00:00:03.850
+
+damayanthi1.mp4 00:00:00 00:00:05 "Damayanti, by Raja Ravi Varma"
+mysorepalace2_wie.mp4 00:00:02 00:00:04 "Mysore Palace"
+yakshini2.mp4 00:00:00 00:00:05 "Darpana Sundari, Belur"
+
+languages_wie.mp4 00:00:05 00:00:9.800
+
+bhavaparimalamu2_wie.mp4 00:00:00 00:00:08
+bhavaparimalamu2_wie.mp4 00:00:20 00:00:30
+bhavaparimalamu2_wie.mp4 00:00:08 00:00:11
+bhavaparimalamu3_wie.mp4 00:00:00 00:00:10
+deerscharging_wie.mp4 00:00:14 00:00:18
+elephants.mp4 00:00:02 00:00:04 "National Animal"
+deersgrazing_wie.mp4 00:00:14 00:00:17 "State Animals"
+bhavaparimalamu1_wie.mp4 00:00:03 00:00:10
+./lyrics/slides/bhashalu_18.png 10 "Lyrics & Other Credits: Aswini"

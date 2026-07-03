@@ -1,0 +1,10 @@
+{
+  version: 1,
+  mediaFileName: 'jolapata_video.mp4',
+  cutSegments: [
+    {
+      end: 107.28,
+      name: '',
+    },
+  ],
+}

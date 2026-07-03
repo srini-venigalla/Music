@@ -1,0 +1,27 @@
+./art/bg2.png 28
+jolapata_slide_01.png 12.5
+--40.5
+jolapata_slide_02.png 12
+jolapata_slide_03.png 12
+jolapata_slide_04.png 6
+jolapata_slide_05.png 6
+jolapata_slide_06.png 14
+jolapata_slide_07.png 6
+jolapata_slide_08.png 12
+./art/bg2.png 18
+jolapata_slide_09.png 6
+jolapata_slide_10.png 6
+jolapata_slide_11.png 4
+jolapata_slide_12.png 4
+jolapata_slide_13.png 10
+jolapata_slide_15.png 6
+jolapata_slide_16.png 6
+jolapata_slide_17.png 10
+jolapata_slide_18.png 8
+./art/bg2.png 12
+jolapata_slide_19.png 6
+jolapata_slide_20.png 8
+jolapata_slide_21.png 6
+jolapata_slide_22.png 12
+jolapata_slide_23.png 6
+jolapata_slide_24.png 12

@@ -1,0 +1,8 @@
+andagada_fv.wav 00:00:26.7 00:00:38.006
+andagada_mv.wav 00:00:11.743 00:00:45.083
+andagada_fv.wav 00:00:38.7 00:00:51.6
+andagada_mv.wav 00:00:44.82 00:01:14.32
+andagada_fv.wav 00:00:55.38 00:01:10.612
+andagada_mv.wav 00:01:53.7 00:02:16.32
+andagada_fv.wav 00:01:10.612 00:01:25.94
+andagada_mv.wav 00:02:16.33 00:02:41.10

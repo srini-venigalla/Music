@@ -1,0 +1,3269 @@
+
+
+===== FILE: ./amaravathi/lyrics/lyrics.txt =====
+
+[chorus]
+అందంగ అమరుతున్న అమరావతి
+అందరి నుండీ ఇదిగో శతమానం భవతి
+<--->
+అందంగ అమరుతున్న అమరావతి
+అందరి నుండీ ఇదిగో శతమానం భవతి
+[verse]
+ఎందరో రైతుల అపూర్వ త్యాగఫలమిది
+<--->
+చందర నందన సుందర పుత్రిక ఇది
+<--->
+అందరి నుండీ ఇదిగో శతమానం భవతి
+[verse]
+ఇదిగో చల్లని నీలవేణి కృష్ణవేణి
+అదిగో ఇంద్రకీలాద్రి పై కనకాంబరి
+<--->
+ఇద్దరి నుండీ ఇదిగో శతమానం భవతి
+[verse]
+శాతకర్ణి, ఇక్ష్వాకుల శౌర్యవీర్య జయధ్వజములవిగో
+<--->
+వాసిరెడ్డి వెంకటాద్రినాయక శిల్పశాసనములివిగో
+<--->
+నాగార్జుని జ్ఞానమున్న ధర్మభూమి ఇది
+విశ్వమంతా మారుమ్రోగే విజయభేరి ఇది
+<--->
+అందరి నుండీ ఇదిగో శతమానం భవతి
+[bridge]
+నిన్నటి కలల సాక్షిగా నేటి సంకల్ప దీక్షగా
+కోటి పూజల  ఇలవేల్పుల వరఫలమై
+<--->
+తరతరాలు నిలువుమా
+కీర్తి జ్యోతివై వెలుగుమా...
+<--->
+అమరత్వమే నీ చిరునామా
+ఆనందమే నీ ప్రతినామా!
+[outro]
+అమరావతికి ఇదిగో శతమానం భవతి!
+<--->
+అందరి నుండీ ఇదిగో శతమానం భవతి!
+శతమానం భవతి... శతమానం భవతి...
+
+
+===== FILE: ./Andagada/lyrics/lyrics.txt =====
+
+[CallResponse Duet]
+[Female Start On]
+[Verse]
+[Female]
+ఓ అందగాడా!
+చందురుడా, నాకేంచేస్తావు? 
+
+[Verse]
+[Male]
+నాకో  లోకం ఉంది  అందుల నాకో కోట ఉంది
+నీ కోసం యుద్దాలు చేస్తా 
+
+[Interlude ]
+
+[Verse]
+[Female]
+ఓ చందురుడా! నచ్చినోడా,
+నన్నేమంటావు? 
+
+[Verse]
+[Male]
+నాకో కల ఉంది అందుల  నీకో పేరుంది
+అది స్వప్న రాగ లీన  
+
+[Interlude ]
+
+[Verse]
+[Female]
+ఓ నచ్చినోడా! మెచ్చినోడా,
+నాకేమిస్తావు? 
+
+[Verse]
+[Male]
+నాకో తోట ఉంది  అందుల ఒక పొదరిల్లుంది
+దాని కింద మల్లెయ  లిస్తా 
+
+[Interlude ]
+
+[Verse]
+[Female]
+ఓ మెచ్చినోడా! అందగాడా
+నన్నేంచేస్తావు? 
+
+[Verse]
+[Male]
+నాకో  రాజ్యం  ఉంది  అందుల  నేనే మహ రాజు
+నిన్ను నా రాణిని చేస్తా 
+
+===== FILE: ./Andagada/lyrics/sbv.txt =====
+
+0:00:28.500,0:00:31.000
+ఓ అందగాడా!
+
+0:00:31.800,0:00:35.000
+చందురుడా, నాకేంచేస్తావు?
+
+0:00:39.700,0:00:42.500
+నాకో లోకం ఉంది
+
+0:00:43.000,0:00:48.000
+అందుల నాకో కోట ఉంది
+నీ కోసం యుద్దాలు చేస్తా
+
+0:00:55.700,0:00:59.000
+ఓ అందగాడా! మెచ్చినోడా,
+
+0:01:00.000,0:01:03.000
+నన్నేమంటావు? 
+
+0:01:06.800,0:01:12.000
+నాకో కల ఉంది
+అందుల నీకో పేరుంది
+
+0:01:13.000,0:01:17.000
+అది స్వప్న రాగ లీన  
+
+0:01:52.460,0:01:56.000
+ఓ అందగాడా! చిన్నవాడా!!
+నాకేమిస్తావు? 
+
+0:02:03.000,0:02:08.000
+నాకో తోట ఉంది
+అందుల ఒక పొదరిల్లుంది
+
+0:02:09.000,0:02:13.000
+దాని కింద నీకు పూలిస్తాను
+
+0:02:16.000,0:02:21.000
+ఓ అందగాడా! నచ్చినోడా!!
+నన్నేంచేస్తావు? 
+
+0:02:28.000,0:02:33.000
+నాకో సామ్రాజ్యం ఉంది
+అందుల నేనొక రాజు
+
+0:02:34.000,0:02:39.000
+నిన్ను నా రాణిని చేసేస్తాను
+
+===== FILE: ./April_nati/గత ఏప్రిల్ నాటి.txt =====
+
+ఓ ప్రియతమా! నా అపురూపమా!
+[verse1]
+గత ఏప్రిల్ నాటి నీ భావాలే.. నేటికీ నీలో మిగిలుంటే.. 
+మరువక ఇప్పుడే చెప్పేయ్.. మౌనం వీడి చెప్పేయ్!
+ఇప్పుడే నాకు చెప్పేయ్.. ఇక్కడే నాకు చెప్పేయ్!
+
+[Hook]
+గత ఏప్రిల్ నాటి నీ భావాలే.. నేటికీ నీలో మిగిలుంటే.. 
+మరువక ఇప్పుడే చెప్పేయ్.. మౌనం వీడి చెప్పేయ్!
+ఇప్పుడే నాకు చెప్పేయ్.. ఇక్కడే నాకు చెప్పేయ్!
+
+నీపై	నాలో నిలిచిన	anuragam
+నీపై	నాkunna అచochaలమైన	aakaanksha 
+ఏనnడూ maruvaledu.. ఏ క్షణమూ veedaledu!
+
+[Hook]
+గత ఏప్రిల్ నాటి నీ భావాలే.. నేటికీ నీలో మిగిలుంటే.. 
+మరువక ఇప్పుడే చెప్పేయ్.. మౌనం వీడి చెప్పేయ్!
+ఇప్పుడే నాకు చెప్పేయ్.. ఇక్కడే నాకు చెప్పేయ్!
+
+[Verse 1]
+raaనీ.. నీ పెదవి దాti ఆ ఒక్క మాట.. 
+adi నా jeevana saasana rekha!
+నువ్వు వద్దని చెబితే.. ఈ ప్రేమ ప్రస్తావన, 
+నా prema geetapu thudi charanam!
+
+[Hook]
+గత ఏప్రిల్ నాటి నీ భావాలే.. నేటికీ నీలో మిగిలుంటే.. 
+మరువక ఇప్పుడే చెప్పేయ్.. మౌనం వీడి చెప్పేయ్!
+ఇప్పుడే నాకు చెప్పేయ్.. ఇక్కడే నాకు చెప్పేయ్!
+[Verse 2]
+
+నన్ను నీ ప్రేమతో ఆడుకోనివ్వకు.. 
+నా aathma లోతుల్ని గాయపరచకు!
+
+ఒకవేళ నీ మనసు maaripothe.. 
+నీ మమత నాపై theeripothe.. 
+ఇప్పుడే నాకు చెప్పేయ్.. ఇక్కడే నాకు చెప్పేయ్!
+
+[Hook]
+గత ఏప్రిల్ నాటి నీ భావాలే.. నేటికీ నీలో మిగిలుంటే.. 
+మరువక ఇప్పుడే చెప్పేయ్.. మౌనం వీడి చెప్పేయ్!
+ఇప్పుడే నాకు చెప్పేయ్.. ఇక్కడే నాకు చెప్పేయ్!
+
+===== FILE: ./bagunnava/Bagunnava.txt =====
+
+[Is_MAX_MODE: MAX](MAX)
+[QUALITY: MAX](MAX)
+[REALISM: MAX](MAX)
+[REAL_INSTRUMENTS: MAX](MAX)
+[Intro - Male]
+బాగున్నావా?ప్రియతమా.. నేనున్నా.. లేకున్నా..
+మదిలోమెదిలానా? నేస్తమా.. అలలా.. కలలా.. ఎపుడైనా?
+
+[Hook - Female]
+బాగున్నావా?ప్రియతమా.. నేనున్నా.. లేకున్నా..
+మదిలోమెదిలానా? నేస్తమా.. అలలా.. కలలా.. ఎపుడైనా?
+
+[VERSE 1 - Nature & Memory]
+[Male]
+మబ్బులు తొలిగి మెరిశాక.. నింగి కేసి చూశావా?
+అప్పటి మాటలు ఏమైనా.. చుక్కlla వెలిశాయా?
+[Female]
+వాన కురిసి వెలిశాక.. నేల వంక చూశావా?
+ఆనాటి చెలిమి ఏమైనా.. మొక్క మొలిచిందా?
+
+[Chorus]
+బాగున్నావా?ప్రియతమా.. నేనున్నా లేకున్నా..
+మదిలోమెదిలానా? నేస్తమా.. అలలా.. కలలా.. ఎపుడైనా..
+
+[VERSE 2 - Seasons]
+[Male]
+పూలు పూసి రాలినాక.. కొమ్మకేసి చూశావా?
+కొత్త ఆశలేమైనా.. మొగ్గలు తొడిగాయా?
+[Female]
+పాట పాడి ఆగినాక.. కోయిలమ్మను అడిగావా?
+మరల వసంతం.. ఎన్నాళ్ళకు వస్తుందని?
+
+[VERSE 3 - Philosophy & Sound]
+[Male]
+ప్రతి క్షణం చుట్టేస్తుంది.. నీ నవ్వు మువ్వల సవ్వడి..
+ఏచోటవున్నా అనిపిస్తుంది.. నీ మథు రోహల సందడి! 
+[Female]
+క్షణం క్షణం తలచలేము.. అది మరిచిపోయే వాళ్ళకు..
+శ్వాస నిశ్వాసలు ఆపులేము.. అది ఆశ లేని వాళ్ళకు..
+
+[BRIDGE - New]
+[Male]
+కనురెప్పల చాటున దాగున్నా.. నీ రూపం చెదిరిపోనీక..
+[Female]
+మౌనపు బాటలో వెతుకుతున్నా.. మన జ్ఞాపకం వీడిపోనీక..
+
+[VERSE 4 - The Reach]
+[Male]
+ప్రతి దినం అనిపిస్తుంది.. ఈనాడైనా పిలుస్తావని..
+ప్రతి దిక్కు అడుగుతుంది.. నువ్వెపుడొస్తావని....
+[Female]
+ఆ కబురు నీ తీరానికి.. ఎపుడైనా చేరిందా?
+ఆ యోచన neekepudaina.. నిజమని తోచిందా?
+
+[CHORUS / CLOSING]
+[Both]
+బాగున్నావా?ప్రియతమా.. నేనున్నా లేకున్నా..
+మదిలోమెదిలానా? నేస్తమా.. 
+అలలా.. కలలా.. ఎప్పుడైనా?
+అలలా.. కలలా.. ఎప్పుడైనా...
+
+===== FILE: ./bhashalu/lyrics/bhashalu_plain.txt =====
+
+[Soft instrumental intro - flute and tabla, slow tempo]
+
+[Hook - Pallavi - melodic, contemplative, female lead vocal]
+మదిలో మెదిలే తలపులు పలకాలంటే
+పది భాషలు చాలవుగా
+<--->
+నాలో ఊహల జ్యోతులు వెలగాలంటే
+నాలుగు దివ్వెలు చాలవుగా
+
+[Verse 1 - gentle Carnatic style, mridangam joins]
+అచ్చుల ఒడిలో హల్లుల సొగసు
+అజంత సుందరి తెలుగు వెలుగు
+
+[Tempo lifts slightly - veena accent]
+ప్రాచీన వాంగ్మయ తమిళ ఘనత
+ఆచార ధర్మం అమర కవిత
+
+[Hindustani touch - harmonium and sitar]
+గంగా తీరపు సంధ్యా హారతి
+సౌరభ పదముల హిందీ గాత్రి
+
+[Sanskrit chant style - deep male chorus backing]
+వేదనాదం అమృత భరితం
+ఆదికావ్యం సంస్కృత గీతం
+
+[Hook - Pallavi Repeat - layered harmonies, swelling strings]
+మదిలో మెదిలే తలపులు పలకాలంటే
+పది భాషలు చాలవుగా
+<--->
+నాలో ఊహల జ్యోతులు వెలగాలంటే
+నాలుగు దివ్వెలు చాలవుగా
+
+[Verse 2 - powerful, martial rhythm with dholak]
+సహ్యాద్రి కోటల వీరత్వ సీమ
+మరాఠీ శివాజీ శౌర్య గాథ
+
+[Soft and romantic - ghazal style, sarangi]
+మల్లెల మఖ్మల్ ఉర్దూ కవిత
+సుందర సుదూర లోకపు సుమత
+
+[Folk dance rhythm - dandiya beats, festive]
+వజ్ర వైఢూర్య ప్రసిథ్థ తీర గుజరాతీ
+గాంథీ కస్తూరీ ఆశ్రమ సబర్మతి 
+
+[Hook - Pallavi Repeat - fuller orchestration]
+మదిలో మెదిలే తలపులు పలకాలంటే
+పది భాషలు చాలవుగా
+<--->
+నాలో ఊహల జ్యోతులు వెలగాలంటే
+నాలుగు దివ్వెలు చాలవుగా
+
+[Verse 3 - Rabindra Sangeet style, soulful]
+రవీంద్రుని వెన్నెల బెంగాలీ పాట
+రసగుల్లా తీపికి మెత్తని మాట
+
+[Tropical and earthy - chenda drums, bamboo flute]
+పచ్చని కొబ్బరి మలయాళ వేదం
+ప్రకృతి గొంతులో తంత్ర నాదం
+
+[Devotional, temple bells, tanpura drone]
+చందన గంధపు కన్నడ భాష
+హోయసల శిల్పపు హృదయ ఆశ
+
+[Outro - Bridge - music softens, almost a cappella, emotional climax]
+ఈ పది దివ్వెల వెలుగుల వెనుక
+నా గానం పలికే మౌన రాగం
+
+[Voice trembles with emotion, single tanpura]
+భాషలకందని భావ పరిమళం
+నా మాతృభాషలో అమృత వర్షం
+
+[Final Hook - Pallavi - full ensemble, all instruments together, triumphant]
+మదిలో మెదిలే తలపులు పలకాలంటే
+పది భాషలు చాలవుగా
+<--->
+నాలో ఊహల జ్యోతులు వెలగాలంటే
+నాలుగు దివ్వెలు చాలవుగా
+[Outro - flute fades out, lingering tanpura drone, silence]
+
+===== FILE: ./bhashalu/lyrics/bhashalu.txt =====
+
+[Soft instrumental intro - flute and tabla, slow tempo]
+
+[Hook - Pallavi - melodic, contemplative, female lead vocal]
+మదిలో మెదిలే తలపులు పలకాలంటే
+పది భాషలు చాలవుగా
+నాలో ఊహల జ్యోతులు వెలగాలంటే
+నాలుగు దివ్వెలు చాలవుగా
+
+[Verse 1 - gentle Carnatic style, mridangam joins]
+అచ్చుల ఒడిలో హల్లుల సొగసు
+అజంత సుందరి తెలుగు వెలుగు
+
+[Tempo lifts slightly - veena accent]
+ప్రాచీన వాంగ్మయ తమిళ ఘనత
+ఆచార ధర్మం అమర కవిత
+
+[Hindustani touch - harmonium and sitar]
+గంగా తీరపు సంధ్యా హారతి
+సౌరభ పదముల హిందీ గాత్రి
+
+[Sanskrit chant style - deep male chorus backing]
+వేదనాదం అమృత భరితం
+ఆదికావ్యం సంస్కృత గీతం
+
+[Hook - Pallavi Repeat - layered harmonies, swelling strings]
+మదిలో మెదిలే తలపులు పలకాలంటే
+పది భాషలు చాలవుగా
+నాలో ఊహల జ్యోతులు వెలగాలంటే
+నాలుగు దివ్వెలు చాలవుగా
+
+[Verse 2 - powerful, martial rhythm with dholak]
+సహ్యాద్రి కోటల వీరత్వ సీమ
+మరాఠీ శివాజీ శౌర్య గాథ
+
+[Soft and romantic - ghazal style, sarangi]
+మల్లెల మఖ్మల్ ఉర్దూ కవిత
+సుందర సుదూర లోకపు చంద్రిక
+
+[Folk dance rhythm - dandiya beats, festive]
+వజ్ర వైఢూర్య ప్రసిథ్థ తీర గుజరాతీ
+గాంథీ కస్తూరీ ఆశ్రమ సబర్మతి 
+
+[Hook - Pallavi Repeat - fuller orchestration]
+మదిలో మెదిలే తలపులు పలకాలంటే
+పది భాషలు చాలవుగా
+నాలో ఊహల జ్యోతులు వెలగాలంటే
+నాలుగు దివ్వెలు చాలవుగా
+
+[Verse 3 - Rabindra Sangeet style, soulful]
+రవీంద్రుని వెన్నెల బెంగాలీ పాట
+రసగుల్లా తీపికి మెత్తని మాట
+
+[Tropical and earthy - chenda drums, bamboo flute]
+పచ్చని కొబ్బరి మలయాళ వేదం
+ప్రకృతి గొంతులో తంత్ర నాదం
+
+[Devotional, temple bells, tanpura drone]
+చందన గంధపు కన్నడ భాష
+హోయసల శిల్పపు హృదయ ఆశ
+
+[Outro - Bridge - music softens, almost a cappella, emotional climax]
+ఈ పది దివ్వెల వెలుగుల వెనుక
+నా గానం పలికే మౌన రాగం
+
+[Voice trembles with emotion, single tanpura]
+భాషలకందని భావ పరిమళం
+నా మాతృభాషలో అమృత వర్షం
+
+[Final Hook - Pallavi - full ensemble, all instruments together, triumphant]
+మదిలో మెదిలే తలపులు పలకాలంటే
+పది భాషలు చాలవుగా
+నాలో ఊహల జ్యోతులు వెలగాలంటే
+నాలుగు దివ్వెలు చాలవుగా
+[Outro - flute fades out, lingering tanpura drone, silence]
+
+===== FILE: ./chayachitram/lyrics/chayachitram.txt =====
+
+[Hook]
+అలనాటి ఛాయాచిత్రం... కదిలించిన స్మృతులెన్నో
+
+[Stanza 1]
+అలనాటి ఛాయాచిత్రం... కదిలించిన స్మృతులెన్నో
+కలలన్నీ చెలరేగి... కథలన్నీ వెలువెత్తి
+<--->
+పదకోశపు పుటల్లో... ప్రేమ పదం పేజి వద్ద
+పదిలంగా దాచిన చిత్రం... జతగా పెట్టిన పుష్పం
+
+[Hook]
+అలనాటి ఛాయాచిత్రం... కదిలించిన స్మృతులెన్నో
+
+[Stanza 2 - The Inquiry]
+దశాబ్దాలు గడిచాయి... మన తుది మిలనం
+ఈ చిత్తరవున నింపిన అందం...అచలంగానే ఉందా?
+<--->
+కొండలని  కదిలించే... ఈ దయార్ద్ర వీక్షణం
+ఎందరికి పంచినా... అక్షరముగానే ఉందా?
+
+[Hook]
+అలనాటి ఛాయాచిత్రం... కదిలించిన స్మృతులెన్నో
+
+[Stanza 3 - The Observation]
+పూవులు జూసి మురిసిపోయే... ఈ లలిత లావణ్యం
+నలువది వసంతాల తదుపరి...  చెదరనే లేదు కదా!
+<--->
+వెన్నెలని తలపించే... ఈ చిరు దరహాసం
+ఎందరిని పలకరించినా... తరగనే లేదు కదా!
+
+[Hook]
+అలనాటి ఛాయాచిత్రం... కదిలించిన స్మృతులెన్నో
+
+[Finale - The Wish]
+ఎడబాటు ఎరుగని... అనుభూతి తో 
+ఇంకా ఎదుగుతున్నాం...  అలువని తరంగాలై
+<--->
+ప్రతి వసంతం వస్తుంది ...
+నువు నర్తిస్తావనినిత్య యవ్వన అమృత మూర్తి వై
+
+[Stanza 4 - The Benediction]
+కాలం కదిపే పావుల్లో ... దారులు మరలా కలిస్తే 
+నిను జూసే ఒక  రోజు .. ఇంకోసారి వస్తుందేమో 
+<--->
+నీ ప్రతి అడుగు... నిరంతర విజయం 
+నీ నుంచి వినాలి  ... అంతా శుభం శుభం !
+
+[Hook]
+అలనాటి ఛాయాచిత్రం... కదిలించిన స్మృతులెన్నో
+
+
+===== FILE: ./chayachitram/lyrics/translation.txt =====
+
+### Alanati Chaya Chitram 
+(The Photograph of Yesteryears)
+
+[Hook]
+అలనాటి ఛాయాచిత్రం... కదిలించిన స్మృతులెన్నో
+A photograph from those bygone days... stirring countless  memories.
+
+[Stanza 1]
+అలనాటి ఛాయాచిత్రం... కదిలించిన స్మృతులెన్నో
+A photograph from those bygone days... stirring countless  memories.
+కలలన్నీ చెలరేగి... కథలన్నీ వెలువెత్తి
+As dreams surge into a storm... and forgotten tales overflow into the light.
+పదకోశపు పుటల్లో... ప్రేమ పదం పేజి వద్ద
+Within the pages of a lexicon... right at the entry for "Love".
+పదిలంగా దాచిన చిత్రం... జతగా పెట్టిన పుష్పం
+A portrait preserved with utmost care... and a flower placed alongside as its companion.
+
+[Hook]
+అలనాటి ఛాయాచిత్రం... కదిలించిన స్మృతులెన్నో
+A photograph from those bygone days... stirring countless  memories.
+
+[Stanza 2 - The Inquiry]
+దశాబ్దాలు గడిచాయి... మన తుది మిలనం
+Decades have ebbed away... since our final convergence.
+ఈ చిత్తరవున నింపిన అందం... అచలంగానే ఉందా?
+Does the beauty imbued within this portrait... remain as unchanged as ever?
+కొండలని కదిలించే... ఈ దయార్ద్ర వీక్షణం
+This gaze, saturated with compassion, capable of moving even mountains...
+ఎందరికి పంచినా... అక్షరముగానే ఉందా?
+Though shared for so many... does it still remain undying?
+
+[Hook]
+అలనాటి ఛాయాచిత్రం... కదిలించిన స్మృతులెన్నో
+A photograph from those bygone days... stirring countless  memories.
+
+[Stanza 3 - The Observation]
+పూవులు జూసి మురిసిపోయే... ఈ లలిత లావణ్యం
+This refined grace that used to revel in the sight of flowers...
+నలువది వసంతాల తదుపరి... చెదరనే లేదు కదా!
+Even after forty springs... it hasn't lost its form or composure, has it?
+వెన్నెలని తలపించే... ఈ చిరు దరహాసం
+This gentle radiance reminiscent of pure moonlight...
+ఎందరిని పలకరించినా... తరగనే లేదు కదా!
+No matter how many souls it has greeted... it hasn't diminished in depth, has it?
+
+[Hook]
+అలనాటి ఛాయాచిత్రం... కదిలించిన స్మృతులెన్నో
+A photograph from those bygone days... stirring countless  memories.
+
+[Finale - The Wish]
+ఎడబాటు ఎరుగని... అనుభూతి తో 
+With a profound realization that knows no such thing as separation...
+ఇంకా ఎదుగుతున్నాం... అలువని తరంగాలై
+We continue to grow... like tireless, ceaseless waves.
+
+ప్రతి వసంతం వస్తుంది... నువు నర్తిస్తావని
+Every spring returns with the hope... that you will dance through it,
+నిత్య యవ్వన అమృత మూర్తి వై
+As an eternal personification of youth and life’s nectar.
+
+కాలం కదిపే పావుల్లో... దారులు మరలా కలిస్తే 
+In the moves orchestrated by Time’s hand... if our paths were to converge once more,
+నిను జూసే ఒక రోజు... ఇంకోసారి వస్తుందేమో 
+Perhaps a day to see you... might dawn once again.
+
+నీ ప్రతి అడుగు... నిరంతర విజయం 
+May your every footstep... be a continuous triumph.
+నీ నుంచి వినాలి... అంతా శుభం శుభం!
+From you, I wish to hear only... "All is auspicious, all is well!"
+
+[Hook]
+అలనాటి ఛాయాచిత్రం... కదిలించిన స్మృతులెన్నో
+A photograph from those bygone days... stirring countless  memories.
+
+===== FILE: ./Ekasila/Ekasila.txt =====
+
+
+GENRE: Autobiographical
+
+(The Hook) ఏకశిల నగరం (Warnagal City..)... ఎర్రమట్టి శిఖరం (Literally, "a tower made in/of red soil" - an abstract reference to the greatness of NITW)
+తొలి పొద్దు... మూడు ఇరవై చలి...
+(Early morning, always cold at 3:20 AM - refers to the time Dakshin Express used to arrive at Kazipet, by which most of us used to reach the campus, also for some, it is the early morning wake up for Pid) 
+ముసురుకున్న తడి పొడి...
+(Many a morning are wet unpredictably)
+
+ఏకశిల నగరం... ఎర్రమట్టి శిఖరం
+
+[INTERLUDE]
+
+Verse 1 
+పది దిక్కుల సౌధాలు... 
+(Mansions in 10 directions : 10 Hostels)
+ఐదు అగ్నుల వేగాలు 
+(Five fires : 5 Messes and their speedy serving)
+
+నలభై తపస్సుల ధ్యానాలు...
+(Forty devoted lives - average class size) 
+ఒకే ప్రాణరాగాలు ...
+(Two lives, one tune: confirmed love matches )
+
+[INTERLUDE]
+
+Verse 2 (The Intersection)
+
+ఒక మెరుపు రాపిడి... ఒక చిందిన వెలుగు 
+(Just in time rapid prep before exams.. A lost bright life here and there)
+కరగని మౌనాలు ... ముడిపడని చిరునవ్వులు
+(silences that do not dissolve..  smiles that do not form a Joint)
+
+తరగని చదువులు ... ముగియని పాఠాలు
+(Endless studies) (Unfinished lessons (abstract))
+ఎదురెదురు చూపులు... సమాంతర సూత్రా...లు... 
+(many many waitings (I20 perhaps)) (Parallel preps: GMT, GRE, CAT, IAS etc)
+
+[INTERLUDE]
+
+వీడలేని బంధాలు...చిరగని కాగితాలు...
+(Bonds that cannot be broken: Alumni Network) 
+(Books that cannot be torn : Year Books)
+ఉండలేము... వీడలేము
+(Cat Stay (Heat)) (Cannot leave (Friends))
+వీడినాక ... మరువలేము
+(After leaving, cannot forget)
+ముడి పడదు... విడిపోదు...
+(Cant stay stay attched (migratory) .. But we never dissociate)
+కాలం సాక్షిగా! ... Forever young...
+(Time as the witness, we and the Institute stay young forever)
+(Hook) ఏకశిల నగరం... ఎర్రమట్టి శిఖరం
+
+===== FILE: ./Ghadiya/ఒక ఘడియ.txt =====
+
+నాకోసం ఒక ఘడియ 🎼
+(పల్లవి)
+నాకోసం ఒక ఘడియ! 
+నీ దినదిన ఊహా సమరాల్లో...
+రోజుకు రాత్రికి నడుమ నువ్వు చేసే
+గంధర్వ విన్యాస విహారాల్లో... నాకొక్క ఘడియ!
+(చరణం 1)
+ఓ! ఒకనాటి ప్రియతమా!
+అలనాటి అపురూపమా! ఒక్క ఘడియ!
+రాతివైపోతివా? రాముని వేడుకొని 
+అతని అంశను పంపనా!
+(చరణం 2)
+మోడువైపోతివా? శిశిరాంత సమీరాలను 
+తోడు తీసుకొని రానా!
+చిరునగవులు రావా? నా కేశాజనిత 
+పారిజాత మారుతాలు ప్రసరింపనా!
+(చరణం 3)
+కలలు చెరుపుకున్నావా? నీ 
+మనసు మాళిగల ద్వార బంధాలు ఛేదింపనా!
+ఓ ప్రియతమా! నా అపురూపమా!
+ఒకపరి ఆలకింపుమా! 
+
+===== FILE: ./jolapata/lyrical_video/lyrics.txt =====
+
+<--->
+మృదంగం మంజుల నాదం మధుర తరంగం
+లలిత లాలనం హృదయ లాలసం
+<--->
+కన్నుల బరువు చుక్కల తెరువు
+గంధపు తెమ్మెర విరిసిన తామర
+<--->
+లలిత లాలనం హృదయ లాలసం
+<--->
+పారిజాత పవిత్రం చంద్రకాంత సుందరం
+<--->
+మల్లిక నిర్మలం సంపగి సౌరభం
+<--->
+మామిడి మధురం గబ్బిల విహారం
+మొగలి నికుంజము నాగుల నిలయము
+<--->
+(వీర)
+"అమ్మా... పాములుంటాయా?" 
+(లీల)
+"బజ్జోపోతే... వస్తాయి!"
+<--->
+జో  లాలీ జో జో లాలీ 
+లలిత లాలనం హృదయ లాలసం
+<--->
+నీలాంబరి నీరాజనం
+మోహనం మనోహరం
+<--->
+కళ్యాణి కమలజాదళం
+బాగేశ్వరి భార గమనం
+<--->
+హంసధ్వని ఆది తాళమ్
+<--->
+ఆభేరి అనంత శయనం
+<--->
+(వీర)
+"అమ్మా! హిందోళం లేదా?"
+(Leela)
+"అది నీ ఉయ్యాల పాట కన్నా...!"
+<--->
+లలిత లాలనం హృదయ లాలసం
+<--->
+కాకమ్మ కొమ్మ చివర
+చిలకమ్మ చెట్టు మీద
+<--->
+ఆవు దూడ అమ్మ వద్ద
+కుక్కపిల్ల అరుగుమీద
+<--->
+చేప పిల్ల చెరువులోన
+ఆదమరచి నిదురపోయే! ..
+<--->
+(వీర) 
+"అమ్మా! పిల్లి పడుకోలేదా ?"
+(లీల)
+"అది పగలు పడుకుంటుంది నాన్నా...!"
+<--->
+ఆట పాటలు అలికిడి
+దుడుకు అడుగులు అలజడి
+<--->
+చిలిపి పరుగులు ఆరడి
+పంతముతో ప్రతి పని
+<--->
+నందనందన రూపమిది
+మాతృజన్మ భాగ్యమిది
+<--->
+తల్లి ప్రేమ చల్లని ఛాయ
+నిద్రా దేవి ఆపదలు కాయ
+<--->
+లలిత లాలనం హృదయ లాలసం
+<--->
+జో  లాలీ జో జో లాలీ 
+జో జో లాలీ జో లాలీ
+
+
+===== FILE: ./jolapata/lyrics/lyrics.txt =====
+
+<--->
+మృదంగం మంజుల నాదం మధుర తరంగం
+లలిత లాలనం హృదయ లాలసం
+<--->
+కన్నుల బరువు చుక్కల తెరువు
+గంధపు తెమ్మెర విరిసిన తామర
+<--->
+లలిత లాలనం హృదయ లాలసం
+<--->
+పారిజాత పవిత్రం చంద్రకాంత సుందరం
+<--->
+మల్లిక నిర్మలం సంపగి సౌరభం
+<--->
+మామిడి మధురం గబ్బిల విహారం
+మొగలి నికుంజము నాగుల నిలయము
+<--->
+(వీర)
+"అమ్మా... పాములుంటాయా?" 
+(లీల)
+"బజ్జోపోతే... వస్తాయి!"
+<--->
+జో  లాలీ జో జో లాలీ 
+లలిత లాలనం హృదయ లాలసం
+<--->
+నీలాంబరి నీరాజనం
+మోహనం మనోహరం
+<--->
+కళ్యాణి కమలజాదళం
+బాగేశ్వరి భార గమనం
+<--->
+హంసధ్వని ఆది తాళమ్
+<--->
+ఆభేరి అనంత శయనం
+<--->
+(వీర)
+"అమ్మా! హిందోళం లేదా?"
+(Leela)
+"అది నీ ఉయ్యాల పాట కన్నా...!"
+<--->
+లలిత లాలనం హృదయ లాలసం
+<--->
+కాకమ్మ కొమ్మ చివర
+చిలకమ్మ చెట్టు మీద
+<--->
+ఆవు దూడ అమ్మ వద్ద
+కుక్కపిల్ల అరుగుమీద
+<--->
+చేప పిల్ల చెరువులోన
+ఆదమరచి నిదురపోయే! ..
+<--->
+(వీర) 
+"అమ్మా! పిల్లి పడుకోలేదా ?"
+(లీల)
+"అది పగలు పడుకుంటుంది నాన్నా...!"
+<--->
+ఆట పాటలు అలికిడి
+దుడుకు అడుగులు అలజడి
+<--->
+చిలిపి పరుగులు ఆరడి
+పంతముతో ప్రతి పని
+<--->
+నందనందన రూపమిది
+మాతృజన్మ భాగ్యమిది
+<--->
+తల్లి ప్రేమ చల్లని ఛాయ
+నిద్రా దేవి ఆపదలు కాయ
+<--->
+లలిత లాలనం హృదయ లాలసం
+<--->
+జో  లాలీ జో జో లాలీ 
+జో జో లాలీ జో లాలీ
+
+
+===== FILE: ./Misc/నీ కళ్ళు వెదుకుతాయి.txt =====
+
+[Is_MAX_MODE: MAX](MAX)
+[QUALITY: MAX](MAX)
+[REALISM: MAX](MAX)
+[REAL_INSTRUMENTS: MAX](MAX)
+
+[GENRE: "Acoustic, 1990s Telugu Cinema Melody, Raga Mohanam, Carnatic Fusion"]
+
+[INSTRUMENTS: "Lush violins, Veena, Melodic Flute, Sitar, Mridangam, Soft Tabla, Blue note bends, Melismatic turns"]
+
+[STYLE: 90s South Indian Film Song, Raga Mohanam, Mid-tempo]
+
+[RECORDING: "natural dynamics"]
+
+[INTRO: Soulful Flute solo followed by a sweeping Violin orchestra and Veena plucking]
+
+[LYRICS]
+[MALE_START_ON: "నీ కళ్ళు వెదుకుతాయి.."]
+
+[MALE]
+నీకళ్ళు వెదుకుతాయి...
+నేనొక అలనై పొంగిపోతా.
+
+[FEMALE]
+నీతలపులు పిలుస్తాయి...
+నేపట్టపగలే కలలనుకంటా.
+
+[CHORUS - Together]
+నీచెవులు ఆలకిస్తాయి...
+నా మాటలు ముత్యా lavuthaయి
+
+నాకలలు నిన్ను chupistayi...
+ఆ... రోజొక పండుగ.
+
+[INTERLUDE: Bright Shehnai and rhythmic Mandolin with upbeat Tabla]
+
+[FEMALE]
+సముద్రమంత నీ మౌనం.. నాలో విరహపు కెరటం
+సౌరభాల నీ హాసం.. నా మదిలో విరిసిన వసంతం!
+
+[CHORUS]
+నీకళ్ళు వెదుకుతాయి...
+నేనొక అలనై పొంగిపోతా.
+
+[MALE]
+చూపులు కలిసిన వేళ.. ఇక అక్షరాలు మనకేలా?
+మౌనం వీడిన వేళ.. మనసున valapula హేల!
+
+[INTERLUDE: Bright Shehnai and rhythmic Mandolin with upbeat Tabla]
+
+[Bridge - Male/Female Call & Response]
+కడలిని వదలని అలలా.. నీడని వీడని రాతిరిలా...
+జన్మజన్మలబంధమిది... పెద్దలుమెచ్చిన ప్రణయమిది!
+
+[FEMALE] నీ అడుగులకు నే చుక్కాని ఐతే ...
+[MALE] ఆ దారికి. దూరం ఉండదు!
+
+[INTERLUDE: Rapid Violin runs and Divine Flute melody]
+
+[FEMALE]
+నువ్వు తీసే ప్రతి శ్వాస.. నాహృదయ స్పందన,
+నువ్వు చూసే ప్రతి చూపు.. నా లలాటతిలకం
+
+[INTERLUDE: Bright Shehnai and rhythmic Mandolin with upbeat Tabla]
+
+[MALE]
+కడలిని వదలని అలలా.. నీడని వీడని రాతిరిలా...
+జన్మజన్మలబంధమిది... పెద్దలుమెచ్చిన ప్రణయమిది!
+
+[FEMALE]
+కడలిని వదలని అలలా.. నీడని వీడని రాతిరిలా...
+జన్మజన్మలబంధమిది... పెద్దలుమెచ్చిన ప్రణయమిది!
+
+[FEMALE]
+నీ కళ్ళు వెదుకుతాయి...
+నేనొక అలనై పొంగిపోతా.
+ఆ... రోజొక పండుగ
+
+[MALE]
+నీ తలపులు పిలుస్తాయి...
+పట్టపగలే కలలనుకంటా
+ఆ... రోజొక పండుగ.
+
+[Grand Finale - Chorus]
+కడలిని వదలని అలలా.. నీడని వీడని రాతిరిలా...
+జన్మజన్మలబంధమిది... పెద్దలుమెచ్చినప్రణయమిది!
+
+కడలిని వదలని అలలా.. నీడని వీడని రాతిరిలా...
+జన్మజన్మలబంధమిది... పెద్దలుమెచ్చినప్రణయమిది!
+[End]
+
+===== FILE: ./Misc/నువ్వు లేవు.txt =====
+
+[Is_MAX_MODE: MAX](MAX)
+[QUALITY: MAX](MAX)
+[REALISM: MAX](MAX)
+[REAL_INSTRUMENTS: MAX](MAX)
+
+[GENRE: "Acoustic, 1990s Telugu Cinema Melody, Raga Abheri, Carnatic Fusion"]
+
+[INSTRUMENTS: "Lush violins, Veena, Melodic Flute, Sitar, Mridangam, Soft Tabla, Blue note bends, Melismatic turns"]
+
+[STYLE: 90s South Indian Film Song, Raga Abheri, Slow-tempo]
+
+[RECORDING: Natural dynamics]
+
+[INTRO: Soulful Flute solo followed by a sweeping Violin orchestra and Veena plucking]
+
+[LYRICS]
+[MALE_START_ON: "నువ్వు లేవు.."]
+
+[INSTRUCTIONS: Strictly follow MALE, FEMALE and CHORUS boundaries]
+
+[MALE]
+నువ్వు లేవు,
+నీ నవ్వు వుంది
+నీ ఊసే  వుంది 
+నీ మాట వుంది
+నీ చూపు వుంది
+
+[INTERLUDE]
+నీ నవ్వు వుంది
+
+[FEMALE]
+వెండిగిన్నెలో పాలబువ్వ నింపినట్ట
+నగలపెట్టెలో ముత్యాలు దొర్లినట్ల
+పూలబుట్టలో మల్లె విచ్చు కొన్నట్ట
+దేవుడి గదిలో దీపం పెట్టినట్ట
+
+[CHORUS, MALE, FEMALE]
+నువ్వు లేవు,
+నీ నవ్వు వుంది
+నీ ఊసే  వుంది 
+నీ మాట వుంది
+నీ చూపు వుంది
+నీ నవ్వు వుంది, నువే లేవు. నువ్వు లేవు
+[INTERLUDE]
+
+[MALE]
+నీ ఊసే వుంది
+
+[FEMALE]
+తలలో పింఛం కట్టినట్ట, వెన్నముద్ద చేత పట్టినట్ట.
+చెంగల్వదండ మెడలో వేసి,
+బంగరుమువ్వ కాలికి కట్టినట్ట.
+
+[FEMALE]
+కొండమీది కోవెల స్తంభం గంటకొట్టినట్ట
+పుట్టతేనె తాగి పాలపిట్ట ఆడిపాడినట్ట
+వీణమీటినట్ట, కోయిలకూసినట్ట, చిలుక కులికినట్ట
+
+
+[CHORUS, MALE, FEMALE]
+నువ్వు లేవు,
+నీ నవ్వు వుంది
+నీ ఊసే  వుంది 
+నీ మాట వుంది
+నీ చూపు వుంది
+నీ నవ్వు వుంది, నువే లేవు. నువ్వు లేవు
+[INTERLUDE]
+
+
+[MALE]
+నీ చూపు వుంది 
+
+[FEMALE]
+ముందుజన్మల ఊసులన్నీ పూసగుచ్చి తెచ్చినట్ట
+కృష్ణమ్మ ఎదమీద ఎన్నెల సూత్రాలు మెరిసినట్ల
+కొండానయ్య గుడిమీద వేకువ కిరణం పరచినట్ట
+
+[CHORUS, MALE, FEMALE]
+నువ్వు లేవు,
+నీ నవ్వు వుంది
+నీ ఊసే  వుంది 
+నీ మాట వుంది
+నీ చూపు వుంది
+
+[MALE]
+మామిడి చెట్టు మొగ్గ వేసినట్ట,
+అమ్మ ఒడిలో పాప నిద్రపోయినట్ట.
+ముంగిట ముగ్గు వేసినట్ట,
+కొండపైన మబ్బువాలి నట్ట
+
+[OUTRO]
+నువ్వు లేవు,
+నీ నవ్వు వుంది
+నీ ఊసే  వుంది 
+నీ మాట వుంది
+నీ చూపు వుంది
+[END]
+
+===== FILE: ./Misc/BeautifulWords.txt =====
+
+తేటనీటియూట
+karpoora Bharina
+యెలనాగ.
+అందాల పోవు,
+నిర్జల గౌాతమినీలఅజల
+ములకు 
+వనపుష్ప చేలాంచలములలో 
+సూల మనసులు పూల బాసలు 
+బోరాన్‌ విలాలయు, గులాబులయు, వివిధ సంకనువర్గములు, మల్టీమాలతుల
+స్వచ్చ వాదయార్హ్ర "బే పతే వర్ణములు, చంపక కనశాంబరోముల సువర్ణ రాగములు,
+సీలాంబర నిర్శల నీలములు కలన మెలనీ చిత్రరూపమె సొబగుమిం చిన జమిం
+డారు-గారి యుపవనములో, శారద ముగ్గవనలవ్మీవ లె పూలు కోయుచున్నది. 
+
+ఈ వివాహపుతంతునం బేమి విచితమున్నదో కాని యా మూడుముళ్లు
+పడునప్పటికి సము ద పుటుష్తూ నడవి యుసిరక వంటి 'రెండుజీవితాలు మిళిత మె
+పోవును. ఏ కొండలలో పుట్టినవో ఏ లోయలలో (పవహించి వచ్చినవో,
+ప వ "లక్కి నవో, న పల్లముల నింపినవో, రెండు జీవిత ప వాహాలు చెరి
+యొక దారి నరుచెంచి్కి యీ పుణ్య వివాహ వేదికకడ సంగమించి (పయాగ
+ము పరిణమించునుకదా యనుకొని నారాయణరావు అక్కు_జపడేను, 
+
+నీంహో-చలము సంపెంగలు. పచ్చ, తెలుపు జూతులవి కలవు, కనంగ
+సంపెంగ, కర్పూర సంపెంగ, సకలగుణ సంపెంగ, తీ'సంపెంగ యాతని
+ముద్దుబిడ్డలు, ఎడ్యర్లు, కా ర్టెన్‌ డఆరైను, భవళమగు నమెరికా సుందరి పాలె
+ఫ్‌ రాను మొదలగు నెనుబది రకముల గులాబుల (పాణ పదముగా చబెంచినాడదు,
+బొడ్డుమ లై జంటమర్భై పొదమ లై పందిరిమ'ల్లై చిరుమళల్లై కాకినాడమ శైలు
+నక్షత్రము వలె విరిసీ యాతని కన్నుల నార్ట్రములు చేయును, చెన్న పట్టణపు
+బొడ్డు చేమంతి, “తెల్ల చేమంతి చిన్నది, సాదారకము బొ తాము చేమంతి, సలు
+చేమంతి, ఎజ్జచేమంతి, అర చేతి పెద్దజాతి చేమంతులు నాతని జీవితమున దీపు
+లూర జేయును. కదంబము కలదు, పేస్నీ ఈ వృక్షము లున్నవి చేవపారిజాత మ
+లున్నవి, పూవుదానిమ్మ లున్నవి, 
+
+దాన్ని నూత్తే
+మెనంగోరువంక సీగ్గుపడాలి, బెకాళుడు సడిలో నున్న గా తోయినబచాక రా
+తళ తళ లాడేటి వొళు, లేత రావాక అర సేతులు, సెంగలువకాడ సేతులు,
+సెందురుడులాంటి “వెంగమూ, నగచ _తాల్తాంటి పళ్లు పిల్ల రెప రెపలాడిపోతూ
+గున్నమౌయిడి సెట్టులా ఉం జేదంటా !
+
+===== FILE: ./Misc/kaluva.txt =====
+
+కలువ పూవొకటి ... తనువెల్ల తడిసి.. 
+చలికి వొణికి.. వెన్నెలలో మురిసి..
+ననుచూసి నవ్వింది.. నామది ఆడిపాడింది!
+[ INTERLUDE]
+ఆమె కన్నుల.. కలల పొంగులా ...
+యేటిఅలల.. వెన్నెలకన్నె బాసలా..
+ముత్యపు చిప్పల.. నవ్వుల తళుకులా..
+పెదవులపై మెదిలిన.. మథుగీత మాలికలా..
+ననుచూసి నవ్వింది.. నామది ఆడిపాడింది!
+[INTERLUDE]
+మేఘా లే.. ఆగెనా... మెరుపు లే..మురిసెనా..
+|| ననుచూసి నవ్వింది.. నామది ఆడిపాడింది!||
+[Hook]
+కదిలిన మువ్వల సవ్వడిలో.. 
+ఎగసిన చందన గంధములు..
+[INTERLUDE]
+అడుగు అడుగు లో ... చల్లిన మోహపు అత్తరులు...
+దోసిట నిండిన పువ్వులతో.. 
+పంచిన ప్రాయపు తొలకరులు..
+|| ననుచూసి నవ్వింది.. నామది ఆడిపాడింది||
+మౌనపు పాటై.. మనసున మాటై
+నీడగ తోడై.. జీవన యానమై   
+కలలే నిజమైయే.. కధలే శుభమైయే
+తనతోనే మొదలైన.. నా జీవన నౌకా యానం!
+|| ననుచూసి నవ్వింది.. నామది ఆడిపాడింది||
+
+===== FILE: ./Misc/neePalukulu.txt =====
+
+నీ పలుకులూ...పూల వరదలు!
+నీ నవులేమో! రంగుల నదీనదములు..
+నీ పలుకులూ...పూల వరదలు!
+నీ నవులేమో!  రంగుల నదీనదములు
+
+నడిచిన చోట్లేమో! చేమంతులాయె...
+తాకిన పూలేమో! రాచిలుకలాయె!
+
+[Interlude 1]
+కురిసేసిరిమల్లెలు!! నువు చూసిన చూపుల్లో...
+మెరిసేహరివిల్లులు!! నువు మోసిన తలపుల్లో...
+[Verse 2]
+||
+యమునా నది నడకలు
+నర్మదకున్న ఒంపులు
+కావేరీ గమకాలు నీవేగా!
+నీవేనా.. నీకేనా.. నీ కొరకేనా...
+
+ఆమనిలో  నీ అలజడులు.. ఆ అణకువలు, ఆమరు పాట్లు
+నీవేనా.. నీకేనా.. నీ కొరకేనా...
+
+[Hook: fast tempo]
+కురిసేసిరిమల్లెలు.!! నువు చూసిన చూపుల్లో.
+మెరిసేహరివిల్లులు!! నువు మోసిన తలపుల్లో.
+
+[Interllude, Allegro]
+
+పాదము నీవు మోపిన నేలంతా!! పచ్చని పందిరి వేసింది!
+శ్వాస నీది సోకిన గాలంతా,!! గంధపు పూతను పూసింది!
+ఆమని నీతో జతకట్టి!! పున్నమి చెంతకు చేరింది!
+
+[Hook - Reprise]
+కురిసేసిరిమల్లెలు!! నీవు చూసిన చూపుల్లో!
+మెరిసేహరివిల్లులు!! నీవు మోసిన తలపుల్లో!
+[Interlude 3]
+||
+కన్నుల నల్లని కాటుకలు@ అవి కోరిక దాగిన వేకువలు
+చుక్క నీముక్కు పుడక@ నాలుగు దిక్కుల మెరుపులు!
+చెలి నీ చెక్కిలి తాకిన గాలి@ యౌవన పూల పరాగమే!!
+నీవు పలికిన మౌనములే@  మునుముందు జీవన గానములే!
+||
+కురిసేసిరిమల్లెలు!!  నీవు చూసిన చూపుల్లో!
+మెరిసేహరివిల్లులు!!  నీవు మోసిన తలపుల్లో!
+
+
+===== FILE: ./neepalukulu_fem/lyrics.txt =====
+
+నీ పలుకులు...  ప్రణవ నాదములు!
+నీ నవులేమో... చైతన్య స్రవంతులు..
+
+నీవు నడిచిన చోటే... కాలం కరిగిపోయే!
+నీవు తాకిన శిళలే... జీవ నాట్యములయే!
+
+[Hook]
+
+కురిసే జ్ఞాన వర్షాలు! నువుచూసిన చూపుల్లో!!!
+కదిలే భావ చిత్రాలు! నువుమోసిన తలపుల్లో!!!
+
+[interlude]
+
+ఆకాశ విహారాలు...ఆత్మ నిశ్చలనాలు
+అనాహత గమకాలు.. నీవేగా!
+నీవేనా!.. నీకేనా!!.. నీ కొరకేనా!!!...
+
+ఆ స్వప్నలోక సౌందర్యం.. ఆ దివ్య లావణ్యం...
+ఆ మేని వైభవం.. నీదేగా!
+నీవేనా!.. నీకేనా!!.. నీ కొరకేనా!!!...
+
+[Interlude]
+
+[Verse]
+
+నీ పాదము మోపిన చోటల్లా... మనోగ్ణ పీఠమై వెలిసెను!
+నీ శ్వాస సోకిన నా ప్రాణం!! అమృత కమలమై విరిసెను!
+
+నీ కన్నుల మెరిసే ధ్రువతారలు ... వెలుగు, విజ్ఞానాలు!!
+
+నీ నుదుట మెరిసే జ్ఞాన రేఖ ... నిఖిల సౌదామినిలు!
+
+[INTERLUDE]
+ఓ సఖా! నిను తాకిన గాలి... దివ్య పరిమళ పరాగమే!!
+ఓ ప్రియా!! నీమౌనములే... నా భావి జీవన శాసనములే!
+
+
+===== FILE: ./Neeperuvinipistunte/నీ పేరు వినిపిస్తుంటే.txt =====
+
+[Male Start On, adagio]
+మాటలకందని మధురానురాగం
+వలపుకు విరిసిన పరిమళ పారిజాతం
+
+[Hook, chorus, allegro]
+నీ పేరు వినిపిస్తుంటే...మనసు ఆగనంటుందే!
+నీ రూపు తలచుకొంటే...రోజు గడవనంటుందే!
+
+[Verse]
+నీతో కలిసినడవాలని...పదే పదే కోరుకున్నా...
+నీడై తోడురావాలని ...ఎన్నో కలలు కన్నా!
+కనులు విప్పి చూస్తుచూస్తూ...రెప్ప వేయడం మరిచా!
+నీ పెదవిచాటు నవ్వుల్లో...గుట్టు లెన్నో తెలుసుకున్నా
+
+[Hook, chorus, allegro]
+నీ పేరు వినిపిస్తుంటే...మనసు ఆగనంటుందే!
+నీ రూపు తలచుకొంటే...రోజు గడవనంటుందే!
+
+[Interlude]
+తేనెటీగ తాకినా...ఎండవేడి సోకినా...
+పువ్వు అదే కోరుతుంది, తనకుతానే విచ్చుకుంది
+అందుకున్న హాయిలో...తన రూపం నింపుతుంది
+మౌనంగా పక్కన చేరి, నీ బడలిక తీర్చనీవా?
+
+[Hook, chorus, allegro]
+నీ పేరు వినిపిస్తుంటే...మనసు ఆగనంటుందే!
+నీ రూపు తలచుకొంటే...రోజు గడవనంటుందే!
+
+[Interlude]
+
+హోరుమనే గాలిలో...తెరిపిలేని వానలో...
+పిట్టపాట మానదు, పొద్దు వద్దని చెప్పదు
+ఆశలు బాసలు వీడి...నీ గూటి పక్షినై వాలనా!
+నీ అలసట కరిగేలా, ఒక జోల పాట పాడనా?
+
+[Bridge]
+
+ఆలకింపు ఆపకు ...మౌనంగోడలు కట్టినా...
+కలలుకనుట ఆపకు… కంటనిదుర కరవైనా..
+రాలిన పూవున కూడా… మిగిలిఉంది పరిమళం 
+ఎండిన కొమ్మను కూడా… దాగిఉంది మకరందం
+
+[Female]
+
+నీ నవ్వుల వెన్నెలలో...ఒక మల్లెనై వికసించనా?
+నీ గుండె సవ్వడిలో...నీ ప్రాణమై జీవించనా?
+
+[Hook, chorus, allegro]
+నీ పేరు వినిపిస్తుంటే...మనసు ఆగనంటుందే!
+నీ రూపు తలచుకొంటే...రోజు గడవనంటుందే!
+
+===== FILE: ./neetiloki/lyrics.txt =====
+
+నీటిలోకి చూశా నేనుంటానని...
+	అందున ఉన్నది నీ బింబమే
+ 
+మబ్బుల్లో చూస్తా నీవుంటావని..
+	వర్షమై కురిసే నీ పలుకులు 
+ 
+రెప్పలు పొదిగిన రేపటి ఆశలు...
+ధూపం చాటున దూరపు చూపులు!
+
+అద్దం ముందర  నిల్చుంటే..
+	మెరిసిపోయిన నీ అందం 
+
+నిద్దుర పోయి కలగంటే..
+	జ్ఞాపకమున్నది నీ రూపం
+
+రెప్పలు పొదిగిన రేపటి ఆశలు...
+ధూపం చాటున దూరపు చూపులు!
+
+నీకోసం ప్రతి రోజూ …
+	ఏదో ఏదో గుబులు..
+పలకలేని పిలుపుల్లో …
+	ఎంతో ఎంతో దిగులు..
+
+మోయలేని వీణపై
+	మూగవోయిన తీగలు...
+
+తెల్లవారని రేయికి
+	అలసి‌ పోయిన చుక్కలు...
+
+రెప్పలు పొదిగిన రేపటి ఆశలు
+ధూపం చాటున దూరపు చూపులు!
+
+All my smiles, you can have all my smiles, whenever I can find them~
+
+
+===== FILE: ./OTSB/lyrics.txt =====
+
+[Interlude]
+<--->
+ఒక చేతిలో డిగ్రీ పేపర్
+మరో చేతిలో ట్రావెల్ బ్యాగ్
+తెలవారగనే బస్ స్టాండ్
+పలకలేని పేర్లతో బజార్లు
+<--->
+[Chorus]
+బొంబాయ్ వీధుల్లో
+నా కలలు రంగుల బలూన్లా ఎగురుతుంటే
+ఎవరూ అడగరు
+“నీఊరెక్కడ” “నీ గోసేమిటి?” అని
+<--->
+[Chorus]
+బొంబాయ్ వీధుల్లో
+నేర్చుకున్నా| పరదేశంలో| ఈ సులువుందని
+<--->
+మెరిసే మెరైన్ డ్రైవ్.. తన మెడలో హారం
+మెలికల సీలింక్.. తన నడకల నాట్యం
+<--->
+ఆకాశం హద్దుగా.. తన మేడల గర్వం
+అరచేత అద్భుతం.. ఈ పరుగుల షెహరం
+<--->
+[Interlude]
+బొంబాయ్ వీధుల్లో
+నా కలలు ప్లాస్టిక్ పతంగలా ఎ—గురుతుంటే
+ఎవరూ అడగరు
+“ఎప్పుడు తిన్నావ్?” “నీ కేం కావాలి” అని
+<--->
+[Chorus]
+బొంబాయ్ వీధుల్లో
+నేర్చుకున్నా| ఒంటరితనం| తోడై ఉంటుందని
+<--->
+[Interlude]
+పిలిచింది తనే నన్ను.. చేయి చాపి అప్పుడు
+కన్ను గీటి అడిగింది.. తోడు రమ్మని ఇప్పుడు
+<--->
+దరి చేరలేక నేను.. వెనకడుగు వేసినా
+గులాబీ లేనిదే.. తన తలుపు తట్టను..
+<--->
+[Chorus]
+బొంబాయ్ వీధుల్లో
+నా పేరొక రోడ్డుకు పెట్టుకున్నా
+<--->
+సిగ్గు తో చెరిపి,
+మళ్లీ మళ్లీ మళ్లీ రాసు కున్నా
+<--->
+[Chorus]
+బొంబాయ్ వీధుల్లో
+కలలుకన్నా ఓ రోజివే నా పేరును మోస్తాయని
+<--->
+నను పిలుస్తాయని... నా పేరును  మోస్తాయని...
+<--->
+[Interlude]
+On The Streets of Bombay..My dreams are floating high..
+On The Streets of Bombay..My wings are ready to fly..
+
+[Suno Prompt]
+Singer: soulful Carnatic-influenced vocals, R&B, and soft melodic textures. Utilize keywords like "high-pitched tenor," "soulful ballad," "melismatic singing," and "Tamil/Telugu melodic pop" to capture his style.   Song:   Mid-tempo indie-folk with Indian percussive groove, nylon-string guitar, and gentle bass; male vocals in an intimate, storytelling tone. Verses stay close and conversational, chorus blooms with bright harmonies and a simple nagada-like pulse. Subtle ambient city sounds tucked low in the mix to paint place, final chorus adds claps and a soaring ad-lib line.
+
+===== FILE: ./pallava/lyrics/pallava.txt =====
+
+[Hook]
+పాట కట్టనా పల్లవ ప్రతిమా!
+నిద్రలేచి నర్తనమాడుమా... x2
+
+[Interlude]
+
+[Verse1]
+ఆటుపోటుల కడలి కాంత,
+తేట గీతుల కవితలీయ... x2
+
+శతాబ్దముల శిలా న్యాసము
+జారి పోయే జాగృత కాంతవై
+
+నిద్రలేచి నర్తనమాడుమా... [Interlude]
+
+[Verse2]
+విష్ణు గోపుని వీర వనితవో...
+మహేంద్ర వర్మ మధుర కవితవో!
+నరసింహ రాయ శిల్ప కళానిధివో
+అపరాజితుని ఆంతరంగ సఖివో
+
+[Hook]
+పాట కట్టనా పల్లవ ప్రతిమా!
+నిద్రలేచి నర్తనమాడుమా... 
+
+[Bridge]
+ముద్దు మోమున నవ్వు పువ్వులు
+మువ్వల సవ్వడి నెమ్మది నడతలు
+నిద్రలేచి నర్తనమాడుమా... 
+
+[Verse3]
+కంచి గోపుర ఘటికా చార్యము
+జ్ఞానదీప గ్రంథ కదంబములు
+వేదనాద భరిత హృదయము
+
+నిద్రలేచి నర్తనమాడుమా... 
+
+[Verse4]
+చరణ కింకిణి మధుర నాదము
+నేడు నీ వీథులటుల ఉన్నదే 
+గంధర్వ గాన ప్రతిధ్వనులనూ
+పుర ప్రాంగణముల మ్రోగుచున్నవే
+
+నిద్రలేచి నర్తనమాడుమా... 
+
+[Verse5]
+సిరి చందన కస్తూరి గంధములు
+పుష్యరాగ పగడ కటిబంధములు 
+అమరిన శృంగార సంచరితవై
+నిద్రలేచి నర్తనమాడుమా... 
+
+[Hook]
+పాట కట్టనా పల్లవ ప్రతిమా!
+నిద్రలేచి నర్తనమాడుమా... 
+
+https://youtu.be/SX6eFsq07jY
+
+===== FILE: ./PellaNakaa/lyrics/lyrics.txt =====
+
+
+[Hook / Refrain]
+పెళ్ళా? నాకా? అప్పుడేనా?!
+ఎలా? ఏమిటో?  చెబుతారా? ఎవరైనా!!
+
+[Interlude]
+పెళ్ళంటే ఏడు మెట్లు ఎక్కాలి  -  Boys & Girls 
+[Interlude]
+
+మొదటి మెట్టు: అభిమానం ...
+...
+శబ్దంలో నిశ్శబ్దంగా తన పేరు
+చెప్పిన మాటల బట్టి తన తీరు
+తల చుట్టూ అలల్లా తారల తళుకులు
+అల అలా ఒక అభిమానం మొదలు
+
+(Hook: పెళ్ళా? నాకా? అప్పుడేనా?!...ఎలా? ఏమిటో?  చెబుతారా? ఎవరైనా!!)
+
+రెండో మెట్టు: ఆరాథన...
+...
+క్రమం తప్పని వేకువ లోని ఓర్పు
+సముద్రమంతటి లోతైన విజ్ఞత
+సౌమ్య సంస్కార సమ్మిళిత నైజం
+సుమపరాగ సంభరిత సౌందర్యం
+
+(Hook: పెళ్ళా? నాకా? అప్పుడేనా?!...ఎలా? ఏమిటో?  చెబుతారా? ఎవరైనా!!)
+
+మూడో మెట్టు:  ప్రేమ ...
+...
+అమరమైన ఆరాధన ఒక దాహం
+ప్రేమ ఆ ఆర్తికి తగిన అమృతం
+మమతల పొదరింటికి వలపు తోరణం
+తమకపు తొలకరిలో తొలి వసంతం
+
+(Hook: పెళ్ళా? నాకా? అప్పుడేనా?!...ఎలా? ఏమిటో?  చెబుతారా? ఎవరైనా!!)
+
+నాలుగవ మెట్టు: ప్రణయం..‌.
+...
+ఎవరికీ లేని కలిమి నీ చెలిమి...
+ఎన్నడు మోయని మధురభారమిది
+తనివి తీరని సంజ సమాగమాలు..
+ప్రణయపు ఒడిలో ఒదిగిన గుండెలు!
+
+(Hook: పెళ్ళా? నాకా? అప్పుడేనా?!...ఎలా? ఏమిటో?  చెబుతారా? ఎవరైనా!!)
+
+ఐదోమెట్టు:  ప్రతిపాదన...
+...
+ఏడు జన్మల బంధం ముందుకు వచ్చి
+జోడు గుండెల తాళం దీవెన చదివి
+నాలుగు కన్నుల కాంతులు దీపం పెట్టి
+చెదరని ఇద్దరి ఒద్దిక కిది ప్రతిపాదన!
+
+(Hook: పెళ్ళా? నాకా? అప్పుడేనా?!...ఎలా? ఏమిటో?  చెబుతారా? ఎవరైనా!!)
+
+ఆరోమెట్టు:  వాగ్దానం ...
+...
+ఎన్నడు నీ చేతిని వీడను..
+ ఎప్పుడు నీ గీతను దాటను
+మనసు.. మమత ..కరుణ.. మరువక
+తుది శ్వాస వరకు నీ తోడని వాగ్దానం!
+
+(Hook: పెళ్ళా? నాకా? అప్పుడేనా?!...ఎలా? ఏమిటో?  చెబుతారా? ఎవరైనా!!)
+
+ఏడోమెట్టు: వివాహం...
+...
+హితులకు మురిపెము ఇరు హృదయాల పరిణయం
+అడుగున అడుగై సాగే జీవన పయనం
+అల్లుకున్న అనురాగాల పవిత్ర సంగమం
+మంగళ సూత్రము వేసే మమతల బంధం!
+
+పెళ్ళా? నాకా? I am OK!...
+పెళ్ళా? నాకా? అయితే OK!...
+పెళ్ళా? నాకా? I am OK!...
+పెళ్ళా? నాకా? అయితే OK!...
+
+===== FILE: ./Sarasa/translations.txt =====
+
+సారస నేత్రి... సముద్ర తల్ప సితఛత్రి...
+(Lotus-eyed beauty... floating on the ocean under a mother-of-pearl canopy...)
+
+సౌరభ గాత్రి... భరత సంస్కృతి సుమపుత్రి...
+(Fragrant-voiced one... the floral daughter of Indian culture...)
+
+చూపుల చమత్కారం... చందన చర్చిత నాట్యశిల్పం
+(Your eyes have a magic... You are a dance sculpture anointed with sandalwood paste)
+
+చెన్నపురి సింగారం... చిన్మయ రూప సౌందర్యం!
+(You are the pride of Chennai... Your beauty comes from the divine!)
+
+నీల కురుల మేఘమాల... నింగి వీడిన తార
+(Dark tresses like a wreath of clouds... a star that has descended from the sky)
+
+బాల కనక కలశకాంతి... రమణీయ కావ్య గానం
+(The radiance of a golden kalash... the melody of an exquisite epic poem)
+
+చూడ పిడికిట నడుము... రత్నమాల సప్తరాగం
+(A waist so slender it fits in a fist...You wear the seven notes of music as a necklace)
+
+తోడు పలికిన కోకిల... ఘన గమనపు లయ!
+(The songbirds accompany you in singing... You have the rhythm of a majestic gait!)
+
+అక్షర క్షీరధార... జ్ఞానప్రసూన ఆదికావ్యం
+(A milky stream of letters... the primordial poem blooming with wisdom)
+
+దక్ష గాన సుస్వరం... సాత్విక సౌందర్య సారం
+(An expert and melodious voice... the essence of pure and serene beauty)
+
+శిక్షణ కింకిణి నాదం... చంచల చైతన్య నాట్యం
+(The rhythmic sound of trained anklets... the dance of stream of consciousness)
+
+రక్షణ సంస్కార మౌనం... మహోన్నత మౌన మంత్రం!
+(The silence of protective culture... the supreme mantra of profound stillness!)
+
+సారస నేత్రి... సముద్ర తల్ప సితఛత్రి...
+(Lotus-eyed beauty... floating on the ocean under a mother-of-pearl canopy...)
+
+సౌరభ గాత్రి... భరత సంస్కృత సుమ పుత్రి...
+(Fragrant-bodied one... the floral daughter of Indian culture...)
+
+సునయనీ చమత్కారం... చందన చర్చిత చిత్ర శిల్పం
+(The charm of beautiful eyes... You are a dance sculpture anointed with sandalwood paste)
+
+చెన్నపురి సింగారం... చిన్మయ రూప సౌందర్యం!
+(The pride of Chennai... Your beauty comes from the divine!)
+
+కొమ్మకు కస్తూరి తిలకం... వేదమంత్రపు వెన్నెల
+(A musk tilak for the daughter... in the moonlight of Vedic hymns)
+
+అమ్మకు అమృత దీపం... సుందర తమిళ వాసం
+(The blessing of long life for the Mother... in the beautiful Tamil home)
+
+===== FILE: ./sizes.txt =====
+
+5.2G	./.git/objects/pack/pack-74338f915d14fb47a14c3e96337deb2499d024d7.pack
+1.1M	./.venv/lib/python3.12/site-packages/PIL/_imaging.cpython-312-darwin.so
+5.4M	./April_nati/April Nati_sad.mp3
+5.0M	./April_nati/aprilnati.mp3
+2.4M	./April_nati/aprilnati.mp4
+ 96M	./April_nati/aprilnativideo.mp4
+2.2M	./Ekasila/ekasila.mp3
+4.6M	./Ekasila/ekasila.mp4
+ 41M	./Ekasila/ekasilavideo.mp4
+4.0M	./Ghadiya/ఘడియ.mp3
+4.4M	./Gittakommu/gittakommu.mp3
+4.0M	./Gittakommu/gittakommu.mp4
+130M	./Gittakommu/gittakommu_video.mp4
+2.2M	./Misc/kallagajja.mp3
+5.5M	./Misc/nee illai.mp3
+3.5M	./Neepalukulu/c54a6253-6f28-4f1c-b626-e1adb41b138f.mp4
+2.3M	./Neepalukulu/chamanthulu1.mp4
+2.6M	./Neepalukulu/deers1.mp4
+3.1M	./Neepalukulu/deers2.mp4
+1.2M	./Neepalukulu/grok-video-db2c4c7d-53f2-4173-b1b5-5165f55f9064 (1).mp4
+2.8M	./Neepalukulu/grok-video-db2c4c7d-53f2-4173-b1b5-5165f55f9064 (11).mp4
+1.8M	./Neepalukulu/grok-video-db2c4c7d-53f2-4173-b1b5-5165f55f9064 (3).mp4
+1.7M	./Neepalukulu/grok-video-db2c4c7d-53f2-4173-b1b5-5165f55f9064 (4).mp4
+2.8M	./Neepalukulu/grok-video-db2c4c7d-53f2-4173-b1b5-5165f55f9064 (6).mp4
+2.5M	./Neepalukulu/grok-video-db2c4c7d-53f2-4173-b1b5-5165f55f9064.mp4
+1.6M	./Neepalukulu/katuka1.mp4
+2.5M	./Neepalukulu/katuka2.mp4
+1.7M	./Neepalukulu/katukakanulu.png
+3.3M	./Neepalukulu/kaveri.mp4
+2.8M	./Neepalukulu/mounaragam.mp4
+3.5M	./Neepalukulu/narmada.mp4
+5.7M	./Neepalukulu/neepalukulu.mp3
+1.8M	./Neepalukulu/neepalukulu_01.png
+1.9M	./Neepalukulu/neepalukulu_02.mp4
+2.1M	./Neepalukulu/neepalukulu_08.png
+2.0M	./Neepalukulu/neepalukulu_09.png
+2.0M	./Neepalukulu/neepalukulu_10.png
+1.9M	./Neepalukulu/neepalukulu_11.png
+2.0M	./Neepalukulu/neepalukulu_12.png
+2.5M	./Neepalukulu/neepalukulu_13.png
+2.2M	./Neepalukulu/neepalukulu_14.png
+2.0M	./Neepalukulu/neepalukulu_15.png
+2.1M	./Neepalukulu/neepalukulu_16.png
+2.0M	./Neepalukulu/neepalukulu_17.png
+2.2M	./Neepalukulu/neepalukulu_18.png
+2.6M	./Neepalukulu/neepalukulu_19.png
+2.6M	./Neepalukulu/neepalukulu_20.png
+7.8M	./Neepalukulu/neepalukulu_21.mp4
+5.9M	./Neepalukulu/neepalukulu_22.mp4
+2.5M	./Neepalukulu/neepalukulu_23.png
+2.5M	./Neepalukulu/neepalukulu_24.png
+2.0M	./Neepalukulu/neepalukulu_25.png
+1.8M	./Neepalukulu/neepalukulu_26.png
+1.9M	./Neepalukulu/neepalukulu_27.png
+2.1M	./Neepalukulu/neepalukulu_28.png
+2.0M	./Neepalukulu/neepalukulu_29.png
+ 10M	./Neepalukulu/neepalukulu_30.mp4
+1.7M	./Neepalukulu/neepalukulu_30.png
+2.5M	./Neepalukulu/neepalukulu_31.png
+ 66M	./Neepalukulu/neepalukulu_video.mp4
+2.8M	./Neepalukulu/peacock.mp4
+2.3M	./Neepalukulu/sandalwood.mp4
+1.7M	./Neepalukulu/swans3.mp4
+1.9M	./Neepalukulu/swans4.mp4
+2.6M	./Neepalukulu/videowithdeers.mp4
+1.8M	./Neepalukulu/yamuna.mp4
+2.0M	./Neeperuvinipistunte/grok-video-55eaf5e1-7282-43a1-a1ff-b46db809ecd8 (1).mp4
+2.6M	./Neeperuvinipistunte/grok-video-55eaf5e1-7282-43a1-a1ff-b46db809ecd8 (10).mp4
+4.5M	./Neeperuvinipistunte/grok-video-55eaf5e1-7282-43a1-a1ff-b46db809ecd8 (11).mp4
+2.1M	./Neeperuvinipistunte/grok-video-55eaf5e1-7282-43a1-a1ff-b46db809ecd8 (12).mp4
+1.8M	./Neeperuvinipistunte/grok-video-55eaf5e1-7282-43a1-a1ff-b46db809ecd8 (13).mp4
+5.2M	./Neeperuvinipistunte/grok-video-55eaf5e1-7282-43a1-a1ff-b46db809ecd8 (14).mp4
+5.2M	./Neeperuvinipistunte/grok-video-55eaf5e1-7282-43a1-a1ff-b46db809ecd8 (15).mp4
+2.4M	./Neeperuvinipistunte/grok-video-55eaf5e1-7282-43a1-a1ff-b46db809ecd8 (16).mp4
+1.7M	./Neeperuvinipistunte/grok-video-55eaf5e1-7282-43a1-a1ff-b46db809ecd8 (2).mp4
+1.8M	./Neeperuvinipistunte/grok-video-55eaf5e1-7282-43a1-a1ff-b46db809ecd8 (3).mp4
+2.1M	./Neeperuvinipistunte/grok-video-55eaf5e1-7282-43a1-a1ff-b46db809ecd8 (4).mp4
+2.0M	./Neeperuvinipistunte/grok-video-55eaf5e1-7282-43a1-a1ff-b46db809ecd8 (5).mp4
+2.9M	./Neeperuvinipistunte/grok-video-55eaf5e1-7282-43a1-a1ff-b46db809ecd8 (6).mp4
+2.6M	./Neeperuvinipistunte/grok-video-55eaf5e1-7282-43a1-a1ff-b46db809ecd8 (7).mp4
+2.9M	./Neeperuvinipistunte/grok-video-55eaf5e1-7282-43a1-a1ff-b46db809ecd8 (8).mp4
+2.7M	./Neeperuvinipistunte/grok-video-55eaf5e1-7282-43a1-a1ff-b46db809ecd8 (9).mp4
+4.1M	./Neeperuvinipistunte/neeperuvinipistunte.mp3
+ 52M	./Neeperuvinipistunte/neeperuvinipistunte.mp4
+125M	./Neeperuvinipistunte/neeperuvinipistunte_video.mp4
+127M	./Neeperuvinipistunte/neeperuvinipistunte_video1.mp4
+5.3M	./OTSB/0 Lead Vocals.mp3
+7.6M	./OTSB/Bharathanatyam_By_Ranjitha.png
+ 16M	./OTSB/CST.png
+1.2M	./OTSB/CST2 (1).png
+1.3M	./OTSB/CST2.png
+ 33M	./OTSB/Instrumental.wav
+2.3M	./OTSB/Kites1.mp4
+2.0M	./OTSB/Kites2.mp4
+4.6M	./OTSB/Kites3.mp4
+ 11M	./OTSB/Rajasree_warrier_IMG_7539.png
+1.0M	./OTSB/Screenshot 2026-03-05 at 22.10.58.png
+1.3M	./OTSB/Screenshot 2026-03-05 at 22.13.35.png
+2.6M	./OTSB/Suluvu.mp4
+1.7M	./OTSB/acquaint.mp4
+1.7M	./OTSB/acquaint2.mp4
+3.8M	./OTSB/anthem.mp3
+2.1M	./OTSB/anthem1.mp4
+6.1M	./OTSB/anthem10.mp4
+6.4M	./OTSB/anthem11.mp4
+ 11M	./OTSB/anthem1_upscale.mp4
+2.2M	./OTSB/anthem2.mp4
+5.3M	./OTSB/anthem3.mp4
+5.1M	./OTSB/anthem4.mp4
+3.5M	./OTSB/anthem5.mp4
+2.6M	./OTSB/anthem6.mp4
+3.6M	./OTSB/anthem7.mp4
+6.1M	./OTSB/anthem8.mp4
+5.5M	./OTSB/anthem9.mp4
+2.5M	./OTSB/baganddegree-1.mp4
+2.5M	./OTSB/baganddegree-2.mp4
+5.5M	./OTSB/baganddegree1.mp4
+3.3M	./OTSB/baganddegree3.mp4
+3.6M	./OTSB/baganddegree4.mp4
+3.4M	./OTSB/balloons.mp4
+5.0M	./OTSB/balloons1.mp4
+2.7M	./OTSB/busystreet.png
+1.1M	./OTSB/chimera-00.00.00.000.png
+1.3M	./OTSB/chimera-00.00.00.980.png
+ 12M	./OTSB/chimera.mp4
+ 12M	./OTSB/chimera2.mp4
+ 36M	./OTSB/chimera2_upscale.mp4
+5.0M	./OTSB/chimera_balloons.mp4
+4.5M	./OTSB/driving.mp4
+1.4M	./OTSB/food-00.00.00.000.png
+2.9M	./OTSB/food.mp4
+9.9M	./OTSB/fruits.png
+1.3M	./OTSB/gateway_upscayl.png
+6.6M	./OTSB/glitz.mp4
+6.1M	./OTSB/glitz_169_zoom.mp4
+5.7M	./OTSB/grok-video-a94e3228-8a76-43ba-86bd-94bab335c63d.mp4
+2.6M	./OTSB/grok-video-fa2e85fe-1690-4e9e-a272-f7ea45696d3d.mp4
+9.1M	./OTSB/holi.png
+ 10M	./OTSB/holi1.mp4
+ 17M	./OTSB/holi2.png
+432M	./OTSB/interim.mp4
+1.5M	./OTSB/juhustreet.mp4
+ 32M	./OTSB/lady1.png
+ 28M	./OTSB/lady2.png
+3.6M	./OTSB/lonely1.mp4
+3.6M	./OTSB/marinedrive.mp4
+8.4M	./OTSB/meal1.png
+ 21M	./OTSB/monument1.png
+6.0M	./OTSB/ostb_balanced1.mp3
+139M	./OTSB/otsb.aup3
+8.8M	./OTSB/otsb.mp3
+4.5M	./OTSB/otsb1.mp3
+5.0M	./OTSB/otsb2.mp3
+4.2M	./OTSB/otsb3.mp3
+2.5M	./OTSB/otsb_5A.mp4
+6.4M	./OTSB/otsb_5B.mp4
+1.5M	./OTSB/otsb_5B_169_zoom.mp4
+8.9M	./OTSB/otsb_5C.mp4
+8.4M	./OTSB/otsb_5D.mp4
+6.0M	./OTSB/otsb_bef_extend.mp3
+5.5M	./OTSB/otsb_extend.mp3
+8.7M	./OTSB/otsb_ladies.mp4
+3.2M	./OTSB/otsb_prev_best.mp3
+3.4M	./OTSB/otsb_ver1.mp3
+5.3M	./OTSB/otsb_ver2.mp3
+6.0M	./OTSB/otsb_ver3.mp3
+432M	./OTSB/otsb_video.mp4
+ 79M	./OTSB/otsb_video1.mp4
+5.3M	./OTSB/otsbver2.mp3
+3.3M	./OTSB/otsbver2_extend.mp3
+ 15M	./OTSB/running1.mp4
+6.2M	./OTSB/running1_169_zoom_y400.mp4
+6.3M	./OTSB/running1zoom.mp4
+ 14M	./OTSB/running2.mp4
+5.2M	./OTSB/running21zoom.mp4
+ 19M	./OTSB/running22_upscale.mp4
+2.8M	./OTSB/running22zoom-00.00.15.280_upscayl_2x_digital-art-4x.png
+3.7M	./OTSB/running22zoom-00.00.15.280_upscayl_2x_high-fidelity-4x.png
+3.1M	./OTSB/running22zoom-00.00.15.280_upscayl_2x_ultramix-balanced-4x.png
+ 14M	./OTSB/running22zoom-00.00.15.280_upscayl_4x_upscayl-standard-4x.png
+5.5M	./OTSB/running22zoom.mp4
+5.2M	./OTSB/running2_169_zoom_y100.mp4
+5.9M	./OTSB/running2zoom.mp4
+ 20M	./OTSB/scen1_clean.mp4
+ 16M	./OTSB/scene1.mp4
+ 15M	./OTSB/sealink.png
+1.4M	./OTSB/streetsign.mp4
+6.0M	./OTSB/streetsign2.mp4
+8.4M	./OTSB/streetsign3.mp4
+1.5M	./OTSB/suluvu2.mp4
+1.5M	./OTSB/suluvu3.mp4
+3.9M	./OTSB/tardeo.png
+ 15M	./OTSB/temp_part1.mp4
+6.2M	./OTSB/temp_part2.mp4
+4.3M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0001.png
+4.3M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0002.png
+4.2M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0003.png
+4.3M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0004.png
+4.3M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0005.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0006.png
+4.3M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0007.png
+4.3M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0008.png
+4.3M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0009.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0010.png
+4.3M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0011.png
+4.3M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0012.png
+4.3M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0013.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0014.png
+4.3M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0015.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0016.png
+4.3M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0017.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0018.png
+4.3M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0019.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0020.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0021.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0022.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0023.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0024.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0025.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0026.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0027.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0028.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0029.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0030.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0031.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0032.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0033.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0034.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0035.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0036.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0037.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0038.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0039.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0040.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0041.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0042.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0043.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0044.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0045.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0046.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0047.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0048.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0049.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0050.png
+4.4M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0051.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0052.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0053.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0054.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0055.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0056.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0057.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0058.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0059.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0060.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0061.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0062.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0063.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0064.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0065.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0066.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0067.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0068.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0069.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0070.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0071.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0072.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0073.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0074.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0075.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0076.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0077.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0078.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0079.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0080.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0081.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0082.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0083.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0084.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0085.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0086.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0087.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0088.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0089.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0090.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0091.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0092.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0093.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0094.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0095.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0096.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0097.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0098.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0099.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0100.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0101.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0102.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0103.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0104.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0105.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0106.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0107.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0108.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0109.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0110.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0111.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0112.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0113.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0114.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0115.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0116.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0117.png
+4.7M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0118.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0119.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0120.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0121.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0122.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0123.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0124.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0125.png
+4.7M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0126.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0127.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0128.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0129.png
+4.7M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0130.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0131.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0132.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0133.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0134.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0135.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0136.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0137.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0138.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0139.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0140.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0141.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0142.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0143.png
+4.5M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0144.png
+4.6M	./OTSB/upscayl_input/anthem1_line31/upscayl_png_remacri-4x_2x/frame_0145.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0001.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0002.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0003.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0004.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0005.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0006.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0007.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0008.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0009.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0010.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0011.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0012.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0013.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0014.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0015.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0016.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0017.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0018.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0019.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0020.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0021.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0022.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0023.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0024.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0025.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0026.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0027.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0028.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0029.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0030.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0031.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0032.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0033.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0034.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0035.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0036.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0037.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0038.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0039.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0040.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0041.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0042.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0043.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0044.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0045.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0046.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0047.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0048.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0049.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0050.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0051.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0052.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0053.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0054.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0055.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0056.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0057.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0058.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0059.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0060.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0061.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0062.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0063.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0064.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0065.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0066.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0067.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0068.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0069.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0070.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0071.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0072.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0073.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0074.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0075.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0076.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0077.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0078.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0079.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0080.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0081.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0082.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0083.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0084.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0085.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0086.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0087.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0088.png
+4.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0089.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0090.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0091.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0092.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0093.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0094.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0095.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0096.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0097.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0098.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0099.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0100.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0101.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0102.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0103.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0104.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0105.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0106.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0107.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0108.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0109.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0110.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0111.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0112.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0113.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0114.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0115.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0116.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0117.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0118.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0119.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0120.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0121.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0122.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0123.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0124.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0125.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0126.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0127.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0128.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0129.png
+4.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0130.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0131.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0132.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0133.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0134.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0135.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0136.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0137.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0138.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0139.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0140.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0141.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0142.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0143.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0144.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0145.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0146.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0147.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0148.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0149.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0150.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0151.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0152.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0153.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0154.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0155.png
+4.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0156.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0157.png
+4.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0158.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0159.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0160.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0161.png
+4.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0162.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0163.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0164.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0165.png
+4.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0166.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0167.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0168.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0169.png
+4.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0170.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0171.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0172.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0173.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0174.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0175.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0176.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0177.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0178.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0179.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0180.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0181.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0182.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0183.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0184.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0185.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0186.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0187.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0188.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0189.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0190.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0191.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0192.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0193.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0194.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0195.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0196.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0197.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0198.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0199.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0200.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0201.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0202.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0203.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0204.png
+4.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0205.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0206.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0207.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0208.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0209.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0210.png
+4.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0211.png
+4.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0212.png
+4.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0213.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0214.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0215.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0216.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0217.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0218.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0219.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0220.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0221.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0222.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0223.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0224.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0225.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0226.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0227.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0228.png
+4.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0229.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0230.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0231.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0232.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0233.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0234.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0235.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0236.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0237.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0238.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0239.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0240.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0241.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0242.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0243.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0244.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0245.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0246.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0247.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0248.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0249.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0250.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0251.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0252.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0253.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0254.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0255.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0256.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0257.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0258.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0259.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0260.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0261.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0262.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0263.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0264.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0265.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0266.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0267.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0268.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0269.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0270.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0271.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0272.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0273.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0274.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0275.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0276.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0277.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0278.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0279.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0280.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0281.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0282.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0283.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0284.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0285.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0286.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0287.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0288.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0289.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0290.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0291.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0292.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0293.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0294.png
+4.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0295.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0296.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0297.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0298.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0299.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0300.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0301.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0302.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0303.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0304.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0305.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0306.png
+4.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0307.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0308.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0309.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0310.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0311.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0312.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0313.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0314.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0315.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0316.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0317.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0318.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0319.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0320.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0321.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0322.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0323.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0324.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0325.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0326.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0327.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0328.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0329.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0330.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0331.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0332.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0333.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0334.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0335.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0336.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0337.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0338.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0339.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0340.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0341.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0342.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0343.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0344.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0345.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0346.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0347.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0348.png
+3.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0349.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0350.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0351.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0352.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0353.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0354.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0355.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0356.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0357.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0358.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0359.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0360.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0361.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0362.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0363.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0364.png
+3.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0365.png
+3.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0366.png
+3.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0367.png
+3.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0368.png
+3.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0369.png
+3.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0370.png
+3.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0371.png
+3.6M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0372.png
+3.6M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0373.png
+3.6M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0374.png
+3.6M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0375.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0376.png
+3.6M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0377.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0378.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0379.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0380.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0381.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0382.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0383.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0384.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0385.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0386.png
+3.6M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0387.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0388.png
+3.6M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0389.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0390.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0391.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0392.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0393.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0394.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0395.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0396.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0397.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0398.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0399.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0400.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0401.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0402.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0403.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0404.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0405.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0406.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0407.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0408.png
+3.4M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0409.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0410.png
+3.5M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0411.png
+3.4M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0412.png
+3.4M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0413.png
+3.4M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0414.png
+3.4M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0415.png
+3.4M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0416.png
+3.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0417.png
+3.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0418.png
+3.3M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0419.png
+3.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0420.png
+3.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0421.png
+3.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0422.png
+3.2M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0423.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0424.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0425.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0426.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0427.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0428.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0429.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0430.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0431.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0432.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0433.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0434.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0435.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0436.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0437.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0438.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0439.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0440.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0441.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0442.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0443.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0444.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0445.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0446.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0447.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0448.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0449.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0450.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0451.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0452.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0453.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0454.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0455.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0456.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0457.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0458.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0459.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0460.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0461.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0462.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0463.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0464.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0465.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0466.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0467.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0468.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0469.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0470.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0471.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0472.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0473.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0474.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0475.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0476.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0477.png
+3.1M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0478.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0479.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0480.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0481.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0482.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0483.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0484.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0485.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0486.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0487.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0488.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0489.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0490.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0491.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0492.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0493.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0494.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0495.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0496.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0497.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0498.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0499.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0500.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0501.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0502.png
+2.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0503.png
+3.0M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0504.png
+2.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0505.png
+2.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0506.png
+2.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0507.png
+2.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0508.png
+2.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0509.png
+2.9M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0510.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0511.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0512.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0513.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0514.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0515.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0516.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0517.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0518.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0519.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0520.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0521.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0522.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0523.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0524.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0525.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0526.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0527.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0528.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0529.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0530.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0531.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0532.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0533.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0534.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0535.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0536.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0537.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0538.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0539.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0540.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0541.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0542.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0543.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0544.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0545.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0546.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0547.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0548.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0549.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0550.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0551.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0552.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0553.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0554.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0555.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0556.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0557.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0558.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0559.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0560.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0561.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0562.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0563.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0564.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0565.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0566.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0567.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0568.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0569.png
+2.8M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0570.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0571.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0572.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0573.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0574.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0575.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0576.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0577.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0578.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0579.png
+2.7M	./OTSB/upscayl_input/chimera2_line25/upscayl_png_remacri-4x_2x/frame_0580.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0001.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0002.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0003.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0004.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0005.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0006.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0007.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0008.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0009.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0010.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0011.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0012.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0013.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0014.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0015.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0016.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0017.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0018.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0019.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0020.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0021.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0022.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0023.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0024.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0025.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0026.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0027.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0028.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0029.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0030.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0031.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0032.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0033.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0034.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0035.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0036.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0037.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0038.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0039.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0040.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0041.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0042.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0043.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0044.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0045.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0046.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0047.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0048.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0049.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0050.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0051.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0052.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0053.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0054.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0055.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0056.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0057.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0058.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0059.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0060.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0061.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0062.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0063.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0064.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0065.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0066.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0067.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0068.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0069.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0070.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0071.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0072.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0073.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0074.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0075.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0076.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0077.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0078.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0079.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0080.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0081.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0082.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0083.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0084.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0085.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0086.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0087.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0088.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0089.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0090.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0091.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0092.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0093.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0094.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0095.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0096.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0097.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0098.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0099.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0100.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0101.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0102.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0103.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0104.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0105.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0106.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0107.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0108.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0109.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0110.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0111.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0112.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0113.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0114.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0115.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0116.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0117.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0118.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0119.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0120.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0121.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0122.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0123.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0124.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0125.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0126.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0127.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0128.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0129.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0130.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0131.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0132.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0133.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0134.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0135.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0136.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0137.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0138.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0139.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0140.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0141.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0142.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0143.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0144.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0145.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0146.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0147.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0148.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0149.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0150.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0151.png
+2.7M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0152.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0153.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0154.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0155.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0156.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0157.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0158.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0159.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0160.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0161.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0162.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0163.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0164.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0165.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0166.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0167.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0168.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0169.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0170.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0171.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0172.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0173.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0174.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0175.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0176.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0177.png
+2.6M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0178.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0179.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0180.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0181.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0182.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0183.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0184.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0185.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0186.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0187.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0188.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0189.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0190.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0191.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0192.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0193.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0194.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0195.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0196.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0197.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0198.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0199.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0200.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0201.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0202.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0203.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0204.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0205.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0206.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0207.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0208.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0209.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0210.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0211.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0212.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0213.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0214.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0215.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0216.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0217.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0218.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0219.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0220.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0221.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0222.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0223.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0224.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0225.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0226.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0227.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0228.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0229.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0230.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0231.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0232.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0233.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0234.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0235.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0236.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0237.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0238.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0239.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0240.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0241.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0242.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0243.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0244.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0245.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0246.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0247.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0248.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0249.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0250.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0251.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0252.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0253.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0254.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0255.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0256.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0257.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0258.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0259.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0260.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0261.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0262.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0263.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0264.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0265.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0266.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0267.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0268.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0269.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0270.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0271.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0272.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0273.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0274.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0275.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0276.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0277.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0278.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0279.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0280.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0281.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0282.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0283.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0284.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0285.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0286.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0287.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0288.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0289.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0290.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0291.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0292.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0293.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0294.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0295.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0296.png
+2.5M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0297.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0298.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0299.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0300.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0301.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0302.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0303.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0304.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0305.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0306.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0307.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0308.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0309.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0310.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0311.png
+2.4M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0312.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0313.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0314.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0315.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0316.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0317.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0318.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0319.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0320.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0321.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0322.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0323.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0324.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0325.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0326.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0327.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0328.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0329.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0330.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0331.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0332.png
+2.1M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0333.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0334.png
+2.1M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0335.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0336.png
+2.1M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0337.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0338.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0339.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0340.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0341.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0342.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0343.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0344.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0345.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0346.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0347.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0348.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0349.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0350.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0351.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0352.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0353.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0354.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0355.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0356.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0357.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0358.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0359.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0360.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0361.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0362.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0363.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0364.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0365.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0366.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0367.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0368.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0369.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0370.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0371.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0372.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0373.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0374.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0375.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0376.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0377.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0378.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0379.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0380.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0381.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0382.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0383.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0384.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0385.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0386.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0387.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0388.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0389.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0390.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0391.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0392.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0393.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0394.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0395.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0396.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0397.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0398.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0399.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0400.png
+2.2M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0401.png
+2.3M	./OTSB/upscayl_input/running22zoom_line6/upscayl_png_remacri-4x_2x/frame_0402.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0001.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0002.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0003.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0004.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0005.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0006.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0007.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0008.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0009.png
+3.5M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0010.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0011.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0012.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0013.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0014.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0015.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0016.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0017.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0018.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0019.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0020.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0021.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0022.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0023.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0024.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0025.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0026.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0027.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0028.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0029.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0030.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0031.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0032.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0033.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0034.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0035.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0036.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0037.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0038.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0039.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0040.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0041.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0042.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0043.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0044.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0045.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0046.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0047.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0048.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0049.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0050.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0051.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0052.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0053.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0054.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0055.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0056.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0057.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0058.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0059.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0060.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0061.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0062.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0063.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0064.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0065.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0066.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0067.png
+4.2M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0068.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0069.png
+4.2M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0070.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0071.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0072.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0073.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0074.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0075.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0076.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0077.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0078.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0079.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0080.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0081.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0082.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0083.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0084.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0085.png
+4.1M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0086.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0087.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0088.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0089.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0090.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0091.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0092.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0093.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0094.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0095.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0096.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0097.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0098.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0099.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0100.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0101.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0102.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0103.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0104.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0105.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0106.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0107.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0108.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0109.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0110.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0111.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0112.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0113.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0114.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0115.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0116.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0117.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0118.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0119.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0120.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0121.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0122.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0123.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0124.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0125.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0126.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0127.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0128.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0129.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0130.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0131.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0132.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0133.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0134.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0135.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0136.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0137.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0138.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0139.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0140.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0141.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0142.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0143.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0144.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0145.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0146.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0147.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0148.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0149.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0150.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0151.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0152.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0153.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0154.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0155.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0156.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0157.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0158.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0159.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0160.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0161.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0162.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0163.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0164.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0165.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0166.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0167.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0168.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0169.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0170.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0171.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0172.png
+4.0M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0173.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0174.png
+3.9M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0175.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0176.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0177.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0178.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0179.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0180.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0181.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0182.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0183.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0184.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0185.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0186.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0187.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0188.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0189.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0190.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0191.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0192.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0193.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0194.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0195.png
+3.6M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0196.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0197.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0198.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0199.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0200.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0201.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0202.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0203.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0204.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0205.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0206.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0207.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0208.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0209.png
+3.7M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0210.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0211.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0212.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0213.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0214.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0215.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0216.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0217.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0218.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0219.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0220.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0221.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0222.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0223.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0224.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0225.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0226.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0227.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0228.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0229.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0230.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0231.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0232.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0233.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0234.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0235.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0236.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0237.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0238.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0239.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0240.png
+3.8M	./OTSB/upscayl_input/streetsign3_line30/upscayl_png_remacri-4x_2x/frame_0241.png
+1.1M	./OTSB/videoframe_20425.png
+4.2M	./OTSB/videoframe_20425_upscale.png
+1.6M	./OTSB/videoframe_38.png
+1.5M	./OTSB/videoframe_5937.png
+1.5M	./OTSB/videoframe_6529.png
+1.0M	./OTSB/videoframe_7935.png
+1.6M	./OTSB/videoframe_8820.png
+ 20M	./OTSB/wankhede.png
+ 22M	./OTSB/wedding.png
+1.4M	./Vismarinchako/51.mp4
+1.7M	./Vismarinchako/52.mp4
+4.7M	./Vismarinchako/Flowers_Garland_Video_Generated.mp4
+1.9M	./Vismarinchako/Gemini_Generated_Image_4af7yf4af7yf4af7.png
+2.0M	./Vismarinchako/Gemini_Generated_Image_5v8pk65v8pk65v8p (1).png
+2.0M	./Vismarinchako/Gemini_Generated_Image_5v8pk65v8pk65v8p.png
+1.9M	./Vismarinchako/Gemini_Generated_Image_8m2siz8m2siz8m2s.png
+2.0M	./Vismarinchako/Gemini_Generated_Image_8wotxn8wotxn8wot.png
+1.9M	./Vismarinchako/Gemini_Generated_Image_9zqu2d9zqu2d9zqu.png
+1.9M	./Vismarinchako/Gemini_Generated_Image_dok0jxdok0jxdok0.png
+1.6M	./Vismarinchako/Gemini_Generated_Image_f0bao9f0bao9f0ba (1).png
+1.6M	./Vismarinchako/Gemini_Generated_Image_f0bao9f0bao9f0ba.png
+1.8M	./Vismarinchako/Gemini_Generated_Image_gl9tingl9tingl9t.png
+1.9M	./Vismarinchako/Gemini_Generated_Image_o99efoo99efoo99e.png
+2.1M	./Vismarinchako/Gemini_Generated_Image_olmlroolmlroolml.png
+1.9M	./Vismarinchako/Gemini_Generated_Image_sl21hqsl21hqsl21.png
+2.9M	./Vismarinchako/Girl_Plays_in_Flower_Garden_Video (1).mp4
+2.9M	./Vismarinchako/Girl_Plays_in_Flower_Garden_Video.mp4
+2.2M	./Vismarinchako/Video_Generation_After_Apology.mp4
+3.4M	./Vismarinchako/flowergirl.mp4
+1.9M	./Vismarinchako/garland.png
+1.2M	./Vismarinchako/grok-video-433c74e2-edc7-4f9a-bf1e-b51cbf5e9771 (1).mp4
+1.2M	./Vismarinchako/grok-video-433c74e2-edc7-4f9a-bf1e-b51cbf5e9771 (3).mp4
+1.4M	./Vismarinchako/grok-video-433c74e2-edc7-4f9a-bf1e-b51cbf5e9771 (4).mp4
+1.8M	./Vismarinchako/grok-video-433c74e2-edc7-4f9a-bf1e-b51cbf5e9771 (5).mp4
+1.5M	./Vismarinchako/grok-video-433c74e2-edc7-4f9a-bf1e-b51cbf5e9771 (6).mp4
+1.3M	./Vismarinchako/grok-video-433c74e2-edc7-4f9a-bf1e-b51cbf5e9771.mp4
+1.8M	./Vismarinchako/grok-video-61811bb4-5054-405f-b252-c185859317e2 (1).mp4
+3.1M	./Vismarinchako/grok-video-61811bb4-5054-405f-b252-c185859317e2.mp4
+1.6M	./Vismarinchako/grok-video-bd5a496d-1bb9-41ac-ad98-2be88a500229 (1).mp4
+1.6M	./Vismarinchako/grok-video-bd5a496d-1bb9-41ac-ad98-2be88a500229.mp4
+3.8M	./Vismarinchako/vismarinchako.mp3
+ 37M	./Vismarinchako/vismarinchako_stitched.mp4
+ 32M	./Vismarinchako/vismarinchako_video.mp4
+3.8M	./Vismarinchako/విస్మరించకో..స్వామీ...యవ్వన గవాక్షమున .mp3
+6.5M	./bagunnava/bagunnavaa duet.mp3
+5.0M	./chentacheri/chentacheri.mp3
+ 23M	./chentacheri/chentacheri.mp4
+263M	./chentacheri/chentacherivideo.mp4
+ 16M	./chentacheri/v1.mp4
+2.3M	./chentacheri/v2.mp4
+4.0M	./chentacheri/v3.mp4
+4.8M	./chentacheri/కళ్ళు తెరిచి చూస్తా నీ అందం...mp3
+2.3M	./grok-video-56a53e39-0bf4-4963-ae2d-bc3d8e487b30.mp4
+6.0M	./matalakandani/matalakandani.mp3
+8.6M	./matalakandani/matalakandani_01.mp4
+8.3M	./matalakandani/matalakandani_02.mp4
+8.6M	./matalakandani/matalakandani_03.mp4
+2.6M	./matalakandani/matalakandani_04.mp4
+2.7M	./matalakandani/matalakandani_05.mp4
+2.8M	./matalakandani/matalakandani_06.mp4
+4.9M	./matalakandani/matalakandani_07.mp4
+2.6M	./matalakandani/matalakandani_08.mp4
+2.4M	./matalakandani/matalakandani_09.mp4
+3.0M	./matalakandani/matalakandani_10.mp4
+3.5M	./matalakandani/matalakandani_10x09.mp4
+3.3M	./matalakandani/matalakandani_11.mp4
+2.6M	./matalakandani/matalakandani_12.mp4
+1.3M	./matalakandani/matalakandani_16.png
+2.7M	./matalakandani/matalakandani_17.mp4
+2.4M	./matalakandani/matalakandani_18.mp4
+2.3M	./matalakandani/matalakandani_19.mp4
+1.3M	./matalakandani/matalakandani_20.png
+2.9M	./matalakandani/matalakandani_27.mp4
+2.9M	./matalakandani/matalakandani_28.mp4
+ 16M	./matalakandani/matalakandani_29.mp4
+ 16M	./matalakandani/matalakandani_30.mp4
+2.1M	./matalakandani/matalakandani_31.mp4
+2.1M	./matalakandani/matalakandani_32.mp4
+3.5M	./matalakandani/matalakandani_33.mp4
+4.0M	./matalakandani/matalakandani_33x09.mp4
+ 63M	./matalakandani/matalakandani_video.mp4
+1.4M	./matalakandani/videoframe_7343.png
+1.5M	./matalakandani/videoframe_9862.png
+4.9M	./neepalukulu_fem/neepalukulu1.mp3
+3.5M	./neepalukulu_fem/nepalukulu.mp3
+2.9M	./neepalukulu_fem/nepalukulu_01.mp4
+1.9M	./neepalukulu_fem/nepalukulu_02.png
+2.0M	./neepalukulu_fem/nepalukulu_03.png
+1.5M	./neepalukulu_fem/nepalukulu_04.png
+4.1M	./neepalukulu_fem/nepalukulu_05.mp4
+9.8M	./neepalukulu_fem/nepalukulu_06.mp4
+5.7M	./neepalukulu_fem/nepalukulu_07.mp4
+1.9M	./neepalukulu_fem/nepalukulu_08.mp4
+2.4M	./neepalukulu_fem/nepalukulu_09.mp4
+2.9M	./neepalukulu_fem/nepalukulu_10.mp4
+2.8M	./neepalukulu_fem/nepalukulu_11.mp4
+3.1M	./neepalukulu_fem/nepalukulu_12.mp4
+3.5M	./neepalukulu_fem/nepalukulu_13.mp4
+4.2M	./neepalukulu_fem/nepalukulu_14.mp4
+2.5M	./neepalukulu_fem/nepalukulu_15.mp4
+2.6M	./neepalukulu_fem/nepalukulu_16.mp4
+1.7M	./neepalukulu_fem/nepalukulu_17.mp4
+2.1M	./neepalukulu_fem/nepalukulu_18.mp4
+1.5M	./neepalukulu_fem/nepalukulu_19.mp4
+1.2M	./neepalukulu_fem/nepalukulu_20.mp4
+1.7M	./neepalukulu_fem/nepalukulu_21.mp4
+2.2M	./neepalukulu_fem/nepalukulu_22.mp4
+1.7M	./neepalukulu_fem/nepalukulu_23.png
+ 46M	./neepalukulu_fem/nepalukulu_video.mp4
+1.9M	./neepalukulu_fem/swapnalokapu.png
+1.4M	./neetiloki/coverpage.png
+3.4M	./neetiloki/extendaudio.mp3
+3.0M	./neetiloki/final_interleave.mp3
+3.4M	./neetiloki/final_merged_remix.mp3
+4.6M	./neetiloki/fixed_interleave.mp3
+4.6M	./neetiloki/interleaved_master.mp3
+9.5M	./neetiloki/master_comparison.mp3
+3.4M	./neetiloki/merged_comparison.mp3
+3.4M	./neetiloki/neetiloki.mp3
+ 11M	./neetiloki/neetiloki00.mp4
+ 12M	./neetiloki/neetiloki001.mp4
+5.3M	./neetiloki/neetiloki07.mp4
+4.8M	./neetiloki/neetiloki1.mp3
+4.2M	./neetiloki/neetiloki2.mp3
+1.7M	./neetiloki/neetiloki_01-00.00.08.469.png
+ 14M	./neetiloki/neetiloki_01.mp4
+4.7M	./neetiloki/neetiloki_01A.mp4
+8.1M	./neetiloki/neetiloki_01B.mp4
+ 11M	./neetiloki/neetiloki_01C.mp4
+ 11M	./neetiloki/neetiloki_02.mp4
+9.7M	./neetiloki/neetiloki_03.mp4
+ 15M	./neetiloki/neetiloki_03A.mp4
+7.2M	./neetiloki/neetiloki_05.mp4
+6.0M	./neetiloki/neetiloki_05A.mp4
+1.3M	./neetiloki/neetiloki_05A.png
+7.5M	./neetiloki/neetiloki_06.mp4
+7.0M	./neetiloki/neetiloki_06A.mp4
+4.3M	./neetiloki/neetiloki_07.mp4
+4.5M	./neetiloki/neetiloki_07A.mp4
+4.2M	./neetiloki/neetiloki_07B.mp4
+6.3M	./neetiloki/neetiloki_08.mp4
+3.1M	./neetiloki/neetiloki_08B.mp4
+9.5M	./neetiloki/neetiloki_11A.mp4
+9.0M	./neetiloki/neetiloki_11B.mp4
+1.6M	./neetiloki/neetiloki_11B.png
+9.5M	./neetiloki/neetiloki_11C.mp4
+1.5M	./neetiloki/neetiloki_11C.png
+3.7M	./neetiloki/neetiloki_12A.mp4
+6.3M	./neetiloki/neetiloki_12B.mp4
+6.6M	./neetiloki/neetiloki_13C.mp4
+1.6M	./neetiloki/neetiloki_7335.png
+1.5M	./neetiloki/neetiloki_9072.png
+1.8M	./neetiloki/neetiloki_956.png
+1.2M	./neetiloki/neetiloki_video-01.png
+ 68M	./neetiloki/neetiloki_video.mp4
+4.6M	./neetiloki/smart_interleave_final.mp3
+4.6M	./theerana/theerana_nanuchusi.mp3
+1.8M	./theerana/theerana_nanuchusi.mp4
+ 85M	./theerana/theerana_nanuchusivideo.mp4
+5.2M	./vrastundu/otsb_extend.mp3
+2.0M	./vrastundu/vellosta_extend.mp3
+1.5M	./vrastundu/videoframe_4313.png
+1.4M	./vrastundu/videoframe_4611.png
+2.6M	./vrastundu/vrastundu.mp3
+2.9M	./vrastundu/vrastundu04A.mp4
+1.8M	./vrastundu/vrastundu04A_zoom.mp4
+1.9M	./vrastundu/vrastundu04B.mp4
+1.3M	./vrastundu/vrastundu04B_zoom.mp4
+2.9M	./vrastundu/vrastundu04C.mp4
+1.8M	./vrastundu/vrastundu04C_zoom.mp4
+3.5M	./vrastundu/vrastundu04D.mp4
+2.0M	./vrastundu/vrastundu04D_zoom.mp4
+8.1M	./vrastundu/vrastundu_00.png
+8.4M	./vrastundu/vrastundu_001.png
+5.9M	./vrastundu/vrastundu_001_crop.png
+6.1M	./vrastundu/vrastundu_00_zoom.png
+2.5M	./vrastundu/vrastundu_01.mp4
+5.4M	./vrastundu/vrastundu_01.png
+1.4M	./vrastundu/vrastundu_01_zoom.mp4
+5.3M	./vrastundu/vrastundu_01_zoom.png
+1.2M	./vrastundu/vrastundu_03A_zoom.png
+1.7M	./vrastundu/vrastundu_03B.mp4
+1.1M	./vrastundu/vrastundu_03B_zoom.mp4
+1.1M	./vrastundu/vrastundu_03B_zoom.png
+1.8M	./vrastundu/vrastundu_05A.mp4
+1.2M	./vrastundu/vrastundu_05A_169_crop.mp4
+1.7M	./vrastundu/vrastundu_05A_169_pad.mp4
+1.0M	./vrastundu/vrastundu_05A_zoom.mp4
+1.5M	./vrastundu/vrastundu_05B.mp4
+1.2M	./vrastundu/vrastundu_06.mp4
+1.2M	./vrastundu/vrastundu_06_169_pad_x0_y0.mp4
+1.3M	./vrastundu/vrastundu_07.mp4
+1.9M	./vrastundu/vrastundu_08.mp4
+1.1M	./vrastundu/vrastundu_08_169_crop_x0_y100.mp4
+2.6M	./vrastundu/vrastundu_09.mp4
+5.4M	./vrastundu/vrastundu_09.png
+5.3M	./vrastundu/vrastundu_09_zoom.png
+1.2M	./vrastundu/vrastundu_09_zoom0.mp4
+1.4M	./vrastundu/vrastundu_09_zoom1.mp4
+1.7M	./vrastundu/vrastundu_09_zoom2.mp4
+1.7M	./vrastundu/vrastundu_09_zoom3.mp4
+4.4M	./vrastundu/vrastundu_10.mp4
+8.6M	./vrastundu/vrastundu_11.png
+6.0M	./vrastundu/vrastundu_11_zoom.png
+2.2M	./vrastundu/vrastundu_original.mp3
+ 27M	./vrastundu/vrastundu_video.mp4
+1.9M	./vrastundu/vrastunduv1.mp3
+2.3M	./wayside/1bouquet.mp4
+2.1M	./wayside/21drive.mp4
+2.2M	./wayside/22drive.mp4
+1.8M	./wayside/2handing.mp4
+2.4M	./wayside/3ladyonman.mp4
+3.2M	./wayside/4manonlady.mp4
+2.8M	./wayside/5flowerandkiss.mp4
+3.3M	./wayside/Wayside.mp3
+3.2M	./wayside/Wayside.mp4
+3.0M	./wayside/Wayside2x.mp4
+ 69M	./wayside/Waysidevideo.mp4
+3.3M	./wayside/waysideflowers.mp3
+ 23M	./wayside/waysideflowers.mp4
+106M	./wayside/waysideflowersvideo.mp4
+
+
+===== FILE: ./theerana/theerana_nanuchusi.txt =====
+
+తీరాన నను చూసి ఉప్పొంగి వచ్చేవు
+కన్నుళ్ళు మూయించి కలలే నేర్పేవు
+<--->
+కథలన్ని కలనేసి హారాలు తెచ్చేవు
+మెడలోన వేసి, మురిపాలు పోసి, మైమరచి చూసేవు
+<--->
+పగడాలు, ముత్యాలు చిరునవ్వు రతనాలు
+నా కంటి మెరుపు నీ దారి వెలుగు
+<--->
+నిత్యము, సత్యము మన ప్రేమ ధన్యము
+మౌనాన నా గొంతు మమకారమయ్యావు
+<--->
+ప్రాణాన ప్రాణమై ప్రతిధ్వనించావు
+ఎదలోన పొదిగి ప్రతిరూపమయ్యావు
+<--->
+జతగా నిలిచి, కథగా మారి, కలకాలం ఉంటావు
+శిశిరాలు, శరత్తులు నీ తోడు వసంతాలు
+<--->
+నా దారి వెలుగు నీ అడుగు గెలుపు
+స్వప్నము, సిద్ధము మన బంధం అమరము

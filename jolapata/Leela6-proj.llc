@@ -1,0 +1,10 @@
+{
+  version: 1,
+  mediaFileName: 'Leela6.mp4',
+  cutSegments: [
+    {
+      start: 0.17291666666666666,
+      name: '',
+    },
+  ],
+}

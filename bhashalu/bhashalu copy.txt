@@ -1,0 +1,83 @@
+flamingos.mp4 00:00:00 0:00:01.5
+krishnajinka3.mp4 00:00:00 0:00:01.5
+flamingos.mp4 00:00:03.5 00:00:07
+krishnajinka3.mp4 00:00:01.5 00:00:07
+flamingolanding.mp4 00:00:07
+krishnajinka3.mp4 00:00:07 00:00:20 "Krishna Jinka (State Animal)"
+bhashalu3.mp4 00:00:02 00:00:09
+bhashalu6.mp4 00:00:09
+momandkids.mp4
+telugutalli.mp4 00:00:00 00:00:02 "Telugu Talli"
+lepakshi.mp4 00:00:02 00:00:04 "Lepaakshi"
+husseinsagar.mp4 00:00:02 00:00:04
+telugu3.mp4
+boats2.mp4 00:00:00 00:00:03
+tamil6.mp4 00:00:01 00:00:05
+tamil2.mp4 00:00:00 00:00:02
+tamil3.mp4 00:00:00 00:00:02
+tamil4.mp4 00:00:00 00:00:02
+tamil5.mp4 00:00:00 00:00:02.5
+hindi3.mp4 00:00:00 00:00:08
+10poets.mp4 00:00:06 00:00:09
+
+ashoka.mp4 00:00:04 00:00:10
+sanskrit.mp4 00:00:02 00:00:04
+sakuntala2.mp4 00:00:01 00:00:06 "Abhignana Sakuntalam"
+
+krishnajinka4.mp4
+boats4.mp4 00:00:02 00:00:05
+chenab.mp4 00:00:00 00:00:03 "Chenab Bridge"
+bhu.mp4 00:00:04 00:00:08
+nalanda.mp4 00:00:04 00:00:08 "Nalanda"
+du.mp4 00:00:04
+./art/iitd04.jpg 4
+
+odisha.mp4 00:00:02 00:00:04
+punjabi.mp4 00:00:02 00:00:05.5
+assam.mp4 00:00:02 00:00:04
+rajasthani2.mp4 00:00:02 00:00:06
+sahyadri3.mp4 00:00:02 00:00:07
+shivaji3.mp4 00:00:02 00:00:08
+
+taj.mp4 00:00:00 00:00:04
+charminar.mp4 00:00:02 00:00:05
+lucknow.mp4 00:00:04
+
+diamonds.mp4 00:00:02 00:00:03.75
+patel.mp4 00:00:02 00:00:03.875
+sarabhai.mp4 00:00:02 00:00:04.9
+gandhi.mp4 00:00:01 00:00:04 "Sabarmathi Ashram"
+sabarmathi.mp4 00:00:02 00:00:04.7
+
+dancers.mp4 00:00:02 00:00:05
+blackbuck3.mp4 00:00:05 00:00:09.5
+redfort2.mp4 00:00:02 00:00:05.5
+
+tagore.mp4 00:00:02 00:00:04.5
+viswabharathi.mp4 00:00:02 00:00:06
+geetanjali.mp4 00:00:00 00:00:06
+janaganamana2.mp4 00:00:00 00:00:06
+howrah.mp4 00:00:02 00:00:04
+kalitemple.mp4 00:00:02 00:00:06
+twodeers.mp4 00:00:08 00:00:10
+
+houseboat.mp4 00:00:02 00:00:05.5
+kathakali.mp4 00:00:01.5 00:00:06
+pooram.mp4 00:00:01 00:00:03
+boatrace.mp4 00:00:02 00:00:04
+
+damayanthi1.mp4
+mysorepalace2.mp4 00:00:02 00:00:04
+yakshini2.mp4
+
+languages.mp4 00:00:05
+
+bhavaparimalamu2.mp4 00:00:00 00:00:08
+bhavaparimalamu2.mp4 00:00:20 00:00:30
+bhavaparimalamu2.mp4 00:00:08 00:00:10
+bhavaparimalamu3.mp4 00:00:00 00:00:10
+deerscharging.mp4 00:00:14 00:00:18
+elephants.mp4 00:00:02 00:00:04
+deersgrazing.mp4 00:00:13 00:00:17
+bhavaparimalamu1.mp4 00:00:02 00:00:10
+./lyrics/slides/bhashalu_18.png 10

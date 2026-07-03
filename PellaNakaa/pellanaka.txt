@@ -1,0 +1,41 @@
+pella_1x.mp4 00:00:03 HOLD 2.0
+pella_1x.mp4 00:00:00 00:00:10.25
+pella_1x.mp4 00:00:10.14 HOLD 4.0
+pella_4.mp4
+pella_5E.mp4
+
+pella_4.mp4 00:00:10 00:00:21
+
+pella_6x.mp4
+pella_4.mp4 00:00:10 00:00:21
+pella_7.mp4
+pella_8x.mp4
+pella_4.mp4 00:00:10 00:00:20
+pella_9.mp4
+pella_10x.mp4
+pella_4.mp4 00:00:00 00:00:14
+pella_11.mp4
+pella_12.mp4
+pella_4.mp4 00:00:15 00:00:26
+pella_13.mp4
+pella_14x.mp4
+pella_4.mp4 00:00:15 00:00:26
+weddingcard.webp 3.0
+pella_16.mp4
+pella_15.mp4
+pella_17.mp4
+pella_20.mp4
+pella_22.mp4 00:00:10 00:00:20
+pella_22.mp4 00:00:10 00:00:20
+pellanaka_01.jpg 1.0
+pellanaka_02.png  1.0
+pellanaka_03.jpg  1.0
+pellanaka_04.jpg  1.0
+pellanaka_05.jpg 1.0
+pellanaka_06.jpg 1.0
+pellanaka_07.jpg 1.0
+pellanaka_08.jpg 1.0
+pellanaka_09.jpg 1.0
+pellanaka_10.jpg 1.0
+pellanaka_11.jpg 1.0
+pellanaka_12.jpg 1.0

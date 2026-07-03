@@ -18,3 +18,27 @@
 .venv/
 venv/
 **/backup/
+
+# Large downloadable artifacts — keep out of git (see ARTIFACTS.md)
+VoiceModels/
+**/*.zip
+**/*.pth
+**/*.index
+
+# Other bulky media (mp3 stays tracked as final output)
+**/*.aiff
+**/*.ogg
+**/*.m4a
+**/*.mkv
+**/*.pdf
+
+# Editor/tool caches and backups
+**/CacheClip/
+**/*.pfl
+**/*.bak
+**/*.bak2
+__pycache__/
+**/*.pyc
+
+# Saved web pages
+**/*_files/

@@ -1,0 +1,87 @@
+chayachitram_001_aiwm.mp4 00:00:00 00:00:14.87
+chayachitram_001_aiwm.mp4 00:00:14.87 HOLD 9.75
+chayachitram_005_aiwm.mp4 00:00:00 00:00:00.61
+chayachitram_005_aiwm.mp4 00:00:00.61 HOLD 0.3
+chayachitram_005_aiwm.mp4 00:00:00.61 00:00:09.7
+<--34.62 -->
+chayachitram_030_aiwm.mp4 00:00:00 00:00:02.59
+chayachitram_030_aiwm.mp4 00:00:02.59 HOLD 0.3
+<--37.51 -->
+chayachitram_030_aiwm.mp4 00:00:02.59 00:00:08.6
+chayachitram_030_aiwm.mp4 00:00:8.6 HOLD 0.3
+chayachitram_030_aiwm.mp4 00:00:08.6 00:00:09.4
+<--44.62 -->
+chayachitram_031_aiwm.mp4 00:00:00 00:00:09.70
+chayachitram_031_aiwm.mp4 00:00:09.70 HOLD 0.3
+
+
+chayachitram_033_aiwm.mp4 00:00:03.5 00:00:06.1
+chayachitram_033_aiwm.mp4 00:00:08.5
+chayachitram_034_aiwm.mp4 00:00:06.5 00:00:09.7
+chayachitram_034_aiwm.mp4 00:00:09.70 HOLD 0.3
+
+chayachitram_006_aiwm.mp4 00:00:17 00:00:19
+chayachitram_006_aiwm.mp4 00:00:19 HOLD 0.3
+chayachitram_006_aiwm.mp4 00:00:19 00:00:27.7
+
+chayachitram_007_aiwm.mp4 00:00:24.75 00:00:27.6
+chayachitram_007_aiwm.mp4 00:00:27.6 HOLD 0.3
+
+chayachitram_001_aiwm.mp4 00:00:04.75
+chayachitram_010_aiwm.mp4 00:00:00 00:00:10
+chayachitram_010_aiwm.mp4 00:00:14
+
+interludex.png 10
+chayachitram_054_aiwm.mp4 00:00:19.5 00:00:29
+chayachitram_054_aiwm.mp4 00:00:29.0 HOLD 1.0
+chayachitram_054_aiwm.mp4 00:00:28.75
+chayachitram_011_aiwm.mp4
+chayachitram_008x_aiwm.mp4 00:00:02 00:00:08
+chayachitram_036_aiwm.mp4 00:00:23
+
+chayachitram_016_aiwm.mp4 00:00:06 00:00:09.4
+chayachitram_016_aiwm.mp4 00:00:09.4 HOLD 0.3
+chayachitram_016_aiwm.mp4 00:00:09.4 00:00:15.7
+
+chayachitram_017_aiwm.mp4 00:00:13
+
+chayachitram_015_aiwm.mp4 00:00:00 00:00:05.7
+chayachitram_015_aiwm.mp4 00:00:05.98 HOLD 0.3
+
+chayachitram_018_aiwm.mp4 00:00:08.5
+chayachitram_019_aiwm.mp4 00:00:12 00:00:15.5
+chayachitram_019_aiwm.mp4 00:00:15.5 HOLD 0.3
+chayachitram_019_aiwm.mp4 00:00:15.5 00:00:15.7
+
+chayachitram_020_aiwm.mp4 00:00:12
+
+chayachitram_021_aiwm.mp4 00:00:00 00:00:08
+chayachitram_021_aiwm.mp4 00:00:14 00:00:18
+chayachitram_021_aiwm.mp4 00:00:18 HOLD 0.3
+chayachitram_021_aiwm.mp4 00:00:18 00:00:19.7
+
+chayachitram_023_aiwm.mp4 00:00:02 00:00:09
+chayachitram_023_aiwm.mp4 00:00:09 HOLD 0.3
+chayachitram_023_aiwm.mp4 00:00:09.3
+
+
+chayachitram_022_aiwm.mp4
+chayachitram_10x.png 20
+
+chayachitram_043_aiwm.mp4 00:00:02 00:00:11
+chayachitram_050_aiwm.mp4
+chayachitram_050_aiwm.mp4 00:00:09.95 HOLD 1
+
+chayachitram_11x.png 12
+chayachitram_038_aiwm.mp4
+chayachitram_038_aiwm.mp4 00:00:04 00:00:07
+
+
+chayachitram_12x.png 12
+chayachitram_040_aiwm.mp4
+chayachitram_040_aiwm.mp4 00:00:00.5 00:00:02.5
+chayachitram_044_aiwm.mp4 00:00:03 00:00:17
+chayachitram_047_aiwm.mp4
+chayachitram_045_aiwm.mp4
+chayachitram_001_aiwm.mp4 00:00:14.87 HOLD 9.75
+chayachitram_001_aiwm.mp4 00:00:14.87

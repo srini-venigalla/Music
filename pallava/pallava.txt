@@ -1,0 +1,36 @@
+start_card.png 2.0
+pallava_1.mp4 00:00:02 00:00:08
+pallava_002.mp4
+pallava_003.mp4
+
+pallava_005B1.mp4
+pallava_004_shift.mp4 00:00:00 00:00:08
+pallava_0027.mp4 00:00:15 00:00:20
+pallava_0021.mp4 00:00:02.5
+pallava_005.mp4 00:00:01.75 00:00:09
+pallava_006upscale.mp4 00:00:00 00:00:20
+pallava_007.mp4 00:00:02 00:00:08
+pallava_008.mp4 00:00:18 00:00:20
+pallava_008.mp4 00:00:12 00:00:18.5
+pallava_009.mp4 00:00:02 00:00:04.5
+pallava_009.mp4 00:00:16
+pallava_0010.mp4 00:00:04
+pallava_008.mp4 00:00:00 00:00:08
+pallava_0011.mp4 00:00:13 00:00:20
+pallava_0011.mp4 00:00:00 00:00:08
+pallava_0012.mp4
+pallava_0013.mp4 00:00:08 00:00:17
+pallava_0014.mp4 00:00:10
+
+pallava_0023.mp4 00:00:14 00:00:18
+pallava_0015.mp4 00:00:15 00:00:20
+
+pallava_0024.mp4 00:00:04 00:00:08
+pallava_0025.mp4 00:00:06 00:00:10
+
+pallava_0017.mp4 00:00:04 00:00:08
+pallava_0018.mp4 00:00:01 00:00:05
+pallava_0026.mp4 00:00:04 00:00:06
+
+pallava_0018A.mp4
+pallava_0019.mp4

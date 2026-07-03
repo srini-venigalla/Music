@@ -1,0 +1,26 @@
+andagada_10_ai.mp4 00:00:00 00:00:06.5
+andagada_10_ai.mp4 00:00:06.5 HOLD 1
+andagada_10_ai.mp4 00:00:06.5
+call_001_ai.mp4
+call_001A_ai.mp4
+call_001_ai.mp4
+Andagada_resp01_ai2.mp4
+
+andagada_11_ai.mp4 00:00:00
+andagada_07_ai.mp4 00:00:00 00:00:04
+Andagada_resp02_ai.mp4
+response_001_ai.mp4
+andagada_14_ai.mp4 00:00:00 00:00:03
+andagada_15_ai.mp4 00:00:05 00:00:09
+andagada_02_ai.mp4
+andagada_13_ai.mp4
+Andagada_resp03_ai.mp4 00:00:00 00:00:10
+
+andagada_04_ai.mp4
+andagada_04_ai.mp4 00:00:10 HOLD 0.5
+Andagada_resp04_ai.mp4
+
+andagada_05_ai.mp4
+andagada_06_ai.mp4
+andagada_09_ai.mp4
+andagada_08_ai.mp4

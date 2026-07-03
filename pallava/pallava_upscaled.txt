@@ -1,0 +1,28 @@
+start_card.png 2.0
+pallava_1cupscale.mp4 00:00:02 00:00:06.5
+pallava_002cupscale.mp4
+pallava_003cupscale.mp4
+pallava_005B1cupscale.mp4
+pallava_004_shift.mp4
+pallava_0021cupscale.mp4
+pallava_005.mp4
+--64.5 do not change
+pallava_006upscale.mp4 00:00:00 00:00:18
+pallava_007cupscale.mp4 00:00:02 00:00:08
+pallava_008cupscale.mp4 00:00:10 00:00:18
+pallava_009cupscale.mp4 00:00:14
+--make above faster
+pallava_0010cupscale.mp4 00:00:02
+--make above faster
+pallava_008cupscale.mp4 00:00:00 00:00:08
+pallava_0011cupscale.mp4 00:00:00 00:00:08
+pallava_0011cupscale.mp4 00:00:12 00:00:20
+pallava_0012cupscale.mp4
+pallava_0013cupscale.mp4 00:00:08 00:00:17
+pallava_0014cupscale.mp4 00:00:14
+pallava_0015cupscale.mp4 00:00:10
+pallava_0016cupscale.mp4
+pallava_0017cupscale.mp4 00:00:04 00:00:08
+pallava_0018cupscale.mp4 00:00:01 00:00:05
+pallava_0018Acupscale.mp4
+pallava_0019cupscale.mp4

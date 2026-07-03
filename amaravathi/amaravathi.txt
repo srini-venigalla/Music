@@ -1,0 +1,30 @@
+amaravathi_01.png 20
+amaravathi_02.png 18
+--38
+amaravathi_03.png 7
+--45
+amaravathi_04.png 5
+--50
+amaravathi_05.png 23
+--1.13
+amaravathi_06.png 12
+--1.25
+amaravathi_07.png 6
+--1.31
+amaravathi_08.png 6
+--1.37
+amaravathi_09.png 5
+--1.42
+amaravathi_10.png 11
+--1.53
+amaravathi_11.png 37
+--2.30
+amaravathi_12.png 10
+--2.40
+amaravathi_13.png 6
+--2.46
+amaravathi_14.png 7
+--2.53
+amaravathi_15.png 5
+--2.58
+amaravathi_16.png 20

@@ -4,14 +4,17 @@
 gateway_upscayl.png 1.0
 --interlude.png 16.0
 scene1.mp4 00:00:00 00:00:02
-scene1.mp4 00:00:06 00:00:08
-scene1.mp4 00:00:10 00:00:12
-scene1.mp4 00:00:18 00:00:28
-balloons.mp4
-balloons1.mp4 00:00:05 00:00:10
-chimera_balloons.mp4 00:00:00 00:00:05
-otsb_ladies.mp4 00:00:09 00:00:16
+--scene1.mp4 00:00:06 00:00:08
+scene1.mp4 00:00:08 00:00:12
+scene1.mp4 00:00:17 00:00:29
+
+balloons.mp4 00:00:02 00:00:06
+balloons1.mp4 00:00:04 00:00:07
+chimera_balloons.mp4 00:00:00 00:00:04.8
+wedding.mp4 00:00:00 00:00:04
+otsb_ladies.mp4 00:00:09 00:00:15
 suluvu3.mp4 00:00:02
+
 otsb_5A.mp4 00:00:02 00:00:07
 otsb_5B_169_zoom.mp4 00:00:02 00:00:09
 otsb_5C.mp4 00:00:02 00:00:07
